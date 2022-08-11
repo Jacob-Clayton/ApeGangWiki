@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Ape Gang?](README.md)
+* [Ape Gang Wiki](README.md)
 
 ## NFT Collections
 
