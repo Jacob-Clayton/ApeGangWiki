@@ -14,7 +14,8 @@ description: A four strong worldwide team supports the two founders
 
 ## Pokermonface
 
-* Wealth of knowledge in managing social media account and increasing reach
+* Social media expert
+* Experience working with multiple NFT projects
 * From Germany
 * Twitter: [Pokermonface](https://twitter.com/pokermonfacenft)
 * Discord: [PokermonFace#6124](https://discord.com/users/PokermonFace#6124)
