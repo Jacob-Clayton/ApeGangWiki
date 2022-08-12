@@ -69,3 +69,7 @@ description: Notable moments through Ape Gang's history
 #### July
 
 4th - 1v1 Fight Club launched. Battle with your apes and earn $GANG (weekly leagues)
+
+#### August
+
+11th - Fight Club update, marketplace, inventory and off-chain $GANGANITE added

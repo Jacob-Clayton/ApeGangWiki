@@ -10,7 +10,7 @@ Noticing the growing trend of NFTs in early 2021 and taking advantage of Jokong'
 
 ![Jokong and Rikong - revealing their identity for the first time at NFC Lisbon 2022](<../.gitbook/assets/-taj66u - Copy.jpg>)
 
-Initially a profile-picture project, they were pushed by the community for more. Ape Gang scaled up and went from a two-person project to a nearly ten-person team with employees worldwide, from Dubai and Singapore to London and Bremen.
+Initially a profile-picture project, but they had a vision for much more. Ape Gang scaled up and went from a two-person project to a nearly ten-person team with employees worldwide, from Dubai and Singapore to London and Bremen.
 
 ![Jokong giving an interview at NFC Lisbon 2022](<../.gitbook/assets/FRXTpQZXIAAwhqs (1).jpg>)
 

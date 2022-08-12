@@ -4,7 +4,7 @@ description: Minted April 16th 2022
 
 # Jaguar Gang
 
-## Jaguar Gang is a NFT collection with built-in breeding and fusing
+## An NFT collection with built-in breeding and fusing
 
 Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract.&#x20;
 
