@@ -40,7 +40,7 @@ Toucans stats are based on their plumage and their combination of traits. As a g
 * Clothes boost critical damage
 * Eyes **** reduce the **** chance of failure because of increased vision
 
-![Get to know your Toucan's strengths](../.gitbook/assets/1\_cunNsbW8frcF44j4WbCawQ.png)
+![Get to know your Toucan's strengths](../.gitbook/assets/eachtraitcounts.png)
 
 ## How do Toucan stats boost Ape stats? <a href="#34e7" id="34e7"></a>
 
