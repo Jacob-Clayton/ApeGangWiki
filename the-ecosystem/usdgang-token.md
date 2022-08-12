@@ -1,5 +1,5 @@
 ---
-description: An on-chain token yielded daily by Apes, and is tradable for Ethereum
+description: Our on-chain token yielded daily by Apes, and is tradable for Ethereum
 ---
 
 # $GANG Token
@@ -22,6 +22,6 @@ You can buy & sell on Sushiswap [here](https://app.sushi.com/swap?inputCurrency=
 
 Once you are registered for Fight Club on the [Ape Gang website](https://apegang.art/) a new interface will be available to you. Navigate to the marketplace to buy $GANGANITE.
 
-### Can I stake my Ape?
+### Do I have to stake my Ape?
 
 No, Ape Gang does not have staking
