@@ -1,5 +1,5 @@
 ---
-description: Minted x
+description: Minted October 20th 2021
 ---
 
 # Toucan Gang

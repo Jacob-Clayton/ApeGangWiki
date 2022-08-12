@@ -5,7 +5,8 @@
 ## NFT Collections
 
 * [Ape Gang](nft-collections/ape-gang.md)
-* [Toucan Gang](nft-collections/toucan-gang.md)
+* [Toucan Gang](nft-collections/toucan-gang/README.md)
+  * [Toucan Burn](nft-collections/toucan-gang/toucan-burn.md)
 * [Jaguar Gang](nft-collections/jaguar-gang/README.md)
   * [Regular Jaguars](nft-collections/jaguar-gang/regular-jaguars.md)
   * [Legendary Jaguars](nft-collections/jaguar-gang/legendary-jaguars.md)
