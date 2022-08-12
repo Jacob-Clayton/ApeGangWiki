@@ -4,9 +4,9 @@ description: An off-chain coin used for gas-free transactions in Fight Club only
 
 # $GANGANITE Coin
 
-## Our solution to negate gas transactions on Ethereum
+## Our solution to avoid gas transactions on Ethereum
 
-Play-to-earn shouldn't be plagued with small, regular gas fees. So Ape Gang implemented $GANGANITE to avoid gas fees.
+Play-to-earn shouldn't be plagued with small, regular gas fees. So Ape Gang implemented $GANGANITE to avoid gas fees altogether.
 
 ### How can I buy and spend $GANGANITE?
 
