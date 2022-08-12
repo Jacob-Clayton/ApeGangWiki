@@ -1,8 +1,8 @@
 ---
-description: History of game updates
+description: History of Fight Club updates
 ---
 
-# Dev Log
+# Fight Club Dev Log
 
 ### Fight Club
 
@@ -25,9 +25,10 @@ description: History of game updates
 #### Season 2, Week 1
 
 * Implemented off-chain $GANGANITE coin for gas-less in-game transactions
-* Implemented Fight Club consumables (revive & extra fight potions)
+* Implemented Fight Club consumables; revive & extra fight potions
 * Implemented a Fight Club marketplace
-* More daily fights if you own more apes&#x20;
+* Implemented a Fight Club inventory
+* More daily fights if you own more apes:
   * 3 to 4 apes, 13 fights per day
   * 5 to 9 apes, 14 fights per day
   * 10 to 19 apes, 15 fights per day
