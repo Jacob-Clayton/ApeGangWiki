@@ -5,7 +5,7 @@
 ## NFT Collections
 
 * [Ape Gang](nft-collections/ape-gang.md)
-* [Toucan Gang](nft-collections/toucan-gang/README.md)
+* [Toucan Gang](nft-collections/toucan-gang.md)
   * [Toucan Burn](nft-collections/toucan-gang/toucan-burn.md)
 * [Jaguar Gang](nft-collections/jaguar-gang/README.md)
   * [Regular Jaguars](nft-collections/jaguar-gang/regular-jaguars.md)
@@ -21,10 +21,8 @@
 
 ## The Ecosystem
 
-* [$GANG Token](the-ecosystem/usdgang-token/README.md)
-  * [Earning $GANG](the-ecosystem/usdgang-token/earning-usdgang.md)
-  * [Spending $GANG](the-ecosystem/usdgang-token/spending-usdgang.md)
-  * [$GANGANITE](the-ecosystem/usdgang-token/usdganganite.md)
+* [$GANG Token](the-ecosystem/usdgang-token.md)
+* [$GANGANITE Coin](the-ecosystem/usdganganite-coin.md)
 * [Ape City 3D Metaverse](the-ecosystem/ape-city-3d-metaverse.md)
 * [Lore](the-ecosystem/lore/README.md)
   * [Chapter 1](the-ecosystem/lore/chapter-1.md)

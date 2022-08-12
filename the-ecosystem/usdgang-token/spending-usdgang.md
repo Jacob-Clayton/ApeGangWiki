@@ -1,2 +1,0 @@
-# Spending $GANG
-
