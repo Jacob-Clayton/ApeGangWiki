@@ -10,7 +10,7 @@ Before Ape Gang, Jokong and Rikong were IT students and coders from Lyon, France
 
 Noticing the growing trend of NFTs in early 2021 and taking advantage of Jokong's love for pixelized art, the co-founders started Ape Gang.&#x20;
 
-![Jokong and Rikong revealed their identity for the first time at NFC Lisbon 2022](../.gitbook/assets/-taj66u.jpg)
+![Jokong and Rikong - revealing their identity for the first time at NFC Lisbon 2022](../.gitbook/assets/-taj66u.jpg)
 
 Initially a profile-picture project, they were pushed by the community for more. Ape Gang scaled up and went from a two-person project to a nearly ten-person team with employees worldwide, from Dubai and Singapore to London and Bremen.
 
