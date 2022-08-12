@@ -14,7 +14,7 @@ We recommend using Opensea primarily, however Gem is also fantastic.
 
 [Jaguar Gang](https://opensea.io/collection/jaguar-gang)
 
-Opensea Take a 2.5% cut from sales
+_Opensea take a 2.5% cut from sales_
 
 ## Gem
 
@@ -24,7 +24,7 @@ Opensea Take a 2.5% cut from sales
 
 [Jaguar Gang](https://www.gem.xyz/collection/jaguar-gang/)
 
-Gem take a 0.5% cut from sales
+_Gem take a 0.5% cut from sales_
 
 ## X2Y2
 
@@ -34,7 +34,7 @@ Gem take a 0.5% cut from sales
 
 [Jaguar Gang](https://x2y2.io/collection/jaguar-gang/items)
 
-X2Y2 take a 0.5% cut from sales
+_X2Y2 take a 0.5% cut from sales_
 
 ## Looks Rare
 
@@ -44,7 +44,7 @@ X2Y2 take a 0.5% cut from sales
 
 [Jaguar Gang](https://looksrare.org/collections/0x519aFeD29129a53e2894cFb2e3BAFc5261fb42A2?queryID=c47dd37328c3a51c7a846490f14dcbdf)
 
-Looks Rare takes a 2% cut from sales
+_Looks Rare take a 2% cut from sales_
 
 ## Coinbase NFT
 
@@ -58,7 +58,7 @@ Looks Rare takes a 2% cut from sales
 
 [Ape Gang](https://www.binance.com/en/nft/collection/ape-gang-537913829142269953?orderBy=list\_time\&orderType=-1\&isBack=1\&id=537913829142269953\&order=list\_time%40-1)
 
-Binance NFT takes a 1% cut from sales
+_Binance NFT takes a 1% cut from sales_
 
 ## Nifty Gateway
 
