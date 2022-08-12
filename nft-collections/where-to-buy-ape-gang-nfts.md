@@ -47,3 +47,7 @@ We recommend using Opensea if you have the choice
 [Ape Gang](https://www.niftygateway.com/marketplace/collectible/0x2118fa9369b9a52fb6bf8cf3fd392643d55a53b4?filters\[onSale]=true\&sortBy=lowest)
 
 [Toucan Gang](https://www.niftygateway.com/marketplace/collectible/0xe9f3037c7e035ab4ad286ccb6ce0be60836446cf)
+
+## NFTx Vault
+
+[Ape Gang](https://nftx.io/vault/0x0e1e697e597052cdeb768159564af4bc6917dc81/buy/)
