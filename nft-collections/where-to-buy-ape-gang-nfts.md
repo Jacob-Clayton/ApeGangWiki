@@ -4,7 +4,7 @@ description: Ape Gang is on all major marketplaces
 
 # Where to buy Ape Gang NFTs
 
-We recommend using Opensea if you have the choice
+We recommend using Opensea primarily, Looks Rare is a great alternative.
 
 ## Opensea
 
