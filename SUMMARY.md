@@ -8,12 +8,12 @@
 * [Toucan Gang](nft-collections/toucan-gang.md)
 * [Jaguar Gang](nft-collections/jaguar-gang.md)
 
-## Play to Earn
+## Blockchain Games
 
-* [Fight Club](play-to-earn/fight-club.md)
-  * [Fight Club Dev Log](play-to-earn/fight-club/fight-club-dev-log.md)
-* [Gang Wars](play-to-earn/gang-wars.md)
-  * [Gang Wars Dev Log](play-to-earn/gang-wars/gang-wars-dev-log.md)
+* [Fight Club](blockchain-games/fight-club/README.md)
+  * [Fight Club Dev Log](blockchain-games/fight-club/fight-club-dev-log.md)
+* [Gang Wars](blockchain-games/gang-wars/README.md)
+  * [Gang Wars Dev Log](blockchain-games/gang-wars/gang-wars-dev-log.md)
 
 ## The Ecosystem
 
@@ -42,7 +42,4 @@
 * [Timeline](about-us/timeline.md)
 * [Founders](about-us/founders.md)
 * [Management](about-us/management.md)
-
-***
-
-* [Contracts](contracts.md)
+* [Contracts](about-us/contracts.md)
