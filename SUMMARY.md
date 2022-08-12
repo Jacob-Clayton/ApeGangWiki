@@ -13,9 +13,9 @@
 
 ## Play to Earn
 
-* [Fight Club](play-to-earn/fight-club/README.md)
+* [Fight Club](play-to-earn/fight-club.md)
   * [Fight Club Dev Log](play-to-earn/fight-club/fight-club-dev-log.md)
-* [Gang Wars](play-to-earn/gang-wars/README.md)
+* [Gang Wars](play-to-earn/gang-wars.md)
   * [Gang Wars Dev Log](play-to-earn/gang-wars/gang-wars-dev-log.md)
 
 ## The Ecosystem
@@ -25,6 +25,7 @@
   * [Spending $GANG](the-ecosystem/usdgang-token/spending-usdgang.md)
   * [$GANGANITE](the-ecosystem/usdgang-token/usdganganite.md)
 * [Ape City 3D Metaverse](the-ecosystem/ape-city-3d-metaverse.md)
+* [Lore](the-ecosystem/lore.md)
 
 ***
 
