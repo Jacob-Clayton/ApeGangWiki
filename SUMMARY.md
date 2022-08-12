@@ -7,6 +7,7 @@
 * [Ape Gang](nft-collections/ape-gang.md)
 * [Toucan Gang](nft-collections/toucan-gang.md)
 * [Jaguar Gang](nft-collections/jaguar-gang.md)
+* [Where to buy Ape Gang NFTs](nft-collections/where-to-buy-ape-gang-nfts.md)
 
 ## Blockchain Games
 
