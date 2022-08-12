@@ -14,3 +14,8 @@ All Ape Gang NFTs were algorithmically generated from 156 traits using python. T
 
 Ape Gang was founded by [Jokong and Rikong](about-us/founders.md), on May 4th 2021. They launched Ape Gang on Opensea on June 30th 2021 and sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, a record which stood for 9 months.
 
+
+
+## Our Vision
+
+enter text here

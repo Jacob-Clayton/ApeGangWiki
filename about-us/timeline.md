@@ -4,7 +4,7 @@ description: Notable moments through Ape Gang's history
 
 # Timeline
 
-### 2021
+## 2021
 
 #### May
 
@@ -36,7 +36,7 @@ description: Notable moments through Ape Gang's history
 
 18th - Gang Wars Manager Gang Wars Manager went live and apes started forming their gangs&#x20;
 
-### 2022
+## 2022
 
 #### January
 
