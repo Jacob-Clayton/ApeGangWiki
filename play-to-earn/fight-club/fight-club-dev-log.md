@@ -32,8 +32,8 @@ description: History of Fight Club updates
 * Implemented a Fight Club marketplace
 * Implemented a Fight Club inventory
 * More daily fights if you own more apes:
-  * 3 to 4 apes = 13 fights per day
-  * 5 to 9 apes = 14 fights per day
-  * 10 to 19 apes = 15 fights per day
-  * 20 to 49 apes = 16 fights per day
-  * \> 50 apes = 17 fights per day
+  * 3 to 4 apes, 13 fights per day
+  * 5 to 9 apes, 14 fights per day
+  * 10 to 19 apes, 15 fights per day
+  * 20 to 49 apes, 16 fights per day
+  * \> 50 apes, 17 fights per day

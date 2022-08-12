@@ -21,7 +21,7 @@ description: A four strong worldwide team supports the two founders
 
 ## Bulkz
 
-* Business and Finance expert
+* Business and finance expert
 * Crypto since 2017
 * From the UK
 * Twitter: [bulKZNFT](https://twitter.com/bulKZNFT)
