@@ -21,7 +21,8 @@ description: A four strong worldwide team supports the two founders
 
 ## Bulkz
 
-* NFT expert
+* Business and Finance expert
+* Crypto since 2017
 * From the UK
 * Twitter: [bulKZNFT](https://twitter.com/bulKZNFT)
 * Discord: [\[LC\] - bulKZ#2552](https://discord.com/users/\[LC]%20-%20bulKZ#2552)

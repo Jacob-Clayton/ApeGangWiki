@@ -10,16 +10,17 @@
 
 ## Blockchain Games
 
-* [Fight Club](blockchain-games/fight-club/README.md)
-  * [Fight Club Dev Log](blockchain-games/fight-club/fight-club-dev-log.md)
-* [Gang Wars](blockchain-games/gang-wars/README.md)
-  * [Gang Wars Dev Log](blockchain-games/gang-wars/gang-wars-dev-log.md)
+* [Fight Club](play-to-earn/fight-club.md)
+  * [Fight Club Dev Log](play-to-earn/fight-club/fight-club-dev-log.md)
+* [Gang Wars](play-to-earn/gang-wars.md)
+  * [Gang Wars Dev Log](play-to-earn/gang-wars/gang-wars-dev-log.md)
 
 ## The Ecosystem
 
 * [$GANG Token](the-ecosystem/usdgang-token.md)
 * [$GANGANITE Coin](the-ecosystem/usdganganite-coin.md)
 * [Ape City 3D Metaverse](the-ecosystem/ape-city-3d-metaverse.md)
+* [Utilities](the-ecosystem/utilities.md)
 * [Lore](the-ecosystem/lore/README.md)
   * [Chapter 1](the-ecosystem/lore/chapter-1.md)
   * [Chapter 2](the-ecosystem/lore/chapter-2.md)
@@ -42,4 +43,4 @@
 * [Timeline](about-us/timeline.md)
 * [Founders](about-us/founders.md)
 * [Management](about-us/management.md)
-* [Contracts](about-us/contracts.md)
+* [Contracts](contracts.md)

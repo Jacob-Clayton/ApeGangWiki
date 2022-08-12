@@ -16,15 +16,16 @@ Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coex
 ## Regular Jaguars
 
 * Given as prizes for participating in Gang Wars
-* All Jaguars started out as a Regular Jaguar, over time they are burnt to create a Legendary Jaguar
+* All Jaguars started out as a Regular Jaguar, over time they are burnt during the fusing process to create a Legendary Jaguar
+* The Regular Jaguar supply is therefore constantly decreasing and becoming more scarce
 
 ## Legendary Jaguars <a href="#8c7c" id="8c7c"></a>
 
 * Legendary Jaguar NFTs will all have rare furs as compared to the normal fur of a Jaguar NFT
-* The traits of Legendary Jaguars will be inherited through a genetics system from the original Jaguars you decide to fuse
 * Each Legendary Jaguar can only breed 4 times. Meaning that a pair of Legendary Jaguars can also only breed 4 times
 * Only Legendary Jaguars can participate in Gang Wars, this maintains their utility even after the breeding limit is reached
 * The number of Legendary Jaguars allowed per gang as well as their stat boost potential will be adjusted according to the game dynamics of respective war seasons
+* The traits of Legendary Jaguars will be inherited through a genetics system from the original Jaguars you decide to fuse, as explained below
 
 ### F**using Guide**
 

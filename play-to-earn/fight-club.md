@@ -16,11 +16,13 @@ Register for Fight Club on the [Ape Gang website](https://apegang.art/) and a ne
 
 ### Why use $GANGANITE in Fight Club?
 
-$GANGANITE allows you to make small transactions gas-free. Perfect for in-game potions where gas fees would ruin the experience.
+[$GANGANITE](../the-ecosystem/usdganganite-coin.md) allows you to make small transactions gas-free. Perfect for in-game potions where gas fees would ruin the experience.
 
 ### What are potions?
 
-Potions are in-game consumables which can be bought with $GANGANITE. Current potions are a **revive** & **extra fight** potion, costing 5 $GANGANITE each.
+Potions are in-game consumables which can be bought for 5 $GANGANITE each.&#x20;
 
-###
+Current potions include:&#x20;
 
+* Revive potion
+* Extra fight potion
