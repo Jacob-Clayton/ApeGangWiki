@@ -13,3 +13,16 @@ Noticing the growing trend of NFTs in early 2021 and taking advantage of Jokong'
 Initially a profile-picture project, they were pushed by the community for more. Ape Gang scaled up and went from a two-person project to a nearly ten-person team with employees worldwide, from Dubai and Singapore to London and Bremen.
 
 ![Jokong giving an interview at NFC Lisbon 2022](<../.gitbook/assets/FRXTpQZXIAAwhqs (1).jpg>)
+
+### Jokong&#x20;
+
+Twitter: [https://twitter.com/jokongNFT](https://twitter.com/jokongNFT?s=20\&t=RBJwPgDbxlowQrw6xUJtuA)
+
+Discord: [discordapp.com/users/jokong#9834](https://discord.com/users/jokong#9834)
+
+### Rikong
+
+Twitter: [https://twitter.com/RikongNFT](https://twitter.com/RikongNFT)
+
+Discord: [discordapp.com/users/Rikong#1960](https://discord.com/users/Rikong#1960)
+
