@@ -6,7 +6,7 @@ description: A four strong worldwide team supports the two founders
 
 ## Mepusica
 
-* In charge of partnerships, decision making, brand direction, day-to-day running of all social media accounts.
+* Project manager
 * From Singapore
 * Twitter: [Mepusica](https://twitter.com/mepusica)
 * Discord: [Mepusica | THE SCIENTIST#7262](https://discord.com/users/Mepusica%20|%20THE%20SCIENTIST#7262)
