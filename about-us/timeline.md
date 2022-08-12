@@ -28,6 +28,8 @@ description: Notable moments through Ape Gang's history
 
 #### December
 
+10th - Launch of the Ape City Metaverse. Created by LeapN. You can now hang around Ape City with your ape!&#x20;
+
 15th - Contract migration. Migrating to our own ERC-721 contract to ensure the future of Ape Gang&#x20;
 
 15th - $GANG token creation. $GANG is the fuel for Ape Gang’s ecosystem. Each migrated ape yields 1 $GANG per day&#x20;
@@ -52,7 +54,7 @@ description: Notable moments through Ape Gang's history
 
 4th - Founders doxxed
 
-14th - Launch of the Ape City Metaverse. Created by LeapN. You can now hang around Ape City with your ape!&#x20;
+14th - Metaverse update, all 10,000 unique Apes generated on demand when you sign in with your corresponding Ape
 
 16th - Jaguar Gang free mint. Jaguars are a free mint for all Gang Wars Season 1 players&#x20;
 
@@ -66,4 +68,4 @@ description: Notable moments through Ape Gang's history
 
 #### July
 
-4th - 1 v 1 Fight Club. Battle with your apes and earn $GANG (weekly leagues)
+4th - 1v1 Fight Club launched. Battle with your apes and earn $GANG (weekly leagues)

@@ -35,6 +35,7 @@
   * [Where do I see my $GANG balance and how do I claim it?](faqs/where-do-i-see-my-usdgang-balance-and-how-do-i-claim-it.md)
   * [How do I check if I can claim a Jaguar?](faqs/how-do-i-check-if-i-can-claim-a-jaguar.md)
   * [What does "migrate my apes" mean?](faqs/what-does-migrate-my-apes-mean.md)
+  * [How do I burn my Toucans?](faqs/how-do-i-burn-my-toucans.md)
 
 ## About Us
 
