@@ -16,7 +16,7 @@ Register for Fight Club on the [Ape Gang website](https://apegang.art/) and a ne
 
 ### Why use $GANGANITE in Fight Club?
 
-[$GANGANITE](../the-ecosystem/usdganganite-coin.md) allows you to make small transactions gas-free. Perfect for in-game potions where gas fees would ruin the experience.
+$GANGANITE allows you to make small transactions gas-free. Perfect for in-game potions where gas fees would ruin the experience.
 
 ### What are potions?
 

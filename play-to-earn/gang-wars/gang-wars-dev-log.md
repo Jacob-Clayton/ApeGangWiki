@@ -14,4 +14,4 @@ description: History of Gang Wars updates
 ### Season 2
 
 * In development
-* Season Two is set to include gangs of five Apes and up to 5 accompanying Toucans
+* Season Two is set to include gangs of five Apes and up to 5 Toucans
