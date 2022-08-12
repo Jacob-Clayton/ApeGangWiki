@@ -10,16 +10,17 @@ description: History of Fight Club updates
 
 * Initial release
 * Improved the combat system to increase the accuracy of opponent selection
-* Improved the defender system so the 3 best apes (most wins in attacks) of any given player are automatically chosen as the defending apes
+* Improved the defender system so the 3 best apes (most wins in attacks) of a player are automatically chosen as the defending apes
 
 #### Week 2
 
 * Added custom ENS subdomains to the leaderboard
+* Added overall rank, wins, losses and total fights to the leaderboard
 
 #### Week 3
 
 * Added the best fighters for each individual player to the leaderboard
-* Added best defenders & attackers to the Hall of Fame
+* Added overall best defenders & attackers to the Hall of Fame
 * Implemented a 10% $GANG rake from League Passes
 
 ### Season 2

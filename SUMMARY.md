@@ -6,11 +6,7 @@
 
 * [Ape Gang](nft-collections/ape-gang.md)
 * [Toucan Gang](nft-collections/toucan-gang.md)
-  * [Toucan Burn](nft-collections/toucan-gang/toucan-burn.md)
-* [Jaguar Gang](nft-collections/jaguar-gang/README.md)
-  * [Regular Jaguars](nft-collections/jaguar-gang/regular-jaguars.md)
-  * [Legendary Jaguars](nft-collections/jaguar-gang/legendary-jaguars.md)
-  * [Jaguar Cubs](nft-collections/jaguar-gang/jaguar-cubs.md)
+* [Jaguar Gang](nft-collections/jaguar-gang.md)
 
 ## Play to Earn
 
@@ -46,9 +42,6 @@
 * [Founders](about-us/founders.md)
 * [Management](about-us/management.md)
 
-## Contracts
+***
 
-* [Ape Gang Contract](contracts/ape-gang-contract.md)
-* [Toucan Gang Contract](contracts/toucan-gang-contract.md)
-* [Jaguar Gang Contract](contracts/jaguar-gang-contract.md)
-* [$GANG Token Contract](contracts/usdgang-token-contract.md)
+* [Contracts](contracts.md)

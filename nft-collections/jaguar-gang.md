@@ -4,9 +4,9 @@ description: Minted April 16th 2022
 
 # Jaguar Gang
 
-The Jaguar Gang collection is an NFT collection with three different kinds of Jaguars. Initially, the collection will consist of 5000 [Regular Jaguars](regular-jaguars.md) given as prizes for participation in Gang Wars Season 1
+The Jaguar Gang collection is an NFT collection with three different kinds of Jaguars. Initially, the collection will consist of 5000 Regular Jaguars given as prizes for participation in Gang Wars Season 1
 
-Over time_,_ 4000 exclusive [Jaguar Cubs ](jaguar-cubs.md)and — at most — 2450 [Legendary Jaguars](legendary-jaguars.md)_**,**_ will be added as described below.
+Over time_,_ 4000 exclusive Jaguar Cubs and — at most — 2450 Legendary Jaguars_**,**_ will be added as described below.
 
 All Jaguars will coexist on the same contract / collection.
 
