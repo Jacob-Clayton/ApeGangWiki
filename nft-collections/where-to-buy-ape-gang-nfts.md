@@ -24,7 +24,7 @@ _Opensea take a 2.5% cut from sales_
 
 [Jaguar Gang](https://www.gem.xyz/collection/jaguar-gang/)
 
-_Gem is a marketplace aggregator which displays listings from the major marketplaces in one place. The % cut from sales differs._
+_Gem is a marketplace aggregator which displays listings from multiple marketplaces in one place. The % cut from sales differs._
 
 ## X2Y2
 
