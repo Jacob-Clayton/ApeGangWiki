@@ -14,5 +14,5 @@ You can swap $GANG for $GANGANITE at a 1:1 ratio from within Fight Club. You nee
 
 ### How can I buy and spend $GANGANITE?
 
-Once you are registered for Fight Club on the [Ape Gang website](https://apegang.art/) a new interface will be available to you. Navigate to the marketplace to buy and spend $GANGANITE.&#x20;
+Once you are registered for Fight Club on the [Ape Gang website](https://apegang.art/) a new interface will be made available to you. Navigate to the marketplace to buy and spend $GANGANITE.&#x20;
 
