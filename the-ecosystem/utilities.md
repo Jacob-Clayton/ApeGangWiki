@@ -28,14 +28,12 @@ Costs 25 $GANG
 
 ## Potions
 
-Potions are in-game consumables which can be bought for 5 $GANGANITE each.&#x20;
+Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
 Current potions include:&#x20;
 
-* Revive potion
-* Extra fight potion
-
-Costs (the equivalent of) 5 $GANG
+* Revive potion = 5 $GANGANITE
+* Extra fight potion = 5 GANGANITE
 
 ## Toucan Burning
 
