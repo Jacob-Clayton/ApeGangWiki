@@ -24,7 +24,7 @@ _Opensea take a 2.5% cut from sales_
 
 [Jaguar Gang](https://www.gem.xyz/collection/jaguar-gang/)
 
-_Gem take a 0.5% cut from sales_
+_Gem is a marketplace aggregator which displays listings from the major marketplaces in one place. The % cut from sales differs._
 
 ## X2Y2
 
@@ -57,6 +57,8 @@ _Looks Rare take a 2% cut from sales_
 ## Binance NFT
 
 [Ape Gang](https://www.binance.com/en/nft/collection/ape-gang-537913829142269953?orderBy=list\_time\&orderType=-1\&isBack=1\&id=537913829142269953\&order=list\_time%40-1)
+
+_Binance is a centralised exchange and you need to transfer your Ape to their marketplace to sell there, you will also need to transfer your Ape out of Binance NFT if you buy one from there. There are gas fees each time. Because of this, it is not a marketplace we recommend you use._&#x20;
 
 _Binance NFT takes a 1% cut from sales_
 
