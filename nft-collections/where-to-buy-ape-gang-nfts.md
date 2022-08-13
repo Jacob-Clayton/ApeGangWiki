@@ -4,7 +4,7 @@ description: Ape Gang is on all major marketplaces
 
 # Where to buy Ape Gang NFTs
 
-We recommend using Opensea primarily, however Gem is also fantastic.
+We recommend using Opensea primarily because everybody uses it. However Gem is a fantastic alternative and arguably better.
 
 ## Opensea
 
