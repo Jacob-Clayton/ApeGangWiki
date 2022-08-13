@@ -16,6 +16,8 @@ Ape Gang was founded by [Jokong and Rikong](about-us/founders.md), on May 4th 20
 
 Ape Gang is ranked 6th out of all NFTs for total sales, with >30,000 sales
 
+Holders have full commercial usage rights over their NFT
+
 ## Our Vision
 
 1. x
