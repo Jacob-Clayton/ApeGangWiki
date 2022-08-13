@@ -18,6 +18,4 @@ description: Ethereum contract addresses
 
 ## $GANG Token Contract
 
-{% embed url="https://etherscan.io/address/0x2118fA9369b9a52fB6Bf8cF3fd392643d55a53B4" %}
-
-Note: Ape Gang and $GANG Token share the same contract
+{% embed url="https://etherscan.io/address/0xb73758fe1dc58ac2a255a2950a3fdd84da656b84" %}
