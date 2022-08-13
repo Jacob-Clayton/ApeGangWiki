@@ -16,15 +16,16 @@ Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coex
 ## Regular Jaguars
 
 * Given as prizes for participating in Gang Wars
-* All Jaguars started out as a Regular Jaguar, over time they are burnt during the fusing process to create a Legendary Jaguar
+* All Regular Jaguars have the same normal fur type. This is how you can tell the difference between a Regular Jaguar and a Legendary Jaguar
+* All Jaguars started out as a Regular Jaguar, over time they are burnt during the fusing process
 * The Regular Jaguar supply is therefore constantly decreasing and becoming more scarce
 
 ## Legendary Jaguars <a href="#8c7c" id="8c7c"></a>
 
-* Legendary Jaguar NFTs will all have rare furs as compared to the normal fur of a Jaguar NFT
-* Each Legendary Jaguar can only breed 4 times. Meaning that a pair of Legendary Jaguars can also only breed 4 times
+* Legendary Jaguar NFTs will all have rare furs as compared to the normal fur of a Regular Jaguar
+* Each Legendary Jaguar can only breed 4 times and will need 30 days rest before they can create another Cub
 * Only Legendary Jaguars can participate in Gang Wars, this maintains their utility even after the breeding limit is reached
-* The number of Legendary Jaguars allowed per gang as well as their stat boost potential will be adjusted according to the game dynamics of respective war seasons
+* The number of Legendary Jaguars allowed per gang as well as their stat boost potential will be adjusted according to the game dynamics of respective gang war seasons
 * The traits of Legendary Jaguars will be inherited through a genetics system from the original Jaguars you decide to fuse, as explained below
 
 ### F**using Guide**
@@ -39,12 +40,12 @@ Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities)
 
 ## Legendary Jaguar Cubs <a href="#372f" id="372f"></a>
 
-* The furs of Legendary Cubs will be inherited through a genetics system from the Legendary Jaguars you decide to breed. The remaining traits of the Legendary Cub will be random
 * Cubs will later provide additional utility and grant you special rights and benefits, utility not yet disclosed
+* When you breed your Legendary Jaguars you will create a new Jaguar Cub NFT. The mum and dad will need 30 days rest before they can create another Cub
+* The furs of Legendary Cubs will be inherited through a genetics system from the Legendary Jaguars you breed as explained below
 
 ### **Breeding Guide**
 
-* When you breed your Jaguars you will create a new Jaguar Cub NFT. The mum and dad will need 30 days rest before they can create another Cub
 * Your new-born cub will have 100% random traits except for the fur
 *   For the fur you have a:
 

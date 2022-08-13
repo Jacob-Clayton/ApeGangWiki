@@ -72,4 +72,4 @@ description: Notable moments through Ape Gang's history
 
 #### August
 
-11th - Fight Club update; marketplace, inventory and off-chain $GANGANITE added
+11th - Fight Club update, marketplace, inventory and off-chain $GANGANITE added

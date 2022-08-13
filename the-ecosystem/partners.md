@@ -1,5 +1,5 @@
 ---
-description: Ape Gang has developed partnerships with multiple NFT projects
+description: Ape Gang has developed patnerships with many NFT projects
 ---
 
 # Partners
@@ -12,17 +12,11 @@ We hosted our first IRL networking event on 30th July 2022 which sold out! We ha
 
 ## The Alien Boy
 
-Ape Gang and [The Alien Boy](https://twitter.com/TheAlienBoyNFT) have a lot in common, both minted early in 2021, have a similar vision and share many of the same community members. Naturally, this has led to a genuine and mutually beneficial partnership for us both.
 
-How does this look moving forwards? More will be announced later.
-
-Ape Gang and The Alien Boy actually first collaborated way back in September 2021 where both project's artists created derivatives for the others community.&#x20;
 
 ## GOATz
 
-Similarly to The Alien Boy, Ape Gang and [GOATz](https://twitter.com/MaisonDeGOAT) have a lot in common, both minted early in 2021, have a similar vision. Together our 3 projects have come together to form a genuine and mutually beneficial partnership for us all.
 
-How does this look moving forwards? More will be announced later.
 
 ## Lynx Club
 
@@ -34,6 +28,6 @@ As part of the agreement, Ape Gang also gains access to several OG projects with
 
 We have a collaboration with [Metapoly](https://metapoly.org/). The world’s first decentralized metaverse land tycoon. Imagine Blackrock for the Metaverse.
 
-The team from Metapoly wanted to collaborate with a pixel art NFT project to create a Limited Edition Series Genesis NFT with added use cases. They chose Ape Gang because of our OG status, metaverse presence, and because owners have full commercial use over their apes.
+The team from Metapoly wanted to collaborate with a pixel art NFT project to create a Limited Edition Series Genesis NFT with added use cases. They chose Ape Gang because of our OG status, community engagement, metaverse presence, and because owners have full commercial use over their apes.
 
-Ape Gang wanted to collaborate with Metapoly because we believe in what they are developing, and they share their experience with us along the way to help us in our metaverse development. We also hope it will provide value to our holders in the long term.
+![Metapoly's Limited Edition Ape NFT](https://miro.medium.com/max/1400/1\*\_-UG9Gce75J5fhQqSvsPeA.jpeg)
