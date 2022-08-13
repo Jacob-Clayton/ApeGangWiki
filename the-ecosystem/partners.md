@@ -6,7 +6,7 @@ description: Ape Gang has developed patnerships with many NFT projects
 
 ## The Parlour Singapore
 
-We’re thrilled with our first real-life partnership is with Singapore’s first NFT bar & lounge. The partnership means we now have access to host events and IRL meetups at Singapore’s leading venue for NFT enthusiasts and Web3 professionals. In addition, all Ape Gang holders will enjoy special discounts on food & drinks.
+We’re thrilled our first real-life partnership is with Singapore’s first NFT bar & lounge. The partnership means we now have access to host events and IRL meetups at Singapore’s leading venue for NFT enthusiasts and Web3 professionals. In addition, all Ape Gang holders will enjoy special discounts on food & drinks.
 
 We hosted our first IRL networking event on 30th July 2022 which sold out! We had a great time meeting everybody and look forward to many more events at [The Parlour Singapore.](https://twitter.com/TheParlourSg)
 
