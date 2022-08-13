@@ -12,6 +12,10 @@ description: Notable moments through Ape Gang's history
 
 #### June
 
+30th - Apes are minted all at once on Opensea
+
+#### July
+
 19th - Sold out 9800 items overnight&#x20;
 
 24th - 20 ETH donation to Rainforest US Foundation
