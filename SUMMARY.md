@@ -29,7 +29,6 @@
   * [Chapter 4](the-ecosystem/lore/chapter-4.md)
   * [Chapter 5](the-ecosystem/lore/chapter-5.md)
   * [Chapter 6](the-ecosystem/lore/chapter-6.md)
-* [Partners](the-ecosystem/partners.md)
 
 ***
 
@@ -45,4 +44,5 @@
 * [Timeline](about-us/timeline.md)
 * [Founders](about-us/founders.md)
 * [Management](about-us/management.md)
+* [Partners](about-us/partners.md)
 * [Contracts](contracts.md)
