@@ -30,7 +30,7 @@ Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coex
 ### F**using Guide**
 
 * When you fuse your jaguars you will burn both and create new one
-* Th**e** new Jaguar will have **for each trait:**
+* The new Jaguar will have **for each trait:**
   * 47% chance to keep Jaguar A trait
   * 47% chance to keep Jaguar B trait
   * 6% chance to get a random trait from the fuse
