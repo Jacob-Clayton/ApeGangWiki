@@ -6,7 +6,9 @@ description: A four strong worldwide team supports the two founders
 
 ## Mepusica
 
-* In charge of partnerships, decision making, brand direction, day-to-day running of all social media accounts.
+* Executive manager
+* Entrepreneur with more than 10 years of management experience
+* Kicker of Jokong’s balls
 * From Singapore
 * Twitter: [Mepusica](https://twitter.com/mepusica)
 * Discord: [Mepusica | THE SCIENTIST#7262](https://discord.com/users/Mepusica%20|%20THE%20SCIENTIST#7262)
@@ -21,7 +23,7 @@ description: A four strong worldwide team supports the two founders
 
 ## Bulkz
 
-* Business and Finance expert
+* Business and finance expert
 * Crypto since 2017
 * From the UK
 * Twitter: [bulKZNFT](https://twitter.com/bulKZNFT)
@@ -29,7 +31,7 @@ description: A four strong worldwide team supports the two founders
 
 ## Mike Wang
 
-* 3D animator&#x20;
+* 3D animator & artist
 * From France
 * Twitter: [Mike Wang](https://twitter.com/MyVrtZ)
 * Discord: [MWang#0044](https://discord.com/users/MWang#0044)
