@@ -40,7 +40,7 @@ description: Notable moments through Ape Gang's history
 
 16th - Sandbox land investment. We bought 2 pieces of land, one premium land and one regular land
 
-18th - Gang Wars Manager. Gang Wars Manager went live and apes started forming their gangs&#x20;
+18th - Gang Wars Manager went live and apes started forming their gangs&#x20;
 
 ## 2022
 
