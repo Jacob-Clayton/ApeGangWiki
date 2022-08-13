@@ -12,11 +12,7 @@ description: Notable moments through Ape Gang's history
 
 #### June
 
-30th - Apes are minted all at once on Opensea
-
-#### July
-
-19th - Sold out 9800 items overnight. An Opensea record at the time
+19th - Sold out 9800 items overnight&#x20;
 
 24th - 20 ETH donation to Rainforest US Foundation
 
@@ -26,31 +22,31 @@ description: Notable moments through Ape Gang's history
 
 20th - Toucan Gang free mint These adorable companions were a free mint for ape holders&#x20;
 
-23rd - Times Square NYC Billboard. Over a million people viewed our Times Square ad over the weekend
+23rd - Times Square NYC Billboard. A million people viewed our Times Square ad over the weekend&#x20;
 
 31st - Free Halloween themed Ape Gang Comic book airdropped via Polygon&#x20;
 
 #### December
 
-10th - Launch of the Ape City 3D custom Metaverse created by LeapN
+10th - Launch of the Ape City Metaverse. Created by LeapN. You can now hang around Ape City with your ape!&#x20;
 
-15th - Migrated to our own ERC-721 contract to ensure the future of Ape Gang&#x20;
+15th - Contract migration. Migrating to our own ERC-721 contract to ensure the future of Ape Gang&#x20;
 
 15th - $GANG token creation. $GANG is the fuel for Ape Gang’s ecosystem. Each migrated ape yields 1 $GANG per day&#x20;
 
 16th - Sandbox land investment. We bought 2 pieces of land, one premium land and one regular land
 
-18th - Gang Wars Manager went live and apes started forming their gangs&#x20;
+18th - Gang Wars Manager. Gang Wars Manager went live and apes started forming their gangs&#x20;
 
 ## 2022
 
 #### January
 
-8th - Gang Wars Season 1 P2E went live with more than 3200 participants&#x20;
+8th - Gang Wars play-to-earn. Season 1 of Gang Wars went live with more than 3200 participants&#x20;
 
 #### March
 
-5th - Toucan burning opens. Burn your Toucans to increase $GANG yielding of individual apes by 25%&#x20;
+5th - Toucan burning. Burn your Toucans to increase $GANG yielding of individual apes by 25%&#x20;
 
 #### April
 
@@ -58,7 +54,7 @@ description: Notable moments through Ape Gang's history
 
 4th - Founders doxxed
 
-14th - Metaverse update. all 10,000 unique Apes generated on demand when you sign in with your corresponding Ape
+14th - Metaverse update, all 10,000 unique Apes generated on demand when you sign in with your corresponding Ape
 
 16th - Jaguar Gang free mint. Jaguars are a free mint for all Gang Wars Season 1 players&#x20;
 
