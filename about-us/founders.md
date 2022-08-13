@@ -4,7 +4,7 @@ description: Jokong and Rikong
 
 # Founders
 
-Before Ape Gang, Jokong and Rikong were long-time friends, IT students and coders from Lyon, France. Jokong taught web development and blockchain at university for bachelor's and masters degree level and also taught a 'building a business online' course in multiple business schools. Rikong managed his own marketing agency from start-up to a successful company. Both were involved in crypto long before Ape Gang, but only in 2021 did they take their first step into the NFT world.
+Before Ape Gang, Jokong and Rikong were long-time friends, IT students and coders from Lyon, France. Jokong taught web development and blockchain at university at bachelor's and masters degree level, and also taught a 'building a business online' course in multiple business schools. Rikong managed his own marketing agency from start-up to a successful company. Both were involved in crypto long before Ape Gang, but only in 2021 did they take their first step into the NFT world.
 
 Noticing the growing trend of NFTs in early 2021 and taking advantage of Jokong's love for pixelized art, the co-founders started Ape Gang.&#x20;
 
