@@ -16,7 +16,7 @@ description: Notable moments through Ape Gang's history
 
 #### July
 
-19th - Sold out 9800 items overnight&#x20;
+19th - Sold out 9800 items overnight. An Opensea record at the time
 
 24th - 20 ETH donation to Rainforest US Foundation
 
@@ -26,7 +26,7 @@ description: Notable moments through Ape Gang's history
 
 20th - Toucan Gang free mint These adorable companions were a free mint for ape holders&#x20;
 
-23rd - Times Square NYC Billboard. A million people viewed our Times Square ad over the weekend&#x20;
+23rd - Times Square NYC Billboard. Over a million people viewed our Times Square ad over the weekend
 
 31st - Free Halloween themed Ape Gang Comic book airdropped via Polygon&#x20;
 
