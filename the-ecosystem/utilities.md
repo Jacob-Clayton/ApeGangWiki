@@ -1,3 +1,7 @@
+---
+description: There are currently 6 main utilities for $GANG
+---
+
 # Utilities
 
 ## Jaguar Fusing&#x20;
@@ -25,6 +29,12 @@ Costs 150 $GANG
 Change the name and bio of your Ape [here](https://apegang.art/utilities), this on-chain action shows your new Ape's name and bio on all marketplaces and in Fight Club
 
 Costs 25 $GANG
+
+## Fight Club
+
+Gain entry to [Fight Club](../play-to-earn/fight-club.md) and fight against other community members Apes to climb the weekly leaderboard and earn [$GANG](usdgang-token.md)
+
+Costs 100 $GANG
 
 ## Potions
 
