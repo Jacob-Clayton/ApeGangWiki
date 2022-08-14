@@ -2,7 +2,7 @@
 description: Ape Gang has developed partnerships with multiple NFT projects
 ---
 
-# Partners
+# Partnerships
 
 ## The Parlour Singapore
 
@@ -16,7 +16,7 @@ Ape Gang and [The Alien Boy](https://twitter.com/TheAlienBoyNFT) have a lot in c
 
 How does this look moving forwards? More will be announced later.
 
-Ape Gang and The Alien Boy actually first collaborated way back in September 2021 where both project's artists created derivatives for the others community.&#x20;
+Ape Gang and The Alien Boy first collaborated way back in September 2021 when both project's artists created derivatives for one another's community.&#x20;
 
 ## Lynx Club
 
