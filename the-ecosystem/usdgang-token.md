@@ -20,10 +20,26 @@ You can check the price chart on Etherscan [here](https://etherscan.io/dex/sushi
 
 You can buy & sell on Sushiswap [here](https://app.sushi.com/swap?inputCurrency=0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84\&outputCurrency=ETH\&chainId=1).
 
+### Where can I check my $GANG balance&#x20;
+
+The Ape Gang website has a [$GANG token tab](https://apegang.art/token) which displays your current $GANG balance.
+
+### How do I claim the $GANG my Ape has yielded?
+
+Your Ape's yielded $GANG is stored on the website until you interact with the contract. As soon as you interact with the contract all your yielded $GANG will be sent to your wallet.
+
+The easiest way to do this is press the [claim $GANG button](https://apegang.art/token) on the Ape Gang website.&#x20;
+
+Alternatively, your $GANG will automatically be claimed if you:
+
+* Buy an Ape
+* Sell an Ape
+* Transfer an Ape
+
 ### How can I trade my $GANG for $GANGANITE?
 
 Once you are registered for Fight Club on the [Ape Gang website](https://apegang.art/) a new interface will be available to you. Navigate to the marketplace to buy $GANGANITE.
 
 ### Do I have to stake my Ape?
 
-No, Ape Gang does not have staking.
+No, Ape Gang does not have staking. If you own an Ape you automatically earn $GANG.
