@@ -20,7 +20,7 @@ Holders have full commercial usage rights over their NFT
 
 ## Our Vision
 
-1. Become an integral part of pop culture alongside likeminded believers of decentralised ownership
+1. x
 2. x
 3. x
 4. x
