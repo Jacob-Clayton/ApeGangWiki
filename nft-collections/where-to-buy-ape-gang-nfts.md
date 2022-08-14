@@ -71,3 +71,7 @@ _Binance NFT takes a 1% cut from sales_
 ## NFTx Vault
 
 [Ape Gang](https://nftx.io/vault/0x0e1e697e597052cdeb768159564af4bc6917dc81/buy/)
+
+## Ape Gang Collab NFTs
+
+[Ape Gang Collabs](https://opensea.io/collection/ape-gang-collabs)
