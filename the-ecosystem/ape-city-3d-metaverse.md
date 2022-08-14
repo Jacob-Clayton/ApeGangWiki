@@ -10,14 +10,14 @@ All you need to get into the Ape City metaverse is an Ape Gang NFT and a browser
 
 Sign in to our metaverse [here](https://leapn.life/ape-gang/ape-city/)
 
-#### Your unique ape with all it's traits will automatically be generated as your character for the metaverse
+#### Your unique Ape and it's traits will automatically be generated as your character for the metaverse
 
 ![Lazer eyes, fire breath and rainbow drool are animated](../.gitbook/assets/ChidzoApe.jpg)
 
 ### Ape City floating obstacle course
 
-We have a challenging obstacle course in the sky with moving elements. There are 4 checkpoints along the route in case you fall, so give it your best! Follow the signposts at street level to access it.
+We have a challenging obstacle course floating in the sky above the city.  There are 4 checkpoints along the route in case you fall, have fun navigating the moving elements and give it your best! Follow the signposts at street level to access the course.
 
 ### Leapn
 
-Leapn is the team behind our metaverse. They created the island and designed all the assets with Ape Gang's direction.
+Leapn is the team behind our metaverse. They created the island and designed all the assets following Ape Gang's direction. Find out more about the team behind out metaverse on [leapn.life](https://leapn.life/).

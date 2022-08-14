@@ -4,17 +4,15 @@ description: Our on-chain token yielded daily by Apes, and is tradable for Ether
 
 # $GANG Token
 
-## Our ERC-20 token
+## $GANG is our ERC-20 token
 
-### Does my ape earn $GANG?
-
-Yes, all Apes earn 1 $GANG per day.
+### All Apes earn 1 $GANG per day
 
 This can be increased to 1.25 $GANG per day if you [burn a Toucan](../faqs/how-do-i-burn-my-toucans.md).
 
 ### What can I spend $GANG on?
 
-We have 6 [utilities](utilities.md) currently available, spend your $GANG on the [Ape Gang Website](https://apegang.art/utilities).
+We have 6 [utilities](utilities.md) currently available, you can spend your $GANG on the [Ape Gang Website](https://apegang.art/utilities).
 
 ### Where can I buy & sell $GANG?
 
