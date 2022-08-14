@@ -16,7 +16,7 @@ We have 6 [utilities](utilities.md) currently available, you can spend your $GAN
 
 ### Where can I buy & sell $GANG?
 
-You can check the price on Etherscan [here](https://etherscan.io/dex/sushiswap/0xaad85cb5e0d48ff9fc6e64db64315864ef2a1ca7).
+You can check the price chart on Etherscan [here](https://etherscan.io/dex/sushiswap/0xaad85cb5e0d48ff9fc6e64db64315864ef2a1ca7).
 
 You can buy & sell on Sushiswap [here](https://app.sushi.com/swap?inputCurrency=0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84\&outputCurrency=ETH\&chainId=1).
 
