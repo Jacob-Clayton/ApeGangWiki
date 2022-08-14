@@ -44,5 +44,5 @@
 * [Timeline](about-us/timeline.md)
 * [Founders](about-us/founders.md)
 * [Management](about-us/management.md)
-* [Partners](about-us/partners.md)
+* [Partnerships](about-us/partnerships.md)
 * [Contracts](contracts.md)
