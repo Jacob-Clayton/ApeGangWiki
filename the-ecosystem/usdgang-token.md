@@ -20,7 +20,7 @@ You can check the price chart on Etherscan [here](https://etherscan.io/dex/sushi
 
 You can buy & sell on Sushiswap [here](https://app.sushi.com/swap?inputCurrency=0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84\&outputCurrency=ETH\&chainId=1).
 
-### Where can I check my $GANG balance&#x20;
+### Where can I check my $GANG balance?
 
 The Ape Gang website has a [$GANG token tab](https://apegang.art/token) which displays your current $GANG balance.
 
