@@ -4,8 +4,6 @@ description: Minted June 30th 2021
 
 # Ape Gang
 
-I've not finished this section yet, chill out&#x20;
-
 ## Ape Gang is a collection of 10,000 NFTs minted on the Ethereum blockchain in June 2021
 
 All Ape Gang NFTs were algorithmically generated from 156 hand drawn traits using python. The pixel art style uses a 50x50 pixel format, a style which Jokong, the founder and artist, is renowned for.
@@ -24,7 +22,7 @@ All 156 Ape traits translate to fighting stats. A feature which is entirely on-c
 
 All you need is an Ape Gang NFT and a browser to play
 
-### Fighting stats are determined by an Ape's traits (fur, clothing, hat, eyes, mouth and ears)
+### Fighting stats are determined by an Ape's traits
 
 * **Fur Type** Influences the overall strength, health, fail % and critical %. As well as the underlying fur type passive ability.
 * **Clothing** Influences the total health of an Ape. Apes with no clothes generally have considerably lower health.
@@ -32,6 +30,3 @@ All you need is an Ape Gang NFT and a browser to play
 * **Eyes** Influence the change of hitting a critical attack because the Ape has better vision
 * **Mouth** influences no idea
 * **Ear** influences no idea
-
-###
-
