@@ -10,7 +10,7 @@ description: Our on-chain token yielded daily by Apes, and is tradable for Ether
 
 Yes, all Apes earn 1 $GANG per day.
 
-This can be increased to 1.25 $GANG per day if you [burn a Toucan](../faqs/how-do-i-burn-my-toucans.md).
+This can be increased to 1.25 $GANG per day if you burn a Toucan.
 
 ### What can I spend $GANG on?
 
