@@ -1,10 +1,10 @@
 ---
-description: Our on-chain token yielded daily by Apes, and is tradable for Ethereum
+description: Our on-chain ERC-20 token yielded daily by Apes, and is tradable for Ethereum
 ---
 
 # $GANG Token
 
-## $GANG is our ERC-20 token
+## $GANG is the ERC-20 token which fuels our ecosystem
 
 ### All Apes earn 1 $GANG per day
 
