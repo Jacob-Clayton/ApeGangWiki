@@ -13,8 +13,7 @@
 
 * [Fight Club](play-to-earn/fight-club.md)
   * [Fight Club Dev Log](play-to-earn/fight-club/fight-club-dev-log.md)
-* [Gang Wars](play-to-earn/gang-wars.md)
-  * [Gang Wars Dev Log](play-to-earn/gang-wars/gang-wars-dev-log.md)
+* [Gang Wars](play-to-earn-games/gang-wars.md)
 
 ## The Ecosystem
 
