@@ -8,22 +8,30 @@ I've not finished this section yet, chill out&#x20;
 
 ## Ape Gang is a collection of 10,000 NFTs minted on the Ethereum blockchain in June 2021
 
-All Ape Gang NFTs were algorithmically generated from 156 traits using python. The pixel art style was created using a 50x50 pixel format, a style which Jokong, the founder and artist, is renowned for.
+All Ape Gang NFTs were algorithmically generated from 156 hand drawn traits using python. The pixel art style uses a 50x50 pixel format, a style which Jokong, the founder and artist, is renowned for.
 
-All 156 Ape traits translate to fighting stats. A feature which is entirely on-chain. Ape Gang's built-in stats have 4 categories; strength, health, fail % and critical %.&#x20;
+All 156 Ape traits translate to fighting stats. A feature which is entirely on-chain. Ape Gang's built-in stats have 4 categories; strength, health, fail % and critical % which all contribute towards their overall fighting ability.
 
+### Ape Gang NFTs passively yield 1 $GANG per day
 
+* [$GANG](../the-ecosystem/usdgang-token.md) is our ERC-20 token which fuels the Ape Gang ecosystem
+* Yield can be increased to 1.25 $GANG per day if you burn a [Toucan Gang NFT](toucan-gang.md)
+* There are 6 [utilities](../the-ecosystem/utilities.md) currently available for you to spend your $GANG on.
 
-An Ape's fighting stats are determined by the fur, clothes, hat, eyes, mouth and ears an Ape has.
+### Ape Gang NFTs can be used in our P2E game Fight Club
 
-**Fur Type** Influences the overall strength, health, fail % and critical %. As well as the underlying fur type passive ability.
+[Fight Club](../play-to-earn/fight-club.md) is a 1v1 game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG
 
-**Clothes** Influence the total health of an Ape. Ape's with no clothes have considerably lower health.
+All you need is an Ape Gang NFT and a browser to play
 
-**Hat** Influences the strength and health of an Ape
+### Fighting stats are determined by an Ape's traits (fur, clothing, hat, eyes, mouth and ears)
 
-**Eyes** Influence the change of hitting a critical attack because the Ape has better vision
+* **Fur Type** Influences the overall strength, health, fail % and critical %. As well as the underlying fur type passive ability.
+* **Clothing** Influences the total health of an Ape. Apes with no clothes generally have considerably lower health.
+* **Hat** Influences the strength and health of an Ape
+* **Eyes** Influence the change of hitting a critical attack because the Ape has better vision
+* **Mouth** influences no idea
+* **Ear** influences no idea
 
-**Mouth** influences no idea
+###
 
-**Ear** influences no idea
