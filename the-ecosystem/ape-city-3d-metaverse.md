@@ -14,9 +14,11 @@ Sign in to our metaverse [here](https://leapn.life/ape-gang/ape-city/)
 
 ![Lazer eyes, fire breath and rainbow drool are animated](../.gitbook/assets/ChidzoApe.jpg)
 
-### Ape City floating obstacle course
+### The Ape City obstacle course
 
-We have a challenging obstacle course floating in the sky above the city.  There are 4 checkpoints along the route in case you fall, have fun navigating the moving elements and give it your best! Follow the signposts at street level to access the course.
+We have a challenging obstacle course floating in the sky above the city. There are 4 checkpoints along the route in case you fall from one of the many moving elements! Give it your best!&#x20;
+
+Follow the signposts at street level to access the course.
 
 ### Leapn
 
