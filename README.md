@@ -20,16 +20,12 @@ Holders have full commercial usage rights over their NFT
 
 ## Our Vision
 
-1. x
-2. x
-3. x
-4. x
-5. x
+Build a brand for the future
 
 ## Our Values
 
-1. &#x20;Supporting your fellow Apes by sharing knowledge, giving back & making a positive difference‬
+1. &#x20;Support your fellow Apes by sharing knowledge, giving back & making a positive difference‬
 2. Being open minded & inclusive
 3. Standing out from the crowd‬
-4. Building and having fun while doing so‬
+4. Build and having fun doing so‬
 5. Being a trusted partner‬
