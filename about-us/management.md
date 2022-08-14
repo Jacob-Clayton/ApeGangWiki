@@ -6,7 +6,7 @@ description: A four strong worldwide team supports the two founders
 
 ## Mepusica
 
-* Executive manager
+* Executive manager of Ape Gang
 * Entrepreneur with more than 10 years of management experience
 * Kicker of Jokong’s balls
 * From Singapore
