@@ -8,18 +8,14 @@ description: Minted April 16th 2022
 
 Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract.&#x20;
 
-Each Jaguar Gang NFT was programmatically generated from 150 unique traits using python.
-
-All 150 traits were hand drawn by Jokong using a 50x50 pixel format.
-
-* The collection started as 5000 Regular Jaguars given as prizes for participation in [Gang Wars](../play-to-earn/gang-wars.md)
+* The collection started as 5000 Regular Jaguars given as prizes for participation in Gang Wars
 * Over time 5000 __ additional Jaguar Cubs will be bred
 * And at most 2500 additional Legendary Jaguars will be fused
-* The maximum possible collection size is 7,500 Jaguars, however it is unlikely this number will be reached if people choose not to fuse Regular Jaguars they want to keep
+* The maximum possible collection size is 7,500 Jaguars, however it is unlikely this number will be reached if people choose not to fuse Regular Jaguars they want to keep.
 
 ## Regular Jaguars
 
-* Given as prizes for participating in [Gang Wars](../play-to-earn/gang-wars.md)
+* Given as prizes for participating in Gang Wars
 * All Regular Jaguars have the same normal fur type. This is how you can tell the difference between a Regular Jaguar and a Legendary Jaguar
 * All Jaguars started out as a Regular Jaguar, over time they are burnt during the fusing process
 * The Regular Jaguar supply is therefore constantly decreasing and becoming more scarce

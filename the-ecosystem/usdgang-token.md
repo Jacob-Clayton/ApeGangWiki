@@ -14,7 +14,7 @@ This can be increased to 1.25 $GANG per day if you burn a Toucan.
 
 ### What can I spend $GANG on?
 
-All utilities are listed on the [Ape Gang Website](https://apegang.art/utilities).
+We have 6 [utilities](utilities.md) currently available, spend your $GANG on the [Ape Gang Website](https://apegang.art/utilities).
 
 ### Where can I buy & sell $GANG?
 

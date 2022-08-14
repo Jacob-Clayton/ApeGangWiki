@@ -16,7 +16,3 @@ You can swap $GANG for $GANGANITE at a 1:1 ratio from within Fight Club. You nee
 
 Once you are registered for Fight Club on the [Ape Gang website](https://apegang.art/) a new interface will be made available to you. Navigate to the marketplace to buy and spend $GANGANITE.&#x20;
 
-### What can I spend $GANGANITE on?
-
-Spend it on in-game potions to assist your Ape in Fight Club
-

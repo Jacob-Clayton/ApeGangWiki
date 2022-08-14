@@ -12,8 +12,8 @@ All 150 traits were hand drawn by Jokong using a 50x50 pixel format.
 
 ### Toucans have two main utilities
 
-1. Burn your Toucan to increase your daily $GANG yield OR&#x20;
-2. Pair your Toucan with an Ape to improve its fighting stats in Gang Wars Season 2
+1. You can either burn your Toucan to increase your daily $GANG yield OR&#x20;
+2. Keep your Toucan to pair with an Ape to improve its fighting stats in Gang Wars Season 2
 
 The constant burning of Toucans reduces the total supply permanently, meaning this collection is deflationary
 
