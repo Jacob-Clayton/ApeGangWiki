@@ -8,7 +8,6 @@ description: A four strong worldwide team supports the two founders
 
 * Executive manager of Ape Gang
 * Entrepreneur with more than 10 years of management experience
-* Kicker of Jokong’s balls
 * From Singapore
 * Twitter: [Mepusica](https://twitter.com/mepusica)
 * Discord: [Mepusica | THE SCIENTIST#7262](https://discord.com/users/Mepusica%20|%20THE%20SCIENTIST#7262)
