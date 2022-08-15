@@ -28,12 +28,12 @@ Every Ape has 4 built-in on-chain stats. Strength, Health, Fail % and Critical %
 
 All 156 traits determine fighting stats. But which traits are good for fighting?
 
-* **Fur Type** Influences the overall strength, health, fail % and critical %. As well as the underlying fur type passive ability.
-* **Clothing** Influences the total health of an Ape. Apes with no clothes generally have considerably lower health.
-* **Hat** Influences the strength and health of an Ape
-* **Eyes** Influence the change of hitting a critical attack because the Ape has better vision
-* **Mouth** influences no idea
-* **Ear** influences no idea
+* **Fur Type** is the most influential trait when it comes to fighting. Fur type determines the baseline strength, health, fail % and critical %.
+* **Clothing** traits add between 6 to 10 strength. Apes with no clothes therefore have considerably lower strength.
+* **Hat** traits add between 10 to 15 extra health points.
+* **Eye** traits improve the chance of hitting a critical attack because the Ape has better vision.
+* **Mouth** traits improve the fail %, making the Ape less likely to miss an attack.
+* **Ear** traits add 5 health points and improve the fail % and critical % by 1.
 
 ### Access to the Ape City metaverse
 
