@@ -43,6 +43,18 @@ Your unique Ape and it's traits will automatically be generated as your characte
 
 The community has always been at the centre of everything Ape Gang does. Following the suggestions and guidance of the holders has nurtured a strong community bond which has kept Ape Gang alive through the bear market where others have died.
 
+**Passionate Team**
+
+The Ape Gang team is a group of like minded individuals determined to maintain a positive environment
+
+**Friendly Community**
+
+Our only requirement for being a part of our community is to be friendly towards others
+
+**Community Events**
+
+Weekly poker games with NFT prizes and weekly twitter spaces for project updates and catch-ups
+
 ## Sales Records
 
 Ape Gang sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
