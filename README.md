@@ -8,7 +8,7 @@ description: >-
 
 ## What is Ape Gang?
 
-### A pixel art collection with an on-chain P2E game, a dedicated community and the vision to build a brand for the future.
+### A pixel art collection with an on-chain P2E game, a custom 3D metaverse, a dedicated community and the vision to build a brand for the future.
 
 Ape Gang was founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
