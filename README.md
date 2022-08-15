@@ -63,6 +63,10 @@ Ape Gang has the 6th highest total sales out of all NFTs, with over 30,000 sales
 
 ![Ape Gang in 6th for all time sales](.gitbook/assets/AG\_sales\_record.png)
 
+## Full Commercial Usage Rights
+
+Holders will always have full commercial usage rights over their NFT.
+
 ## Our Vision
 
 Build a brand for the future.
@@ -74,5 +78,3 @@ Build a brand for the future.
 3. Standing out from the crowd‬
 4. Build and having fun doing so‬
 5. Being a trusted partner‬
-
-Holders will always have full commercial usage rights over their NFT.
