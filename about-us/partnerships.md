@@ -14,9 +14,9 @@ We hosted our first IRL networking event on 30th July 2022 which sold out! We ha
 
 Ape Gang, [The Alien Boy](https://twitter.com/TheAlienBoyNFT) and [GOATz](https://maisondegoat.com/) have a lot in common, all 3 minted early in 2021, have a similar vision and share many of the same community members. Naturally, this has led to a genuine and mutually beneficial partnership for us all.
 
-Our 3 projects have come together to form a genuine and mutually beneficial partnership for us all. How does this look moving forwards? More will be announced later.
+Our 3 projects have come together to form a genuine and mutually beneficial partnership for us all. More will be announced later.
 
-Ape Gang and The Alien Boy first collaborated way back in September 2021 when both project's artists created derivatives for one another's community.&#x20;
+Ape Gang and The Alien Boy first collaborated way back in September 2021 when both project's artists created derivatives for one another's community. To this day our 3 communities come together each week to play poker.
 
 ## Lynx Club
 
