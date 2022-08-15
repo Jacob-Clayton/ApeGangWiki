@@ -10,23 +10,28 @@ description: >-
 
 ### A pixel art collection with an on-chain P2E game, a custom 3D metaverse, a dedicated community and the vision to build a brand for the future.
 
-Ape Gang was founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
+Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
-### Ape Gang collections:
+## Ape Gang Collections
 
 * 10,000 [Ape](nft-collections/ape-gang.md) NFTs minted June 2021
 * 7,800 [Toucan](nft-collections/toucan-gang.md) NFTs minted October 2021
 * 5,000 [Jaguar](nft-collections/jaguar-gang.md) NFTs minted April 2022
 
-[Apes](nft-collections/ape-gang.md), [Toucans](nft-collections/toucan-gang.md) and [Jaguars](nft-collections/jaguar-gang.md) team up to form gangs which compete in our P2E games; [Fight Club](play-to-earn/fight-club.md) and [Gang Wars](play-to-earn-games/gang-wars.md).
+## P2E Gaming
 
-### Our sales records
+[Apes](nft-collections/ape-gang.md), [Toucans](nft-collections/toucan-gang.md) and [Jaguars](nft-collections/jaguar-gang.md) team up to form gangs which compete in our two P2E games:
 
-Minting began on June 30th 2021, it sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
+* [Fight Club](play-to-earn/fight-club.md)
+* [Gang Wars](play-to-earn-games/gang-wars.md)
 
-Ape Gang has the 6th highest total sales out of all NFTs, with over 30,000 sales. A stat that means Ape Gang has been bought and sold by a large proportion of the NFT community, giving them instant brand recognition within the space.
+Community members use their NFTs to fight against one-another in weekly events to climb the leaderboard and win $GANG. And of course the right to gloat.
 
-![Ape Gang in 6th for all time sales](.gitbook/assets/AG\_sales\_record.png)
+## $GANG Token
+
+The ERC-20 token which fuels our ecosystem. Each Ape passively yields 1 [$GANG](the-ecosystem/usdgang-token.md) per day.
+
+There are 6 [utilities](the-ecosystem/utilities.md) currently available to spend $GANG on.
 
 ## Ape City Metaverse
 
@@ -36,7 +41,15 @@ Your unique Ape and it's traits will automatically be generated as your characte
 
 ## The Community
 
-The community has always been at the centre stage of everything Ape Gang does. Following the suggestions and guidance of the holders has nurtured a strong community bond which has kept Ape Gang alive through the bear market.
+The community has always been at the centre of everything Ape Gang does. Following the suggestions and guidance of the holders has nurtured a strong community bond which has kept Ape Gang alive through the bear market where others have died.
+
+## Our sales records
+
+Minting began on June 30th 2021, it sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
+
+Ape Gang has the 6th highest total sales out of all NFTs, with over 30,000 sales. A stat that means Ape Gang has been bought and sold by a large proportion of the NFT community, giving them instant brand recognition within the space.
+
+![Ape Gang in 6th for all time sales](.gitbook/assets/AG\_sales\_record.png)
 
 ## Our Vision
 
