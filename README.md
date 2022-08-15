@@ -43,7 +43,7 @@ Your unique Ape and it's traits will automatically be generated as your characte
 
 The community has always been at the centre of everything Ape Gang does. Following the suggestions and guidance of the holders has nurtured a strong community bond which has kept Ape Gang alive through the bear market where others have died.
 
-## Our sales records
+## Sales Records
 
 Minting began on June 30th 2021, it sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
 
