@@ -12,7 +12,7 @@ All Ape Gang NFTs were algorithmically generated from 156 hand drawn traits usin
 
 * [$GANG](../the-ecosystem/usdgang-token.md) is our ERC-20 token which fuels the Ape Gang ecosystem
 * Yield can be increased to 1.25 $GANG per day if you burn a [Toucan Gang NFT](toucan-gang.md)
-* There are 6 [utilities](../the-ecosystem/utilities.md) currently available for you to spend your $GANG on.
+* There are 6 [utilities](../the-ecosystem/utilities.md) currently available for you to spend $GANG on.
 
 ### Use your Ape in our P2E game Fight Club
 
