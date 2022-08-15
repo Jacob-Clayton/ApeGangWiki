@@ -30,7 +30,7 @@ Ape Gang has the 6th highest total sales out of all NFTs, with over 30,000 sales
 
 ## The Community
 
-
+The community has always been at the centre stage of everything Ape Gang does. Following the suggestions and guidance of the holders has nurtured a strong community bond which has kept Ape Gang alive through the bear market.
 
 ## Our Vision
 
