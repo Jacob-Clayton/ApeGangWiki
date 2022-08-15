@@ -29,7 +29,7 @@ Ape Gang celebrated it's 1 year birthday on May 4th 2022. A year which has seen:
 * NFC Lisbon talk
 * And plenty more on our [timeline](timeline.md).&#x20;
 
-With over a year of high quality, consistent work completed by Jokong and Rikong you would be hard pressed to find more dedicated founders.
+With over a year of high quality, consistent developments delivered by Jokong and Rikong you would be hard pressed to find more dedicated founders.
 
 ### Jokong&#x20;
 
