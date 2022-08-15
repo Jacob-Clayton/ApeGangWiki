@@ -16,7 +16,7 @@ All 156 Ape traits translate to fighting stats. A feature which is entirely on-c
 * Yield can be increased to 1.25 $GANG per day if you burn a [Toucan Gang NFT](toucan-gang.md)
 * There are 6 [utilities](../the-ecosystem/utilities.md) currently available for you to spend your $GANG on.
 
-### Ape Gang NFTs can be used in our P2E game Fight Club
+### Use your Ape in our P2E game Fight Club
 
 [Fight Club](../play-to-earn/fight-club.md) is a 1v1 game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG
 
