@@ -1,5 +1,5 @@
 ---
-description: There are currently 6 main utilities for $GANG
+description: We have multiple utilities already available to spend your $GANG on
 ---
 
 # Utilities
