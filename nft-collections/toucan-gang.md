@@ -8,20 +8,20 @@ description: Minted October 20th 2021
 
 Each Toucan Gang NFT was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
 
-Holders will always have full commercial usage rights over their NFT
+Holders will always have full commercial usage rights over their NFT.
 
 ### Toucans have two main utilities
 
 1. Burn your Toucan to increase your daily $GANG yield OR
-2. Pair your Toucan with an Ape to improve its fighting stats for [Gang Wars](../play-to-earn-games/gang-wars.md) Season 2
+2. Pair your Toucan with an Ape to improve its fighting stats for [Gang Wars](../play-to-earn-games/gang-wars.md) Season 2.
 
-The constant burning of Toucans reduces the total supply permanently, meaning this collection is deflationary
+The constant burning of Toucans reduces the total supply permanently, meaning this collection is deflationary.
 
 ## If you burn your Toucan <a href="#400b" id="400b"></a>
 
 Burning a Toucan will increase the $GANG yielding of one Ape Gang NFT by 25% for all eternity. So, after burning one Toucan, your Ape will yield 1.25 $GANG per day instead of 1 $GANG per day.
 
-Read [how to burn your Toucan](../faqs/how-do-i-burn-my-toucans.md)
+Read [how to burn your Toucan](../faqs/how-do-i-burn-my-toucans.md).
 
 ## If you don’t burn your Toucan <a href="#ee0f" id="ee0f"></a>
 
@@ -33,12 +33,12 @@ Toucans will boost Ape stats in Gang Wars Season 2. We will be introducing sever
 
 Toucans stats are based on their plumage and their combination of traits. As a general rule of thumb, the rarer a Toucan is, the better its stats will be. Individual Toucan stats can be viewed on [OpenSea](https://opensea.io/collection/toucan-gang).
 
-* Plumage provides a background stat to: health, strength, critical damage and fail
-* Hats boost health
-* Beaks boost strength because Toucans use their beaks to inflict damage
-* Accessories boost health, strength, and critical damage due to their rarity
-* Clothes boost critical damage
-* Eyes **** reduce the **** chance of failure because of increased vision
+* Plumage provides a background stat to: health, strength, critical damage and fail.
+* Hats boost health.
+* Beaks boost strength because Toucans use their beaks to inflict damage.
+* Accessories boost health, strength, and critical damage due to their rarity.
+* Clothes boost critical damage.
+* Eyes **** reduce the **** chance of failure because of increased vision.
 
 ![Get to know your Toucan's strengths](../.gitbook/assets/eachtraitcounts.png)
 
@@ -52,4 +52,4 @@ For example, if your Ape has 400 health and you boost it with a 65 health Toucan
 
 So how should you go about selecting the best Toucans to boost your gang? We will leave this entirely up to you. Maybe you decide to lower your Robot Ape’s chance of failing. Or increase the critical chance for your Red Devil Ape. Who knows. Have fun experimenting!
 
-#### Fun Fact: The inspiration for Toucan Gang came from Jokong's pet parrot called Riggs
+#### Fun Fact: The inspiration for Toucan Gang came from Jokong's pet parrot called Riggs.

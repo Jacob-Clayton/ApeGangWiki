@@ -14,9 +14,9 @@ Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
 ## Ape Gang Collections
 
-* 10,000 [Ape](nft-collections/ape-gang.md) NFTs minted June 2021
-* 7,800 [Toucan](nft-collections/toucan-gang.md) NFTs minted October 2021
-* 5,000 [Jaguar](nft-collections/jaguar-gang.md) NFTs minted April 2022,&#x20;
+* 10,000 [Ape](nft-collections/ape-gang.md) NFTs minted June 2021.
+* 7,800 [Toucan](nft-collections/toucan-gang.md) NFTs minted October 2021.
+* 5,000 [Jaguar](nft-collections/jaguar-gang.md) NFTs minted April 2022.
 
 _Jaguar Gang is the first ever NFT collection with both a deflationary & inflationary mechanism._
 
@@ -47,15 +47,15 @@ The community has always been at the centre of everything Ape Gang does. Followi
 
 **Passionate Team**
 
-The Ape Gang team is a group of like minded individuals determined to maintain a positive environment
+The Ape Gang team is a group of like minded individuals determined to maintain a positive environment.
 
 **Friendly Community**
 
-Our only requirement for being a part of our community is to be friendly towards others
+Our only requirement for being a part of our community is to be friendly towards others.
 
 **Community Events**
 
-Weekly poker games with NFT prizes and weekly twitter spaces for project updates and catch-ups
+Weekly poker games with NFT prizes and weekly twitter spaces for project updates and catch-ups.
 
 ## Sales Records
 
@@ -75,8 +75,8 @@ Build a brand for the future.
 
 ## Our Values
 
-1. &#x20;Support your fellow Apes by sharing knowledge, giving back & making a positive difference‬
-2. Being open minded & inclusive
-3. Standing out from the crowd‬
-4. Build and having fun doing so‬
-5. Being a trusted partner‬
+1. &#x20;Support your fellow Apes by sharing knowledge, giving back & making a positive difference‬.
+2. Being open minded & inclusive.
+3. Standing out from the crowd‬.
+4. Build and having fun doing so‬.
+5. Being a trusted partner‬.

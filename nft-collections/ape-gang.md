@@ -12,9 +12,9 @@ Holders will always have full commercial usage rights over their NFT.
 
 ### Ape Gang NFTs passively yield 1 $GANG per day
 
-* [$GANG](../the-ecosystem/usdgang-token.md) is our ERC-20 token which fuels the Ape Gang ecosystem
-* Yield can be increased to 1.25 $GANG per day if you burn a [Toucan Gang NFT](toucan-gang.md)
-* There are multiple [utilities](../the-ecosystem/utilities.md) already available for you to spend $GANG on
+* [$GANG](../the-ecosystem/usdgang-token.md) is our ERC-20 token which fuels the Ape Gang ecosystem.
+* Yield can be increased to 1.25 $GANG per day if you burn a [Toucan Gang NFT](toucan-gang.md).
+* There are multiple [utilities](../the-ecosystem/utilities.md) already available for you to spend $GANG on.
 
 ### Use your Ape in our P2E game Fight Club
 

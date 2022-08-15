@@ -14,7 +14,7 @@ We recommend using Opensea primarily because everybody uses it. However Gem is a
 
 [Jaguar Gang](https://opensea.io/collection/jaguar-gang)
 
-_Opensea take a 2.5% cut from sales_
+_Opensea take a 2.5% cut from sales._
 
 ## Gem
 
@@ -34,7 +34,7 @@ _Gem is a marketplace aggregator that displays listings from multiple marketplac
 
 [Jaguar Gang](https://x2y2.io/collection/jaguar-gang/items)
 
-_X2Y2 take a 0.5% cut from sales_
+_X2Y2 take a 0.5% cut from sales._
 
 ## Looks Rare
 
@@ -44,7 +44,7 @@ _X2Y2 take a 0.5% cut from sales_
 
 [Jaguar Gang](https://looksrare.org/collections/0x519aFeD29129a53e2894cFb2e3BAFc5261fb42A2?queryID=c47dd37328c3a51c7a846490f14dcbdf)
 
-_Looks Rare take a 2% cut from sales_
+_Looks Rare take a 2% cut from sales._
 
 ## Coinbase NFT
 
@@ -60,7 +60,7 @@ _Looks Rare take a 2% cut from sales_
 
 _Binance NFT is a centralised exchange, you need to transfer your Ape to their marketplace to sell there, and transfer your Ape out if you buy there. There are gas fees each time. Because of this, it is not a marketplace we recommend you use._&#x20;
 
-_Binance NFT takes a 1% cut from sales_
+_Binance NFT takes a 1% cut from sales._
 
 ## Nifty Gateway
 
