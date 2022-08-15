@@ -18,6 +18,12 @@ How does this look moving forwards? More will be announced later.
 
 Ape Gang and The Alien Boy first collaborated way back in September 2021 when both project's artists created derivatives for one another's community.&#x20;
 
+## GOATz&#x20;
+
+Similar to The Alien Boy, Ape Gang and GOATz have a lot in common, both minted early in 2021, have a similar vision. Together our 3 projects have come together to form a genuine and mutually beneficial partnership for us all.&#x20;
+
+How does this look moving forwards? More will be announced later.
+
 ## Lynx Club
 
 We have a strategic partnership agreement with an up-and-coming project that is determined to revolutionise how NFT Projects work together. We will be working with [LYNX Club NFT](https://lynxclubnft.com/), a collective of 5555 NFTs that grant you membership access into The Taiga. A “Digital Playground” where creativity and collaboration meet. A place where the builders of today and the creators of tomorrow unite.&#x20;
