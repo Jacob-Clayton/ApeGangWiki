@@ -12,7 +12,7 @@ description: >-
 
 Ape Gang was founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
-### Ape Gang consists of:
+### Ape Gang collections:
 
 * 10,000 [Ape](nft-collections/ape-gang.md) NFTs minted June 2021
 * 7,800 [Toucan](nft-collections/toucan-gang.md) NFTs minted October 2021
