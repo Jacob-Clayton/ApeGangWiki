@@ -45,9 +45,9 @@ The community has always been at the centre of everything Ape Gang does. Followi
 
 ## Sales Records
 
-Minting began on June 30th 2021, it sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
+Ape Gang sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
 
-Ape Gang has the 6th highest total sales out of all NFTs, with over 30,000 sales. A stat that means Ape Gang has been bought and sold by a large proportion of the NFT community, giving them instant brand recognition within the space.
+Ape Gang has the 6th highest total sales out of all NFTs, with over 30,000 sales. A stat that means Ape Gang has been bought and sold by a large proportion of the NFT community, giving Ape Gang instant brand recognition within the space.
 
 ![Ape Gang in 6th for all time sales](.gitbook/assets/AG\_sales\_record.png)
 
