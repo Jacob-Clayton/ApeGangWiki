@@ -25,7 +25,7 @@ Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 * [Fight Club](play-to-earn/fight-club.md)
 * [Gang Wars](play-to-earn-games/gang-wars.md)
 
-Community members use their NFTs to fight against one-another in weekly events to climb the leaderboard and win $GANG. And of course the right to gloat.
+Community members use their NFTs to fight against one-another in weekly events to climb the leaderboard and win $GANG. And the right to gloat.
 
 ## $GANG Token
 
