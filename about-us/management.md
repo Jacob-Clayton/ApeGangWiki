@@ -28,6 +28,14 @@ description: A four strong worldwide team supports the two founders
 * Twitter: [bulKZNFT](https://twitter.com/bulKZNFT)
 * Discord: [\[LC\] - bulKZ#2552](https://discord.com/users/\[LC]%20-%20bulKZ#2552)
 
+## Kolsas
+
+* Community Manager
+* 8 years of project management experience
+* From the UK
+* Twitter: [Kolsas](https://twitter.com/kolsas\_eth)
+* Discord: [Kolsas](https://discord.com/users/kolsas#7213)
+
 ## Mike Wang
 
 * 3D animator & artist
