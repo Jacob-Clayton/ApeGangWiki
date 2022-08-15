@@ -4,7 +4,7 @@ description: Minted October 20th 2021
 
 # Toucan Gang
 
-## Toucan Gang is a deflationary NFT companion collection
+## A deflationary NFT companion collection
 
 Each Toucan Gang NFT was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
 
