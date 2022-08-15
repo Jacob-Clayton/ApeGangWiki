@@ -54,7 +54,7 @@ description: Notable moments through Ape Gang's history
 
 #### April
 
-4th - NFC Lisbon event. Ape Gang sponsored NFC Lisbon and Jokong filled an auditorium for his talk about Ape Gang
+4th - Sponsored the NFC Lisbon event and Jokong filled an auditorium for his talk about Ape Gang
 
 4th - Founders doxxed
 
