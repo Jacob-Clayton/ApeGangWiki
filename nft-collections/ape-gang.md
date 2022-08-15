@@ -8,8 +8,6 @@ description: Minted June 30th 2021
 
 All Ape Gang NFTs were algorithmically generated from 156 hand drawn traits using python. The pixel art style uses a 50x50 pixel format, a style which [Jokong](../about-us/founders.md), the founder and artist, is renowned for.
 
-All 156 Ape traits translate to fighting stats. A feature which is entirely on-chain. Ape Gang's built-in stats have 4 categories; strength, health, fail % and critical % which all contribute towards their overall fighting ability.
-
 ### Ape Gang NFTs passively yield 1 $GANG per day
 
 * [$GANG](../the-ecosystem/usdgang-token.md) is our ERC-20 token which fuels the Ape Gang ecosystem
@@ -23,6 +21,10 @@ All 156 Ape traits translate to fighting stats. A feature which is entirely on-c
 All you need is an Ape Gang NFT and a browser to play
 
 ### Fighting stats are determined by an Ape's traits
+
+Every Ape has 4 built-in on-chain stats. Strength, Health, Fail % and Critical %. Together these stats determine an Apes overall fighting ability.
+
+All 156 Ape traits determine fighting stats. But which traits are good for fighting?
 
 * **Fur Type** Influences the overall strength, health, fail % and critical %. As well as the underlying fur type passive ability.
 * **Clothing** Influences the total health of an Ape. Apes with no clothes generally have considerably lower health.
