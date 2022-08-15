@@ -42,7 +42,7 @@ Ape Gang wanted to collaborate with Metapoly because we believe in what they are
 
 [Pangea DAO](https://www.pangeadao.org/) and Ape Gang formed a partnership in April 2022
 
-As we bring Ape Gang into the metaverse, we thought it makes sense to have the Ape Gang partner with a metaverse DAO.&#x20;
+As we bring Ape Gang into the metaverse, we thought it makes sense to have Ape Gang partner with a metaverse DAO.&#x20;
 
 Pangea is a Metaverse land investment cooperative structured as a DAO with the goal of creating more accessible and equitable virtual worlds. Governed by the community, the Pangea DAO treasury will acquire and manage a portfolio of diversified Metaverse real estate properties and assets, the profits of which will be used to both grow the treasury and reward $PNGA holders.
 
