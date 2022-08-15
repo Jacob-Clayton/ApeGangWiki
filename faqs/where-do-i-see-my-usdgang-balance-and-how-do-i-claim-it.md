@@ -10,3 +10,5 @@ You can interact with the contract by:
 * Buying an Ape
 * Selling an Ape
 * Transferring an Ape
+
+_Make sure you are signed in to the correct wallet, and have set it to the Ethereum blockchain_
