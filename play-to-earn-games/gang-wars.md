@@ -10,7 +10,7 @@ Gang Wars is a tournament where gangs of multiple Apes fight against one another
 
 ### Season 1&#x20;
 
-* Over 3200 participants
+* 3200 participants
 * Consisted of 64 gangs, with 50 Apes in each gang
 * 50 v 50 fighting format
 * Took place between December 2021 and February 2022
