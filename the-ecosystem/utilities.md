@@ -1,5 +1,5 @@
 ---
-description: There are currently 6 main utilities for $GANG
+description: We have multiple utilities already available to spend your $GANG on
 ---
 
 # Utilities
@@ -47,7 +47,7 @@ Current potions include:&#x20;
 
 ## Toucan Burning
 
-Burning a Toucan will increase the $GANG yielding of one Ape Gang NFT by 25%.&#x20;
+Burning a Toucan will increase the $GANG yielding of an Ape Gang NFT by 25%.&#x20;
 
 So, after burning one Toucan, your Ape will yield 1.25 $GANG per day instead of 1 $GANG per day.
 

@@ -19,7 +19,7 @@ Holders will always have full commercial usage rights over their NFT
 
 * Given as prizes for participating in [Gang Wars](../play-to-earn-games/gang-wars.md)
 * All Regular Jaguars have the same normal fur type. This is how you can tell the difference between a Regular Jaguar and a Legendary Jaguar
-* All Jaguars started out as a Regular Jaguar, over time they are burnt during the fusing process
+* All Jaguars started out as a Regular Jaguar, over time the supply of Regular Jaguars decreases as holders burn them during the fusing process
 * The Regular Jaguar supply is therefore constantly decreasing and becoming more scarce
 
 ## Legendary Jaguars <a href="#8c7c" id="8c7c"></a>
