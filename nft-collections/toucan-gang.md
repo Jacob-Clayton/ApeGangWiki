@@ -8,9 +8,11 @@ description: Minted October 20th 2021
 
 Each Toucan Gang NFT was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
 
+Holders will always have full commercial usage rights over their NFT
+
 ### Toucans have two main utilities
 
-1. Burn your Toucan to increase your daily $GANG yield OR&#x20;
+1. Burn your Toucan to increase your daily $GANG yield OR
 2. Pair your Toucan with an Ape to improve its fighting stats for [Gang Wars](../play-to-earn-games/gang-wars.md) Season 2
 
 The constant burning of Toucans reduces the total supply permanently, meaning this collection is deflationary

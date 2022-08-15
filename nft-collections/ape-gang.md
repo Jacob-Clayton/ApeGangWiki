@@ -8,6 +8,8 @@ description: Minted June 30th 2021
 
 All Ape Gang NFTs were algorithmically generated from 156 hand drawn traits using python. The pixel art style uses a 50x50 pixel format, a style which [Jokong](../about-us/founders.md), the founder and artist, is renowned for.
 
+Holders will always have full commercial usage rights over their NFT
+
 ### Ape Gang NFTs passively yield 1 $GANG per day
 
 * [$GANG](../the-ecosystem/usdgang-token.md) is our ERC-20 token which fuels the Ape Gang ecosystem
