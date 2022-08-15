@@ -16,6 +16,10 @@ Ape Gang, [The Alien Boy](https://twitter.com/TheAlienBoyNFT) and [GOATz](https:
 
 Our 3 projects have come together to form a genuine and mutually beneficial partnership for us all. More will be announced later.
 
+## Leapn
+
+We partnered with [Leapn](https://leapn.life/) for the creation of our custom 3D [metaverse](../the-ecosystem/ape-city-3d-metaverse.md). They created the island, it's skyscrapers and jungles and designed all the assets following Ape Gang's direction.
+
 ## Lynx Club
 
 We have a strategic partnership agreement with an up-and-coming project that is determined to revolutionise how NFT Projects work together. We will be working with [LYNX Club NFT](https://lynxclubnft.com/), a collective of 5555 NFTs that grant you membership access into The Taiga. A “Digital Playground” where creativity and collaboration meet. A place where the builders of today and the creators of tomorrow unite.&#x20;
