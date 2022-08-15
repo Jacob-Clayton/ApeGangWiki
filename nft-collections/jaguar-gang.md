@@ -6,7 +6,7 @@ description: Minted April 16th 2022
 
 ## An NFT collection with built-in genetics for breeding and fusing
 
-#### Jaguar Gang is the first NFT collection with both an deflationary & inflationary mechanism
+#### Jaguar Gang is the first ever NFT collection with both a deflationary & inflationary mechanism
 
 Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract. Each Jaguar was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using his well renowned 50x50 pixel style.
 
