@@ -12,10 +12,6 @@ description: Follow us!
 
 20,800 followers
 
-### [Youtube](https://www.youtube.com/channel/UCMw3BiTMAG87HJ1vO5vl7Pw)
-
-400 subscribers
-
 ### [TikTok](https://www.tiktok.com/@apegangnfts)
 
 4000 followers
@@ -23,6 +19,10 @@ description: Follow us!
 ### [Linkedin](https://www.linkedin.com/company/ape-gang-nft)
 
 880 followers
+
+### [Youtube](https://www.youtube.com/channel/UCMw3BiTMAG87HJ1vO5vl7Pw)
+
+400 subscribers
 
 ### [Facebook](https://www.facebook.com/ApeGangNFT/)
 
