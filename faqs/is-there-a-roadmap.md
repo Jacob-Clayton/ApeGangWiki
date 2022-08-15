@@ -6,4 +6,4 @@ Ape Gang will focus on building what is popular with the community, and what the
 
 Because the founders allow themselves to be fluid in their development approach, having a set-in-stone roadmap is not suitable any more.
 
-Ape Gang has completed 3 roadmaps in the past year. The founders hope this proven track-record provides them with the credibility they deserve and allows Ape Gang holders to trust that they will continue to deliver.
+Ape Gang has completed 3 roadmaps in the past year. The [founders](../about-us/founders.md) hope this proven track-record provides them with the credibility they deserve and allows Ape Gang holders to trust that they will continue to deliver.
