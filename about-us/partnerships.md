@@ -20,7 +20,7 @@ Ape Gang and The Alien Boy first collaborated way back in September 2021 when bo
 
 ## GOATz&#x20;
 
-Similar to The Alien Boy, Ape Gang and GOATz have a lot in common, both minted early in 2021, have a similar vision. Together our 3 projects have come together to form a genuine and mutually beneficial partnership for us all.&#x20;
+Similar to The Alien Boy, Ape Gang and [GOATz](https://maisondegoat.com/) have a lot in common, both minted early in 2021, have a similar vision. Together our 3 projects have come together to form a genuine and mutually beneficial partnership for us all.&#x20;
 
 How does this look moving forwards? More will be announced later.
 
