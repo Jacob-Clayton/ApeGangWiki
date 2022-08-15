@@ -29,7 +29,7 @@ Community members use their NFTs to fight against one-another in weekly events t
 
 ## $GANG Token
 
-Our ERC-20 token which fuels the ecosystem we have built. Each Ape passively yields 1 [$GANG](the-ecosystem/usdgang-token.md) per day.
+Our ERC-20 token which fuels the ecosystem we have built. Each Ape passively yields 1 [$GANG](the-ecosystem/usdgang-token.md) per day. Yield can be increased to 1.25 $GANG per day if you burn a [Toucan Gang NFT](nft-collections/toucan-gang.md).
 
 There are 6 [utilities](the-ecosystem/utilities.md) currently available to spend $GANG on.
 
