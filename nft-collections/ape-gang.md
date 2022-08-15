@@ -34,3 +34,9 @@ All 156 traits determine fighting stats. But which traits are good for fighting?
 * **Eyes** Influence the change of hitting a critical attack because the Ape has better vision
 * **Mouth** influences no idea
 * **Ear** influences no idea
+
+### Access to the Ape City metaverse
+
+Our a custom 3D island with skyscrapers and jungles for you to explore online with the community. All you need to get into the [Ape City metaverse](../the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
+
+Your unique Ape and it's traits will automatically be generated as your character for the metaverse.

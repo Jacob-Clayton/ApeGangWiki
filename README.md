@@ -28,6 +28,12 @@ Ape Gang has the 6th highest total sales out of all NFTs, with over 30,000 sales
 
 ![Ape Gang in 6th for all time sales](.gitbook/assets/AG\_sales\_record.png)
 
+## Ape City Metaverse
+
+Our custom 3D island with skyscrapers and jungles for you to explore online with other Apes. All you need to get into the [Ape City metaverse](the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
+
+Your unique Ape and it's traits will automatically be generated as your character for the metaverse.
+
 ## The Community
 
 The community has always been at the centre stage of everything Ape Gang does. Following the suggestions and guidance of the holders has nurtured a strong community bond which has kept Ape Gang alive through the bear market.
