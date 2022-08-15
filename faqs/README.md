@@ -11,7 +11,3 @@ If you have questions which are not answered here please ask in our [discord](ht
 ### [What does "migrate my Apes" mean?](what-does-migrate-my-apes-mean.md)
 
 ### [How do I burn my Toucans?](how-do-i-burn-my-toucans.md)
-
-### [Are the founders doxxed?](are-the-founders-doxxed.md)
-
-### [Is there a roadmap?](is-there-a-roadmap.md)
