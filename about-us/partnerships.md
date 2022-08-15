@@ -10,19 +10,13 @@ We’re thrilled our first real-life partnership is with Singapore’s first NFT
 
 We hosted our first IRL networking event on 30th July 2022 which sold out! We had a great time meeting everybody and look forward to many more events at [The Parlour Singapore.](https://twitter.com/TheParlourSg)
 
-## The Alien Boy
+## The Alien Boy and GOATz
 
-Ape Gang and [The Alien Boy](https://twitter.com/TheAlienBoyNFT) have a lot in common, both minted early in 2021, have a similar vision and share many of the same community members. Naturally, this has led to a genuine and mutually beneficial partnership for us both.
+Ape Gang, [The Alien Boy](https://twitter.com/TheAlienBoyNFT) and [GOATz](https://maisondegoat.com/) have a lot in common, both minted early in 2021, have a similar vision and share many of the same community members. Naturally, this has led to a genuine and mutually beneficial partnership for us all.
 
-How does this look moving forwards? More will be announced later.
+Together our 3 projects have come together to form a genuine and mutually beneficial partnership for us all. How does this look moving forwards? More will be announced later.
 
 Ape Gang and The Alien Boy first collaborated way back in September 2021 when both project's artists created derivatives for one another's community.&#x20;
-
-## GOATz&#x20;
-
-Similar to The Alien Boy, Ape Gang and [GOATz](https://maisondegoat.com/) have a lot in common, both minted early in 2021, have a similar vision. Together our 3 projects have come together to form a genuine and mutually beneficial partnership for us all.&#x20;
-
-How does this look moving forwards? More will be announced later.
 
 ## Lynx Club
 
