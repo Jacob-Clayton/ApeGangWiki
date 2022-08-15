@@ -6,9 +6,9 @@ description: >-
 
 # Ape Gang Wiki
 
-## What is Ape Gang?
+## Ape Gang is a collection of 10,000 NFTs minted on the Ethereum blockchain in June 2021
 
-### Ape Gang is a collection of 10,000 NFTs minted on the Ethereum blockchain in June 2021
+The Ape Gang world consists of 3 NFT collections; Apes, [Toucans](nft-collections/toucan-gang.md) and [Jaguars](nft-collections/jaguar-gang.md) which combine to form gangs to compete in our P2E games [Fight Club](play-to-earn/fight-club.md) and [Gang Wars](play-to-earn-games/gang-wars.md).
 
 All Ape Gang NFTs were algorithmically generated from 156 traits using python. The pixel art style was created using a 50x50 pixel format, a style which Jokong, the founder and artist, is renowned for.
 
