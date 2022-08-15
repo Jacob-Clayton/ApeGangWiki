@@ -20,9 +20,17 @@ description: Follow us!
 
 880 followers
 
+### [Twitch](https://www.twitch.tv/apegangnft)
+
+420 followers
+
 ### [Youtube](https://www.youtube.com/channel/UCMw3BiTMAG87HJ1vO5vl7Pw)
 
 400 subscribers
+
+### [Medium](https://apegang.medium.com/)
+
+162 followers
 
 ### [Facebook](https://www.facebook.com/ApeGangNFT/)
 
