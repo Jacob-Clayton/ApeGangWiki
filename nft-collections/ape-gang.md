@@ -22,11 +22,11 @@ Holders will always have full commercial usage rights over their NFT.
 
 All you need is an Ape Gang NFT and a browser to play.
 
-### Fighting stats are determined by an Ape's traits
+### Built-in fighting stats
 
-Every Ape has 4 built-in on-chain stats. Strength, Health, Fail % and Critical %. Together these stats determine an Apes overall fighting ability.
+Every Ape has 4 built-in on-chain stats. Strength, Health, Fail % and Critical %. Together these stats determine the overall fighting ability.
 
-All 156 traits determine fighting stats. But which traits are good for fighting?
+All 156 traits influence fighting stats. But which traits are good for fighting?
 
 * **Fur Type** is the most influential trait when it comes to fighting. Fur type determines the baseline strength, health, fail % and critical %.
 * **Clothing** traits add between 6 to 10 strength. Apes with no clothes therefore have considerably lower strength.
