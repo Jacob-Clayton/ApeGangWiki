@@ -6,11 +6,7 @@ description: Minted April 16th 2022
 
 ## An NFT collection with built-in breeding and fusing
 
-Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract.&#x20;
-
-Each Jaguar Gang NFT was programmatically generated from 150 unique traits using python.
-
-All 150 traits were hand drawn by Jokong using a 50x50 pixel format.
+Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract. Each Jaguar was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using his well renowned 50x50 pixel style.
 
 * The collection started as 5000 Regular Jaguars given as prizes for participation in [Gang Wars](../play-to-earn-games/gang-wars.md)
 * Over time 5000 __ additional Jaguar Cubs will be bred
