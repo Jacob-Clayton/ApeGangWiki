@@ -46,4 +46,5 @@
 * [Founders](about-us/founders.md)
 * [Management](about-us/management.md)
 * [Partnerships](about-us/partnerships.md)
+* [Social Media](about-us/social-media.md)
 * [Contracts](contracts.md)
