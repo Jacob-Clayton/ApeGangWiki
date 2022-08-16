@@ -2,7 +2,7 @@
 
 Want to burn some Toucans and boost your Ape's yield from 1 to 1.25 $GANG per day?
 
-Simply go to [https://apegang.art/utilities](https://apegang.art/utilities)
+Simply go to [apegang.art/utilities](https://apegang.art/utilities)
 
 1. Click the burn button
 2. Connect your wallet
