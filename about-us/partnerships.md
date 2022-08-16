@@ -14,7 +14,7 @@ We hosted our first IRL networking event on 30th July 2022 which sold out! We ha
 
 Ape Gang, [The Alien Boy](https://twitter.com/TheAlienBoyNFT) and [GOATz](https://maisondegoat.com/) have a lot in common, all 3 minted early in 2021, have a similar vision and share many of the same community members. Naturally, this has led to a genuine and mutually beneficial partnership for us all.
 
-Our 3 projects have come together to form a genuine and mutually beneficial partnership for us all. More will be announced later.
+More will be announced later.
 
 ## NFT Factory Paris
 
