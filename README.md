@@ -47,7 +47,7 @@ The community has always been at the centre of everything Ape Gang does. Followi
 
 **Passionate Team**
 
-The Ape Gang team is a group of like minded individuals determined to maintain a positive environment.
+The Ape Gang [team](about-us/management.md) is a group of like minded individuals determined to maintain a positive environment.
 
 **Friendly Community**
 
