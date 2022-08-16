@@ -35,6 +35,30 @@ All 156 traits influence fighting stats. But which traits are good for fighting?
 * **Mouth** traits improve the fail %, making the Ape less likely to miss an attack.
 * **Ear** traits add 5 health points and improve the fail % and critical % by 1.
 
+### Fur type passive abilities
+
+Every Ape has a passive ability associated with their fur type
+
+\<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+
+|      Fur Type     |                              Passive Ability                             |
+| :---------------: | :----------------------------------------------------------------------: |
+|       Brown       |    Each turn has a 1/10 chance of not receiving damage from the enemy    |
+| Strong Dark Brown |        Each turn has a 1/100 chance to kill the enemy in one shot        |
+|       Black       |          1/3 chance to multiply strength by 2 for this turn only         |
+|       Cream       |      1/4 chance to increase the enemy % fail by 45 only for one turn     |
+|        Grey       |            1/2 chance to gain 40 critical % for this turn only           |
+|       Tiger       |          1/4 chance of stealing 3 strength points from the enemy         |
+|       Zebra       |            1/2 chance of stealing 2 critical % from the enemy            |
+|       White       |           1/6 chance of stealing 3 health points from the enemy          |
+|      Cheetah      |               1/2 chance to increase the enemy % fail by 3               |
+|      Rainbow      |                   1/3 chance to gain 9 strength points                   |
+|     Red Devil     |             Critical damage is multiplied by 2 instead of 1.5            |
+|       Robot       |                      1/2 chance to gain 3 critical %                     |
+|       Zombie      | 30% of the damage the enemy inflicts on you is returned to him each turn |
+|       Alien       |      1/5 chance to divide the enemy's damage by 2 on the next attack     |
+|       Ghost       |             Once dead, comes back to life with 1 health point            |
+
 ### Access to the Ape City metaverse
 
 Our custom 3D island with skyscrapers and jungles for you to explore online with the community. All you need to get into the [Ape City metaverse](../the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
