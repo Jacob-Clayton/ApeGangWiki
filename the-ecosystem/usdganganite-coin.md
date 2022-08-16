@@ -10,7 +10,7 @@ Play-to-earn games shouldn't be plagued with small, frequent gas fees. So Ape Ga
 
 ### How does it work?
 
-You can swap $GANG for $GANGANITE at a 1:1 ratio from within Fight Club. You need to [register for Fight Club](https://apegang.art/fight) to access the swapping function on the website
+You can swap $GANG for $GANGANITE at a 1:1 ratio from within Fight Club. You need to [register for Fight Club](https://apegang.art/fight) to access the swapping function on the website.
 
 ### How can I buy and spend $GANGANITE?
 
@@ -18,5 +18,5 @@ Once you are registered for Fight Club on the [Ape Gang website](https://apegang
 
 ### What can I spend $GANGANITE on?
 
-We currently have in-game potions available to buy, which assist your Ape in Fight Club
+We currently have in-game potions available to buy, which assist your Ape in Fight Club.
 

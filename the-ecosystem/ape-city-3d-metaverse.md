@@ -6,9 +6,9 @@ description: Built by Leapn for Ape Gang
 
 ## Our custom 3D island with skyscrapers and jungles to explore
 
-All you need to get into the Ape City metaverse is an Ape Gang NFT and a browser
+All you need to get into the Ape City metaverse is an Ape Gang NFT and a browser.
 
-Sign in to our metaverse [here](https://leapn.life/ape-gang/ape-city/)
+Sign in to our metaverse [here](https://leapn.life/ape-gang/ape-city/).
 
 #### Your unique Ape and it's traits will automatically be generated as your character for the metaverse
 

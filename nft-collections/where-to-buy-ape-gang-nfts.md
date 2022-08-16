@@ -14,6 +14,8 @@ We recommend using Opensea primarily because everybody uses it. However Gem is a
 
 [Jaguar Gang](https://opensea.io/collection/jaguar-gang)
 
+[Ape Gang Collabs](https://opensea.io/collection/ape-gang-collabs)
+
 _Opensea take a 2.5% cut from sales._
 
 ## Gem
@@ -72,6 +74,3 @@ _Binance NFT takes a 1% cut from sales._
 
 [Ape Gang](https://nftx.io/vault/0x0e1e697e597052cdeb768159564af4bc6917dc81/buy/)
 
-## Ape Gang Collab NFTs
-
-[Ape Gang Collabs](https://opensea.io/collection/ape-gang-collabs)
