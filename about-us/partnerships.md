@@ -16,6 +16,16 @@ Ape Gang, [The Alien Boy](https://twitter.com/TheAlienBoyNFT) and [GOATz](https:
 
 Our 3 projects have come together to form a genuine and mutually beneficial partnership for us all. More will be announced later.
 
+## NFT Factory Paris
+
+NFT Factory is a collective of 51 tech and crypto leaders, artists, investors and executives at companies including Allianz Accelerator, Arianee, Blackpool, LaCollection, Dogami, Ethereum France, Galeries Lafayette Group, Ledger, Museum of Crypto Art (MOCA), NFT Morning Podcast, RTFKT Studios, The Sandbox and Sorare.
+
+The NFT Factory is a unique and hybrid 400m2 space in central Paris, ideal to welcome entrepreneurs, artists, investors and the general public to discover, connect & build around NFTs and the Web3. The space includes a gallery & museum with regular exhibitions, an event space for meetups, conferences and training sessions as well as a workspace.
+
+Due to open in September 2022, Ape Gang holders will be able to use their space and take advantage of the network of industry professionals NFT Factory has curated.
+
+
+
 ## Leapn
 
 We partnered with [Leapn](https://leapn.life/) for the creation of our custom 3D [metaverse](../the-ecosystem/ape-city-3d-metaverse.md). They created the island, it's skyscrapers and jungles and designed all the assets following Ape Gang's direction.
