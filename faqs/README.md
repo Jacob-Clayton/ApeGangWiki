@@ -15,3 +15,5 @@ If you have questions which are not answered here please ask in our [discord](ht
 ### [Are the founders doxxed?](are-the-founders-doxxed.md)
 
 ### [Is there a roadmap?](is-there-a-roadmap.md)
+
+### [What are the individual traits fighting stats?](what-are-the-individual-traits-fighting-stats.md)
