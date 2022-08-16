@@ -39,7 +39,7 @@ There are multiple [utilities](the-ecosystem/utilities.md) available for you to 
 
 Our custom 3D island with skyscrapers and jungles for you to explore online with other Apes. All you need to get into the [Ape City metaverse](the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
 
-Your unique Ape and it's traits will automatically be generated as your character for the metaverse.
+Your unique Ape and it's traits will automatically be generated as your playable character for the metaverse.
 
 ## The Community
 

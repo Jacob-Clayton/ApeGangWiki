@@ -10,7 +10,7 @@ All you need to get into the Ape City metaverse is an Ape Gang NFT and a browser
 
 Sign in to our metaverse [here](https://leapn.life/ape-gang/ape-city/).
 
-#### Your unique Ape and it's traits will automatically be generated as your character for the metaverse
+#### Your unique Ape and it's traits will automatically be generated as your playable character for the metaverse
 
 ![Lazer eyes, fire breath and rainbow drool are animated](../.gitbook/assets/ChidzoApe.jpg)
 
