@@ -14,9 +14,9 @@ Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
 ## Ape Gang Collections
 
-* 10,000 [Ape Gang](nft-collections/ape-gang.md) NFTs minted June 2021.
-* 7,800 [Toucan Gang](nft-collections/toucan-gang.md) NFTs minted October 2021.
-* 5,000 [Jaguar Gang](nft-collections/jaguar-gang.md) NFTs minted April 2022.
+* 10,000 [Ape](nft-collections/ape-gang.md) NFTs minted June 2021.
+* 7,800 [Toucan](nft-collections/toucan-gang.md) NFTs minted October 2021.
+* 5,000 [Jaguar](nft-collections/jaguar-gang.md) NFTs minted April 2022.
 
 _Jaguar Gang is the first ever NFT collection with both a deflationary & inflationary mechanism._
 
