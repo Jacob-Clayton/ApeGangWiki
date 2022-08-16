@@ -61,9 +61,9 @@ Weekly poker games with NFT prizes and weekly twitter spaces for project updates
 
 Ape Gang sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
 
-Ape Gang has the 6th highest total sales out of all NFTs, with over 30,000 sales. A stat that means Ape Gang has been bought and sold by a large proportion of the NFT community, giving Ape Gang instant brand recognition within the space.
+Ape Gang has the 8th highest total sales out of all NFTs, with over 31,000 sales. A stat that means Ape Gang has been bought and sold by a large proportion of the NFT community, giving Ape Gang instant brand recognition within the space.
 
-![Ape Gang in 6th for all time sales](.gitbook/assets/AG\_sales\_record.png)
+![Ape Gang in 8th for all time sales](<.gitbook/assets/leaderboard\_sales (1).png>)
 
 ## Full Commercial Usage Rights
 
