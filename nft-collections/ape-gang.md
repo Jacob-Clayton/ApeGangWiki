@@ -39,8 +39,6 @@ All 156 traits influence fighting stats. But which traits are good for fighting?
 
 Every Ape has a passive ability associated with their fur type
 
-\<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
-
 |      Fur Type     |                              Passive Ability                             |
 | :---------------: | :----------------------------------------------------------------------: |
 |       Brown       |    Each turn has a 1/10 chance of not receiving damage from the enemy    |
@@ -53,7 +51,7 @@ Every Ape has a passive ability associated with their fur type
 |       White       |           1/6 chance of stealing 3 health points from the enemy          |
 |      Cheetah      |               1/2 chance to increase the enemy % fail by 3               |
 |      Rainbow      |                   1/3 chance to gain 9 strength points                   |
-|     Red Devil     |             Critical damage is multiplied by 2 instead of 1.5            |
+|     Red Devil     |              Critical damage multiplied by 2 instead of 1.5              |
 |       Robot       |                      1/2 chance to gain 3 critical %                     |
 |       Zombie      | 30% of the damage the enemy inflicts on you is returned to him each turn |
 |       Alien       |      1/5 chance to divide the enemy's damage by 2 on the next attack     |
