@@ -63,7 +63,7 @@ Ape Gang sold out in 19 days. On the day of sell-out, Ape Gang set the record fo
 
 Ape Gang has the 8th highest total sales out of all NFTs, with over 31,000 sales. A stat that means Ape Gang has been bought and sold by a large proportion of the NFT community, giving Ape Gang instant brand recognition within the space.
 
-![Ape Gang in 8th for all time sales](<.gitbook/assets/leaderboard\_sales (1).png>)
+![Ape Gang in 8th for all time sales. Image taken 16th August 2022.](<.gitbook/assets/leaderboard\_sales (1).png>)
 
 ## Full Commercial Usage Rights
 
