@@ -24,7 +24,7 @@ All you need is an Ape Gang NFT and a browser to play.
 
 ### Built-in fighting stats
 
-Every Ape has 4 built-in on-chain stats. Strength, Health, Fail % and Critical %. Together these stats determine the overall fighting ability.
+Every Ape has 4 built-in on-chain stats. Strength, Health, Fail % and Critical %. Together these stats determine overall fighting ability.
 
 All 156 traits influence fighting stats. But which traits are good for fighting?
 
