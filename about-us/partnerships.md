@@ -22,7 +22,7 @@ Our 3 projects have come together to form a genuine and mutually beneficial part
 
 The NFT Factory is a unique and hybrid 400m2 space in central Paris, ideal to welcome entrepreneurs, artists, investors and the general public to discover, connect & build around NFTs and the Web3. The space includes a gallery & museum with regular exhibitions, an event space for meetups, conferences and training sessions as well as a workspace.
 
-Due to open in September 2022, Ape Gang holders will be able to use their space and take advantage of the network of industry professionals NFT Factory has developed.
+[Jokong and Rikong](founders.md) are co-founders of NFT Factory
 
 ## Leapn
 
