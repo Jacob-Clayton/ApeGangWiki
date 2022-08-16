@@ -16,10 +16,10 @@ Sign in to our metaverse [here](https://leapn.life/ape-gang/ape-city/).
 
 ### The Ape City obstacle course
 
-We have a challenging obstacle course floating in the sky above the city. There are 4 checkpoints along the route in case you fall from one of the many moving elements! Give it your best!&#x20;
+We have a challenging obstacle course floating in the sky above the city. There are 4 checkpoints along the route in case you fall from one of the many moving elements. Give it your best!&#x20;
 
 Follow the signposts at street level to access the course.
 
 ### Leapn
 
-Leapn is the team behind our metaverse. They created the island and designed all the assets following Ape Gang's direction. Find out more about the team behind out metaverse on [leapn.life](https://leapn.life/).
+Leapn is the team behind our metaverse. They created the island and designed all the assets following Ape Gang's direction. Find out more about the team behind our metaverse on [leapn.life](https://leapn.life/).
