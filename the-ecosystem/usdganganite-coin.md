@@ -10,7 +10,7 @@ Play-to-earn games shouldn't be plagued with small, frequent gas fees. So Ape Ga
 
 ### How does it work?
 
-You can swap your on-chain $GANG for off-chain $GANGANITE at a 1:1 ratio from within Fight Club. This then allows you to make unlimited $GANGANITE purchases without incurring a gas fee.\
+You can swap your on-chain $GANG for off-chain $GANGANITE at a 1:1 ratio from within Fight Club. This allows you to make unlimited $GANGANITE purchases without incurring gas fees.\
 You need to [register for Fight Club](https://apegang.art/fight) to access the swapping function on the website.
 
 ### How can I buy and spend $GANGANITE?
