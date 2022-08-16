@@ -39,23 +39,23 @@ All 156 traits influence fighting stats. But which traits are good for fighting?
 
 Every Ape has a passive ability associated with their fur type
 
-|      Fur Type     |                              Passive Ability                             |
-| :---------------: | :----------------------------------------------------------------------: |
-|       Brown       |    Each turn has a 1/10 chance of not receiving damage from the enemy    |
-| Strong Dark Brown |        Each turn has a 1/100 chance to kill the enemy in one shot        |
-|       Black       |          1/3 chance to multiply strength by 2 for this turn only         |
-|       Cream       |      1/4 chance to increase the enemy % fail by 45 only for one turn     |
-|        Grey       |            1/2 chance to gain 40 critical % for this turn only           |
-|       Tiger       |          1/4 chance of stealing 3 strength points from the enemy         |
-|       Zebra       |            1/2 chance of stealing 2 critical % from the enemy            |
-|       White       |           1/6 chance of stealing 3 health points from the enemy          |
-|      Cheetah      |               1/2 chance to increase the enemy % fail by 3               |
-|      Rainbow      |                   1/3 chance to gain 9 strength points                   |
-|     Red Devil     |              Critical damage multiplied by 2 instead of 1.5              |
-|       Robot       |                      1/2 chance to gain 3 critical %                     |
-|       Zombie      | 30% of the damage the enemy inflicts on you is returned to him each turn |
-|       Alien       |      1/5 chance to divide the enemy's damage by 2 on the next attack     |
-|       Ghost       |             Once dead, comes back to life with 1 health point            |
+| Fur Type          | Passive Ability                                                          |
+| ----------------- | ------------------------------------------------------------------------ |
+| Brown             | Each turn has a 1/10 chance of not receiving damage from the enemy       |
+| Strong Dark Brown | Each turn has a 1/100 chance to kill the enemy in one shot               |
+| Black             | 1/3 chance to multiply strength by 2 for this turn only                  |
+| Cream             | 1/4 chance to increase the enemy % fail by 45 only for one turn          |
+| Grey              | 1/2 chance to gain 40 critical % for this turn only                      |
+| Tiger             | 1/4 chance of stealing 3 strength points from the enemy                  |
+| Zebra             | 1/2 chance of stealing 2 critical % from the enemy                       |
+| White             | 1/6 chance of stealing 3 health points from the enemy                    |
+| Cheetah           | 1/2 chance to increase the enemy % fail by 3                             |
+| Rainbow           | 1/3 chance to gain 9 strength points                                     |
+| Red Devil         | Critical damage multiplied by 2 instead of 1.5                           |
+| Robot             | 1/2 chance to gain 3 critical %                                          |
+| Zombie            | 30% of the damage the enemy inflicts on you is returned to him each turn |
+| Alien             | 1/5 chance to divide the enemy's damage by 2 on the next attack          |
+| Ghost             | Once dead, comes back to life with 1 health point                        |
 
 ### Access to the Ape City metaverse
 
