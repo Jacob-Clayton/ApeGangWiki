@@ -35,6 +35,8 @@ All 156 traits influence fighting stats. But which traits are good for fighting?
 * **Mouth** traits improve the fail %, making the Ape less likely to miss an attack.
 * **Ear** traits add 5 health points and improve the fail % and critical % by 1.
 
+_Read the_ [_full breakdown of stats_](../faqs/what-are-the-individual-traits-fighting-stats.md) _if you would like to know more about fighting stats._
+
 ### Fur type passive abilities
 
 Every Ape has a passive ability associated with their fur type
