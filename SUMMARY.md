@@ -39,7 +39,7 @@
   * [How do I burn my Toucans?](faqs/how-do-i-burn-my-toucans.md)
   * [Are the founders doxxed?](faqs/are-the-founders-doxxed.md)
   * [Is there a roadmap?](faqs/is-there-a-roadmap.md)
-  * [Which Ape traits are good for fighting?](faqs/which-ape-traits-are-good-for-fighting.md)
+  * [Which Ape traits are good for fighting?](faqs/what-are-the-individual-traits-fighting-stats.md)
 
 ## About Us
 
