@@ -16,4 +16,4 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [Is there a roadmap?](is-there-a-roadmap.md)
 
-### [What are the individual traits fighting stats?](what-are-the-individual-traits-fighting-stats.md)
+### [Which Ape traits are good for fighting?](what-are-the-individual-traits-fighting-stats.md)
