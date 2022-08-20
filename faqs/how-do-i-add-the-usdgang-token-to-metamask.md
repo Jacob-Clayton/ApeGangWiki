@@ -10,7 +10,8 @@
     Token Symbol: GANG
 
     Token Decimal: 18
-5. MetaMask automatically updates the “token symbol” and “token decimal" once you enter "token contract address"
-6. Done!
+5. MetaMask automatically updates the “token symbol” and “token decimal" once you enter "token contract address", just make sure they match the above.
+6. Click "Add custom token".
+7. Done!
 
 We will soon be adding a button which automatically does this for you.
