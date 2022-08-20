@@ -40,6 +40,7 @@
   * [Are the founders doxxed?](faqs/are-the-founders-doxxed.md)
   * [Is there a roadmap?](faqs/is-there-a-roadmap.md)
   * [Which Ape traits are good for fighting?](faqs/what-are-the-individual-traits-fighting-stats.md)
+  * [How do I add the $GANG token to metamask?](faqs/how-do-i-add-the-usdgang-token-to-metamask.md)
 
 ## About Us
 

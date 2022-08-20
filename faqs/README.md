@@ -17,3 +17,5 @@ If you have questions which are not answered here please ask in our [discord](ht
 ### [Is there a roadmap?](is-there-a-roadmap.md)
 
 ### [Which Ape traits are good for fighting?](what-are-the-individual-traits-fighting-stats.md)
+
+### [How do I add the $GANG token to metamask?](how-do-i-add-the-usdgang-token-to-metamask.md)
