@@ -34,13 +34,13 @@
 * [FAQs](faqs/README.md)
   * [How do I play in Fight Club?](faqs/how-do-i-play-in-fight-club.md)
   * [Where do I see my $GANG balance and how do I claim it?](faqs/where-do-i-see-my-usdgang-balance-and-how-do-i-claim-it.md)
+  * [How do I add the $GANG token to metamask?](faqs/how-do-i-add-the-usdgang-token-to-metamask.md)
   * [How do I check if I can claim a Jaguar?](faqs/how-do-i-check-if-i-can-claim-a-jaguar.md)
   * [What does "migrate my apes" mean?](faqs/what-does-migrate-my-apes-mean.md)
   * [How do I burn my Toucans?](faqs/how-do-i-burn-my-toucans.md)
   * [Are the founders doxxed?](faqs/are-the-founders-doxxed.md)
   * [Is there a roadmap?](faqs/is-there-a-roadmap.md)
   * [Which Ape traits are good for fighting?](faqs/what-are-the-individual-traits-fighting-stats.md)
-  * [How do I add the $GANG token to metamask?](faqs/how-do-i-add-the-usdgang-token-to-metamask.md)
 
 ## About Us
 

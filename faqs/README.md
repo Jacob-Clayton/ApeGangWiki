@@ -6,6 +6,8 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [Where do I see my $GANG balance and how do I claim it?](where-do-i-see-my-usdgang-balance-and-how-do-i-claim-it.md)
 
+### [How do I add the $GANG token to metamask?](how-do-i-add-the-usdgang-token-to-metamask.md)
+
 ### [How do I check if I can claim a Jaguar?](how-do-i-check-if-i-can-claim-a-jaguar.md)
 
 ### [What does "migrate my Apes" mean?](what-does-migrate-my-apes-mean.md)
@@ -18,4 +20,3 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [Which Ape traits are good for fighting?](what-are-the-individual-traits-fighting-stats.md)
 
-### [How do I add the $GANG token to metamask?](how-do-i-add-the-usdgang-token-to-metamask.md)
