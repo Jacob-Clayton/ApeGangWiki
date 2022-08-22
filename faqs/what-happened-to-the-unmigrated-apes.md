@@ -21,7 +21,7 @@ Thankfully [Jokong and Rikong](../about-us/founders.md) have developed a way to 
 4. Select the apes you wish to migrate and click the migrate button.
 5. All done, simple as that!
 
-_If you don't see your apes in your wallet after a completed transaction, do not worry Opensea can sometimes be slow on transfers._
+_If you don't see your new apes in your wallet after a completed transaction, do not worry Opensea can sometimes be slow on transfers. They're on their way._
 
 
 
