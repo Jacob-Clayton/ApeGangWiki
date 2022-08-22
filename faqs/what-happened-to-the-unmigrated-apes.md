@@ -20,7 +20,7 @@ Thankfully [Jokong and Rikong](../about-us/founders.md) have developed a way to 
 3. Make sure you have enough eth to cover gas fees.
 4.  Select the apes you wish to migrate and click the migrate button.
 
-    _If you get an "Api Rate limits exceeded" error message during the migration process, please wait a few minutes and try again._
+    _If you get an "Api Rate limits exceeded" error message, please wait a few minutes and try again._
 5. All done, simple as that!
 
 _If you don't see your new apes in your wallet after a completed transaction, do not worry Opensea can sometimes be slow on transfers._
