@@ -1,7 +1,3 @@
----
-description: The don't show on Opensea any more.
----
-
 # What happened to the unmigrated Apes?
 
 #### You may have noticed that the unmigrated collection is no longer on Opensea. Don't worry!
