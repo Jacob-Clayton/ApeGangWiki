@@ -18,7 +18,9 @@ Thankfully [Jokong and Rikong](../about-us/founders.md) have developed a way to 
 1. &#x20;Go to [https://apegang.art/migration](https://apegang.art/migration).
 2. Connect your wallet that holds your ape(s).
 3. Make sure you have enough eth to cover gas fees.
-4. Select the apes you wish to migrate and click the migrate button.
+4.  Select the apes you wish to migrate and click the migrate button.
+
+    _If you get an "Api Rate limits exceeded" error message during the migration process, please wait a few minutes and try again._
 5. All done, simple as that!
 
 _If you don't see your new apes in your wallet after a completed transaction, do not worry Opensea can sometimes be slow on transfers._
