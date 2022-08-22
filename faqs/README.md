@@ -8,6 +8,8 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [How do I add the $GANG token to metamask?](how-do-i-add-the-usdgang-token-to-metamask.md)
 
+### [What happened to the unmigrated Apes?](what-happened-to-the-unmigrated-apes.md)
+
 ### [How do I check if I can claim a Jaguar?](how-do-i-check-if-i-can-claim-a-jaguar.md)
 
 ### [What does "migrate my Apes" mean?](what-does-migrate-my-apes-mean.md)
