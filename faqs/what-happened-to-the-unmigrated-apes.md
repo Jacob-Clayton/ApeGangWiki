@@ -21,8 +21,8 @@ Thankfully [Jokong and Rikong](../about-us/founders.md) have developed a way to 
 4. Select the apes you wish to migrate and click the migrate button.
 5. All done, simple as that!
 
-_If you don't see your new apes in your wallet after a completed transaction, do not worry Opensea can sometimes be slow on transfers. They're on their way._
+_If you don't see your new apes in your wallet after a completed transaction, do not worry Opensea can sometimes be slow on transfers._
 
-
+__
 
 This is a timely reminder as to why we migrated in the first place, so that a company like Opensea does not have control over our contract. We are very lucky that [Jokong and Rikong](../about-us/founders.md) were able to develop a way to migrate an NFT which doesn't even have a contract. Not an easy task!
