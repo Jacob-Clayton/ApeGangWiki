@@ -35,6 +35,18 @@ Our ERC-20 token which fuels the ecosystem we have built. Each Ape passively yie
 
 There are multiple [utilities](the-ecosystem/utilities.md) available for you to spend $GANG on.
 
+## The Ape Gang world
+
+There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit together?
+
+[Apes](nft-collections/ape-gang.md) are the centre piece. They are the strongest fighters and they yield [$GANG](the-ecosystem/usdgang-token.md) which fuels the whole ecosystem.
+
+[Toucans](nft-collections/toucan-gang.md) can be used two ways; to boost Apes fighting stats OR to boost Apes $GANG yielding.
+
+[Jaguars](nft-collections/jaguar-gang.md) brought a new dynamic to the world, breeding and fusing. Legendary Jaguars can fight on their own alongside Apes, and will make fighting more tactical.
+
+Together the three NFT collections will combine to fight alongside each other in our P2E game.
+
 ## Ape City Metaverse
 
 Owning an Ape Gang gets you access to our custom 3D island with skyscrapers and jungles. Explore the world in online multiplayer with the community. All you need to get into the [Ape City metaverse](the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
