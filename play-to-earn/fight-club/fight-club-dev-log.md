@@ -37,3 +37,7 @@ description: History of Fight Club updates
   * 10 to 19 apes = 15 fights per day
   * 20 to 49 apes = 16 fights per day
   * \> 50 apes = 17 fights per day
+
+#### Week 2
+
+* No updates (testing to make sure previous updates worked smoothly)
