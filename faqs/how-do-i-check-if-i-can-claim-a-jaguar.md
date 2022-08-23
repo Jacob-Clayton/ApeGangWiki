@@ -33,3 +33,5 @@ False means
 
 * Ape has not claimed it's Jaguars yet, OR
 * Ape has no Jaguar claims because they didn't win any in [Gang Wars](../play-to-earn-games/gang-wars.md).
+
+On it's own the Etherscan method is not very useful, but when combined with using Opensea it will save you from making mistakes.
