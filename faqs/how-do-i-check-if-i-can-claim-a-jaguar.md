@@ -1,6 +1,6 @@
 # How do I check if I can claim a Jaguar?
 
-### There are 2 ways to check if an Ape has a Jaguar claim
+### There are 2 ways to check if an [Ape](../nft-collections/ape-gang.md) has a [Jaguar](../nft-collections/jaguar-gang.md) claim
 
 Sometimes Opensea's metadata is not updated, so we recommend always checking claims on both Opensea and etherscan to double check Jaguar claims.
 
@@ -28,7 +28,7 @@ How?
 False means
 
 1. Ape has not claimed it's Jaguars yet, OR
-2. Ape has no Jaguar claims because they didn't win any in [Gang Wars](../play-to-earn-games/gang-wars.md)
+2. Ape has no Jaguar claims because they didn't win any in [Gang Wars](../play-to-earn-games/gang-wars.md).
 
 True means:
 
