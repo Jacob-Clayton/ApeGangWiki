@@ -8,6 +8,8 @@ description: Minted October 20th 2021
 
 Each Toucan Gang NFT was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
 
+The constant burning of Toucans reduces the total supply permanently, meaning this collection is deflationary.
+
 Holders will always have full commercial usage rights over their NFT.
 
 ### Toucans have two main utilities
@@ -15,11 +17,9 @@ Holders will always have full commercial usage rights over their NFT.
 1. Burn your Toucan to increase your daily $GANG yield OR
 2. Pair your Toucan with an Ape to improve its fighting stats for [Gang Wars](../play-to-earn-games/gang-wars.md) Season 2.
 
-The constant burning of Toucans reduces the total supply permanently, meaning this collection is deflationary.
-
 ## If you burn your Toucan <a href="#400b" id="400b"></a>
 
-Burning a Toucan will increase the $GANG yielding of one Ape Gang NFT by 25% for all eternity. So, after burning one Toucan, your Ape will yield 1.25 $GANG per day instead of 1 $GANG per day.
+Burning a Toucan will increase the $GANG yielding of one Ape Gang NFT by 25% forever, even if the Ape is sold. So, after burning one Toucan, your Ape will yield 1.25 $GANG per day instead of 1 $GANG per day.
 
 Read [how to burn your Toucan](../faqs/how-do-i-burn-my-toucans.md).
 
