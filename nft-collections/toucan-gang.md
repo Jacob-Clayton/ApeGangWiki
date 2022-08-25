@@ -52,4 +52,12 @@ For example, if your Ape has 400 health and you boost it with a 65 health Toucan
 
 So how should you go about selecting the best Toucans to boost your gang? We will leave this entirely up to you. Maybe you decide to lower your Robot Ape’s chance of failing. Or increase the critical chance for your Red Devil Ape. Who knows. Have fun experimenting!
 
+## Toucan Rarity
+
+Some people buy Toucans for aesthetics, some for their fighting stats and some for the rarity.&#x20;
+
+But which Toucans are rare? You can search through the whole collection on [Rarity.Tools](https://rarity.tools/toucan-gang) to find a rare Toucan that suits you. And if you're lucky maybe even a rare Toucan that has been mis-priced.
+
+<figure><img src="../.gitbook/assets/Toucan-Gang-rarity-tools (1).png" alt=""><figcaption><p>The rarest Toucans</p></figcaption></figure>
+
 #### Fun Fact: The inspiration for Toucan Gang came from Jokong's pet parrot called Riggs.
