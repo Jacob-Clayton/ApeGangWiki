@@ -4,7 +4,7 @@ description: Ape Gang is on all major marketplaces
 
 # Where to buy Ape Gang NFTs
 
-We recommend using Opensea primarily because everybody uses it. However Gem is a fantastic alternative and arguably better.
+We recommend using Opensea primarily because everybody uses it. However Gem and Genie are fantastic alternatives and arguably better.
 
 ## Opensea
 
@@ -27,6 +27,16 @@ _Opensea take a 2.5% cut from sales._
 [Jaguar Gang](https://www.gem.xyz/collection/jaguar-gang/)
 
 _Gem is a marketplace aggregator that displays listings from multiple marketplaces in one place. The % cut from sales differs._
+
+## Genie
+
+[Ape Gang](https://www.genie.xyz/collection/0x2118fa9369b9a52fb6bf8cf3fd392643d55a53b4)
+
+[Toucan Gang](https://www.genie.xyz/collection/0xe9f3037c7e035ab4ad286ccb6ce0be60836446cf)
+
+[Jaguar Gang](https://www.genie.xyz/collection/0x519afed29129a53e2894cfb2e3bafc5261fb42a2)
+
+_Genie is a marketplace aggregator that displays listings from multiple marketplaces in one place. The % cut from sales differs._
 
 ## X2Y2
 
