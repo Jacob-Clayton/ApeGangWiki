@@ -63,6 +63,14 @@ Owning an Ape Gang gets you access to our custom 3D island with skyscrapers and 
 
 Your unique Ape and it's traits will automatically be generated as your playable character for the metaverse.
 
+### Ape Rarity
+
+Some people buy Apes for aesthetics, some for their fighting ability and some for the rarity.&#x20;
+
+But which Apes are rare? Ape Gang uses [Rarity.Tools](https://rarity.tools/ape-gang) to track rarity, making it very easy to search through the entire collection and find a rare Ape that suits you.
+
+<figure><img src="../.gitbook/assets/Ape-Gang-rarity-tools.png" alt=""><figcaption><p>The rarest Apes</p></figcaption></figure>
+
 ### Full commercial usage rights
 
 Holders will always have full commercial usage rights over their Ape Gang NFTs.
