@@ -53,9 +53,9 @@ Together, the three NFT collections will combine to fight alongside and against 
 
 ## Ape City Metaverse
 
-Owning an Ape Gang gets you access to our custom 3D island with skyscrapers and jungles. Explore the world in online multiplayer with the community. All you need to get into the [Ape City metaverse](the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
+Owning an Ape Gang NFT gets you access to our custom 3D metaverse. An island with skyscrapers, jungles, beaches and an obstacle course. Explore our world in online multiplayer with the community. All you need to get into the [Ape City metaverse](the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
 
-Your unique Ape and it's traits will automatically be generated as your playable character for the metaverse.
+Your Ape and all it's traits will automatically be generated as your playable character for the metaverse. If you own a fire breathing Ape Gang NFT, your metaverse ape will come with an animation to breath fire!
 
 ## The Community
 
