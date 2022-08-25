@@ -43,11 +43,11 @@ There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit togethe
 
 [Toucans](nft-collections/toucan-gang.md) can be used two ways; to boost Apes' fighting stats OR to boost Apes' $GANG yielding.
 
-[Jaguars](nft-collections/jaguar-gang.md) add a new dynamic to the world with breeding and fusing.&#x20;
+[Jaguars](nft-collections/jaguar-gang.md) is the first NFT collection which is both deflationary and inflationary. This adds a new dynamic to the world with our innovative genetic-based breeding and fusing.&#x20;
 
-* Regular Jaguars can be fused together to create a new Legendary Jaguar NFT.
+* Regular Jaguars can be fused together to create one new Legendary Jaguar NFT, a process which burns the two original Regular Jaguars.
 * Legendary Jaguars will be able to fight in our P2E game against Apes, making fighting more tactical.
-* Two Legendary Jaguars can breed a new Legendary Cub NFT, which will provide a yet to be revealed exclusive utility.
+* Two Legendary Jaguars can also breed a new Jaguar Cub NFT, which will provide a soon to be revealed exclusive utility.
 
 Together the three NFT collections will combine to fight alongside and against each other in [Gang Wars](play-to-earn-games/gang-wars.md) Season 2.
 
