@@ -41,11 +41,15 @@ There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit togethe
 
 [Apes](nft-collections/ape-gang.md) are the centre piece. They are the strongest fighters and they yield [$GANG](the-ecosystem/usdgang-token.md) which fuels the whole ecosystem.
 
-[Toucans](nft-collections/toucan-gang.md) can be used two ways; to boost Apes fighting stats OR to boost Apes $GANG yielding.
+[Toucans](nft-collections/toucan-gang.md) can be used two ways; to boost Apes' fighting stats OR to boost Apes' $GANG yielding.
 
-[Jaguars](nft-collections/jaguar-gang.md) brought a new dynamic to the world, breeding and fusing. Legendary Jaguars can fight on their own alongside Apes, and will make fighting more tactical.
+[Jaguars](nft-collections/jaguar-gang.md) add a new dynamic to the world with breeding and fusing.&#x20;
 
-Together the three NFT collections will combine to fight alongside each other in our P2E game.
+* Regular Jaguars can be fused together to create a new Legendary Jaguar NFT.
+* Legendary Jaguars will be able to fight in our P2E game against Apes, making fighting more tactical.
+* Two Legendary Jaguars can breed a new Legendary Cub NFT, which will provide a yet to be revealed exclusive utility.
+
+Together the three NFT collections will combine to fight alongside and against each other in [Gang Wars](play-to-earn-games/gang-wars.md) Season 2.
 
 ## Ape City Metaverse
 
