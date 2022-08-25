@@ -54,7 +54,7 @@ So how should you go about selecting the best Toucans to boost your gang? We wil
 
 ## Toucan Rarity
 
-Some people buy Toucans for aesthetics, some for their fighting stats and some for the rarity.&#x20;
+Some people buy Toucans for aesthetics, some for their fighting stats, some get a cheap one just to burn it for extra [$GANG](../the-ecosystem/usdgang-token.md) and some people go for the rare Toucans.&#x20;
 
 But which Toucans are rare? You can search through the whole collection on [Rarity.Tools](https://rarity.tools/toucan-gang) to find a rare Toucan that suits you. And if you're lucky maybe even a rare Toucan that has been mis-priced.
 
