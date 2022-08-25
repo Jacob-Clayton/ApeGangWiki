@@ -67,7 +67,7 @@ Your unique Ape and it's traits will automatically be generated as your playable
 
 Some people buy Apes for aesthetics, some for their fighting ability and some for the rarity.&#x20;
 
-But which Apes are rare? You can search through the whole collection on [Rarity.Tools](https://rarity.tools/ape-gang) to find a rare Ape that suits you. And maybe even a rare Ape that has been mis-priced.
+But which Apes are rare? You can search through the whole collection on [Rarity.Tools](https://rarity.tools/ape-gang) to find a rare Ape that suits you. And if you're lucky maybe even a rare Ape that has been mis-priced.
 
 <figure><img src="../.gitbook/assets/Ape-Gang-rarity-tools.png" alt=""><figcaption><p>The rarest Apes</p></figcaption></figure>
 
