@@ -73,6 +73,8 @@ Our only requirement for being a part of our community is to be friendly towards
 
 Weekly poker games with NFT prizes and weekly twitter spaces for project updates and catch-ups.
 
+And of course [Fight Club](play-to-earn/fight-club.md), which entertains us throughout the entire week and provides some great banter in discord.
+
 ## Sales Records
 
 Ape Gang sold out in 19 days. On the day of sell-out, Ape Gang set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
