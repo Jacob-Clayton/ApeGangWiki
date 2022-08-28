@@ -16,7 +16,7 @@ All Ape Gang NFTs were algorithmically generated from 156 hand drawn traits usin
 
 ### Use your Ape in our P2E game Fight Club
 
-[Fight Club](../play-to-earn/fight-club.md) is a 1v1 game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG.
+[Fight Club](../play-to-earn-games/fight-club/) is a 1v1 game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG.
 
 All you need is an Ape Gang NFT and a browser to play.
 
@@ -33,7 +33,7 @@ All 156 traits influence fighting stats. But which traits are good for fighting?
 * **Mouth** traits improve the fail %, making the Ape less likely to miss an attack.
 * **Ear** traits add 5 health points and improve the fail % and critical % by 1.
 
-_Read the_ [_full breakdown of stats_](../faqs/what-are-the-individual-traits-fighting-stats.md) _if you would like to know more about fighting stats._
+_Read the_ [_full breakdown of stats_](../faqs/which-ape-traits-are-good-for-fighting.md) _if you would like to know more about fighting stats._
 
 ### Fur type passive abilities
 
@@ -59,7 +59,7 @@ Every Ape has a passive ability associated with their fur type
 
 ### Access to the Ape City metaverse
 
-Owning an Ape Gang gets you access to our custom 3D island with skyscrapers and jungles. Explore the world in online multiplayer with the community. All you need to get into the [Ape City metaverse](../the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
+Owning an Ape Gang gets you access to our custom 3D island with skyscrapers and jungles. Explore the world in online multiplayer with the community. All you need to get into the [Ape City metaverse](../the-ecosystem/metaverse.md) is an Ape Gang NFT and a browser.
 
 Your unique Ape and it's traits will automatically be generated as your playable character for the metaverse.
 

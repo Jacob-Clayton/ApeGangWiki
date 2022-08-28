@@ -26,7 +26,7 @@ The NFT Factory is a unique and hybrid 400m2 space in central Paris, ideal to we
 
 ## Leapn
 
-We partnered with [Leapn](https://leapn.life/) for the creation of our custom 3D [metaverse](../the-ecosystem/ape-city-3d-metaverse.md). They created the island, it's skyscrapers and jungles and designed all the assets following Ape Gang's direction.
+We partnered with [Leapn](https://leapn.life/) for the creation of our custom 3D [metaverse](../the-ecosystem/metaverse.md). They created the island, it's skyscrapers and jungles and designed all the assets following Ape Gang's direction.
 
 ## Lynx Club
 

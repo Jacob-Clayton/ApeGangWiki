@@ -24,7 +24,7 @@ _Jaguar Gang is the first ever NFT collection with both a deflationary & inflati
 
 [Apes](nft-collections/ape-gang.md), [Toucans](nft-collections/toucan-gang.md) and [Jaguars](nft-collections/jaguar-gang.md) team up to form gangs which compete in our two P2E games:
 
-* [Fight Club](play-to-earn/fight-club.md)
+* [Fight Club](play-to-earn-games/fight-club/)
 * [Gang Wars](play-to-earn-games/gang-wars.md)
 
 Community members use their NFTs to fight against one-another in weekly events to climb the leaderboard and win $GANG. And the right to gloat.
@@ -46,14 +46,14 @@ There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit togethe
 [Jaguars](nft-collections/jaguar-gang.md) add a new dynamic to the world with our innovative genetic-based breeding and fusing.&#x20;
 
 * Regular Jaguars can be fused together to create one new Legendary Jaguar NFT, a process which burns the two original Regular Jaguars.
-* Legendary Jaguars will be able to fight in our P2E game against Apes, making fighting more tactical.
+* The Legendary Jaguars will be able to fight in our P2E game against Apes and Toucans.
 * Two Legendary Jaguars can also breed a new Jaguar Cub NFT, which will provide a soon to be revealed exclusive utility.
 
-Together, the three NFT collections will combine to fight alongside and against each other in [Gang Wars](play-to-earn-games/gang-wars.md) Season 2.
+Together, our three NFT collections will combine to fight against each other in [Gang Wars](play-to-earn-games/gang-wars.md) Season 2.
 
 ## Ape City Metaverse
 
-Owning an Ape Gang NFT gets you access to our custom 3D metaverse. An island with skyscrapers, jungles, beaches and an obstacle course. Explore our world in online multiplayer with the community. All you need to get into the [Ape City metaverse](the-ecosystem/ape-city-3d-metaverse.md) is an Ape Gang NFT and a browser.
+Owning an Ape Gang NFT gets you access to our custom 3D metaverse. An island with skyscrapers, jungles, beaches and an obstacle course. Explore our world in online multiplayer with the community. All you need to get into the [Ape City metaverse](the-ecosystem/metaverse.md) is an Ape Gang NFT and a browser.
 
 Your Ape and all it's traits will automatically be generated as your playable character for the metaverse. If you own a fire breathing Ape Gang NFT, your metaverse ape will come with an animation to breath fire!
 
@@ -73,7 +73,7 @@ Our only requirement for being a part of our community is to be friendly towards
 
 Weekly poker games with NFT prizes and weekly twitter spaces for project updates and catch-ups.
 
-And of course [Fight Club](play-to-earn/fight-club.md), which entertains us throughout the entire week and provides some great banter in discord.
+And of course [Fight Club](play-to-earn-games/fight-club/), which entertains us throughout the entire week and provides some great banter in discord.
 
 ## Sales Records
 

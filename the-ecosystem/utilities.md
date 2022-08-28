@@ -32,7 +32,7 @@ Costs 25 $GANG
 
 ## Fight Club
 
-Gain entry to [Fight Club](../play-to-earn/fight-club.md) and fight against other community members Apes to climb the weekly leaderboard and win [$GANG](usdgang-token.md).
+Gain entry to [Fight Club](../play-to-earn-games/fight-club/) and fight against other community members Apes to climb the weekly leaderboard and win [$GANG](usdgang-token.md).
 
 Costs 100 $GANG
 

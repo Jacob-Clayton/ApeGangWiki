@@ -11,16 +11,16 @@
 
 ## Play-to-earn Games
 
-* [Fight Club](play-to-earn/fight-club.md)
-  * [Fight Club Dev Log](play-to-earn/fight-club/fight-club-dev-log.md)
+* [Fight Club](play-to-earn-games/fight-club/README.md)
+  * [Fight Club Dev Log](play-to-earn-games/fight-club/fight-club-dev-log.md)
 * [Gang Wars](play-to-earn-games/gang-wars.md)
 
 ## The Ecosystem
 
+* [Metaverse](the-ecosystem/metaverse.md)
+* [Utilities](the-ecosystem/utilities.md)
 * [$GANG Token](the-ecosystem/usdgang-token.md)
 * [$GANGANITE Coin](the-ecosystem/usdganganite-coin.md)
-* [Ape City 3D Metaverse](the-ecosystem/ape-city-3d-metaverse.md)
-* [Utilities](the-ecosystem/utilities.md)
 * [Lore](the-ecosystem/lore/README.md)
   * [Chapter 1](the-ecosystem/lore/chapter-1.md)
   * [Chapter 2](the-ecosystem/lore/chapter-2.md)
@@ -36,12 +36,13 @@
   * [Where do I see my $GANG balance and how do I claim it?](faqs/where-do-i-see-my-usdgang-balance-and-how-do-i-claim-it.md)
   * [How do I add the $GANG token to metamask?](faqs/how-do-i-add-the-usdgang-token-to-metamask.md)
   * [What happened to the unmigrated Apes?](faqs/what-happened-to-the-unmigrated-apes.md)
-  * [How do I check if I can claim a Jaguar?](faqs/how-do-i-check-if-i-can-claim-a-jaguar.md)
+  * [How do I check if an Ape can claim a Jaguar?](faqs/how-do-i-check-if-an-ape-can-claim-a-jaguar.md)
+  * [How many breeds does my Jaguar have remaining?](faqs/how-many-breeds-does-my-jaguar-have-remaining.md)
   * [What does "migrate my apes" mean?](faqs/what-does-migrate-my-apes-mean.md)
   * [How do I burn my Toucans?](faqs/how-do-i-burn-my-toucans.md)
   * [Are the founders doxxed?](faqs/are-the-founders-doxxed.md)
   * [Is there a roadmap?](faqs/is-there-a-roadmap.md)
-  * [Which Ape traits are good for fighting?](faqs/what-are-the-individual-traits-fighting-stats.md)
+  * [Which Ape traits are good for fighting?](faqs/which-ape-traits-are-good-for-fighting.md)
 
 ## About Us
 
@@ -50,4 +51,4 @@
 * [Management](about-us/management.md)
 * [Partnerships](about-us/partnerships.md)
 * [Social Media](about-us/social-media.md)
-* [Contracts](contracts.md)
+* [Contracts](about-us/contracts.md)

@@ -6,16 +6,14 @@ description: Minted October 20th 2021
 
 ## A deflationary NFT companion collection
 
-Each Toucan Gang NFT was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
-
-Holders will always have full commercial usage rights over their NFT.
+All 7,815 Toucan Gang NFTs were programmatically generated from 150 unique traits using python. The traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
 
 ### Toucans have two main utilities
 
 1. Burn your Toucan to increase your daily $GANG yield OR
 2. Pair your Toucan with an Ape to improve its fighting stats for [Gang Wars](../play-to-earn-games/gang-wars.md) Season 2.
 
-The constant burning of Toucans reduces the total supply permanently, making the collection deflationary.
+The constant burning of Toucans reduces the total supply permanently, making the collection deflationary. So far 1,115 Toucans have been burned.
 
 ## If you burn your Toucan <a href="#400b" id="400b"></a>
 
@@ -58,6 +56,14 @@ Some people buy Toucans for aesthetics, some for their fighting stats, some just
 
 But which Toucans are rare? You can search through the whole collection on [Rarity.Tools](https://rarity.tools/toucan-gang) to find a rare Toucan that suits you. And if you're lucky maybe even a rare Toucan that has been mis-priced.
 
-<figure><img src="../.gitbook/assets/Toucan-Gang-rarity-tools (1).png" alt=""><figcaption><p>The rarest Toucans</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Toucan-Gang-rarity-tools.png" alt=""><figcaption><p>The rarest Toucans</p></figcaption></figure>
+
+## Why are there 7,815 Toucans?
+
+Toucan Gang was a free mint for Ape holders with a mint window of 10 days between October 20th and October 30th 2021. For every Ape held in your wallet you could mint a Toucan. Not all 10,000 potential Toucans were minted. Likely due to a combination of holders not being aware and some people losing access to their wallets. And that's how we ended up with 7,815 Toucans.
+
+## Full commercial usage rights
+
+Holders will always have full commercial usage rights over their NFT.
 
 #### Fun Fact: The inspiration for Toucan Gang came from Jokong's pet parrot called Riggs.

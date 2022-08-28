@@ -12,7 +12,7 @@ description: Notable moments through Ape Gang's history
 
 #### June
 
-30th - Apes are minted all at once on Opensea.
+30th - Apes are minted on Opensea.
 
 #### July
 
@@ -22,17 +22,17 @@ description: Notable moments through Ape Gang's history
 
 #### October
 
-9th - All time highest sale 33.69 ETH Vader Ape was bought.
+9th - All time highest sale. 33.69 ETH Vader Ape was bought.
 
 20th - Deflationary Toucan Gang NFT collection launched as a free mint for Ape holders.
 
 23rd - Times Square NYC Billboard. Over a million people viewed our billboard during the weekend.
 
-31st - Free Halloween themed Ape Gang Comic book airdropped via Polygon.
+31st - Free Halloween themed Ape Gang comic book airdropped via Polygon.
 
 #### December
 
-10th - Launch of the Ape City custom 3D Metaverse created by LeapN.
+10th - Launch of the Ape City custom 3D metaverse created by LeapN.
 
 15th - Migrated to our own ERC-721 contract to ensure the future of Ape Gang.
 
@@ -60,20 +60,28 @@ description: Notable moments through Ape Gang's history
 
 14th - Metaverse update. All 10,000 unique Apes generated on demand as a 3D character for our metaverse.
 
-16th - Jaguar Gang free mint for all Gang Wars Season 1 players.
+16th - Jaguar Gang NFT collection launched as free mint for all Gang Wars Season 1 players.
 
 16th - Fuse and breed your Jaguars using $GANG.
 
 #### June
 
-18th - ENS Subdomains released. Claim your apegang.eth subdomain using $GANG.
+18th - ENS subdomains released. Claim your apegang.eth subdomain using $GANG.
 
-25th - New Ape Gang clothing line designed by Jokong & Rikong is 100% vegan.
+25th - Luxury Ape Gang clothing line designed by Jokong & Rikong is 100% vegan.
 
 #### July
 
 4th - 1v1 Fight Club launched. Battle with your Apes and earn $GANG in weekly leagues.
 
+6th - Ape Gang hosted it's first IRL event for the wider NFT community at The Parlour Singapore - an NFT bar which has partnered with us.
+
 #### August
 
 11th - Fight Club update; marketplace, inventory and off-chain $GANGANITE added.
+
+27th - Ape Gang integrated into Ethlab's Battle Showdown PVP shooter as a playable NFT.
+
+#### September
+
+24th - Our second IRL event at The Parlour Singapore. Sold out all 100 tickets a month before the event.
