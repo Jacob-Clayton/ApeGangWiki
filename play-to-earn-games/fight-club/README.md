@@ -26,7 +26,13 @@ This system makes Fight Club more fair. It's challenging for those at the top of
 
 ### Attacking
 
-Every player gets an allowance of 12 fights per day which resets at 00:00 UTC. Any unused fights will not carry over to the next day.&#x20;
+If your Ape wins a fight, it's health will fully regenerate ready for the next fight.&#x20;
+
+If it loses a fight, it dies, and will need 6hrs for it's health to recover to fight again.&#x20;
+
+You can have a maximum of 3 recovering Apes at once. Meaning that if 3 of your Apes lose their fights, you won't be able to fight again until one of them has recovered. There is a quick revive potion if you just can't wait!
+
+Every player gets an allowance of 12 fights per day, which resets at 00:00 UTC. Any unused fights will not carry over to the next day.&#x20;
 
 Unlock more daily fights by owning more apes:
 
@@ -37,19 +43,13 @@ Unlock more daily fights by owning more apes:
 * 20 to 49 apes = 16 fights per day
 * \> 50 apes = 17 fights per day
 
-If your Ape wins a fight, it's health will fully regenerate ready for the next fight.&#x20;
-
-If it loses a fight, it dies, and will need 6hrs for it's health to recover to fight again.&#x20;
-
-You can have a maximum of 3 recovering Apes at once. Meaning that if 3 of your Apes lose their fights, you won't be able to fight again until one of them has recovered. There is a quick revive potion if you can't wait!
-
 Keep in mind, you can do as many or as few fights as you want depending on your game plan. With the cap on the number of recovering apes, you can expect about 4 sessions per day if you want to maximise your daily number of fights. This is of course assuming all your apes lose their battles. If your apes are on a winning streak you’ll be able to complete your fights much faster.
 
 ### Defending
 
 Your Apes will automatically be selected to fight for you whenever another player clicks fight, even if you're not online. While your Ape is defending you cannot lose ELO rating, but your opponent can.
 
-Thankfully, Fight Club selects one of your 3 bests Apes to fight for you while you're away, making the fight more difficult for your opponent. The game decides which are your 3 best Apes by ranking your Apes by the number attacking wins they have. One of your top 3 Apes will be selected to defend for you at random.
+Thankfully, Fight Club selects one of your 3 bests Apes to fight for you while you're away, making the fight more difficult for your opponent. The game decides your 3 best Apes by ranking them by the number attacking wins they have. One of your top 3 Apes will be selected to defend for you at random.
 
 ### In-game potions
 
