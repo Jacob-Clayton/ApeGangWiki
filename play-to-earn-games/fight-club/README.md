@@ -26,7 +26,9 @@ This system makes Fight Club more fair. It's challenging for those at the top of
 
 ### Attacking
 
-Every player gets a baseline allowance of 12 fights per day. This resets at 00:00 UTC, any unused fights will not carry over to the next day. Unlock more daily fights by owning more apes:
+Every player gets an allowance of 12 fights per day which resets at 00:00 UTC. Any unused fights will not carry over to the next day.&#x20;
+
+Unlock more daily fights by owning more apes:
 
 * 1 to 2 apes = 12 fights per day
 * 3 to 4 apes = 13 fights per day
@@ -39,9 +41,7 @@ If your Ape wins a fight, it's health will fully regenerate ready for the next f
 
 If it loses a fight, it dies, and will need 6hrs for it's health to recover to fight again.&#x20;
 
-There is a cap of 3 recovering Apes. Meaning that if 3 of your Apes lose their fights, you won't be able to fight again until one of them has recovered.
-
-****
+You can have a maximum of 3 recovering Apes at once. Meaning that if 3 of your Apes lose their fights, you won't be able to fight again until one of them has recovered. There is a quick revive potion if you can't wait!
 
 Keep in mind, you can do as many or as few fights as you want depending on your game plan. With the cap on the number of recovering apes, you can expect about 4 sessions per day if you want to maximise your daily number of fights. This is of course assuming all your apes lose their battles. If your apes are on a winning streak you’ll be able to complete your fights much faster.
 
@@ -64,6 +64,8 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 ### Fight Club uses $GANGANITE
 
 [$GANGANITE](../../the-ecosystem/usdganganite-coin.md) allows you to make small transactions gas-free. Perfect for in-game potions where gas fees would ruin the experience.
+
+You can swap your on-chain $GANG for off-chain $GANGANITE at a 1:1 ratio from within Fight Club. This allows you to make unlimited $GANGANITE purchases without incurring gas fees.
 
 ### Fight Club rules
 
