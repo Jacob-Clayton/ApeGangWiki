@@ -6,7 +6,7 @@ description: Follow us!
 
 ### [Twitter](https://twitter.com/ApeGangNFT)
 
-45,000 followers
+44,700 followers
 
 ### [Instagram](https://www.instagram.com/apegangnft/)
 
