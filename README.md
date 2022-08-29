@@ -49,7 +49,7 @@ There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit togethe
 * The Legendary Jaguars will be able to fight in our P2E game against Apes and Toucans.
 * Two Legendary Jaguars can also breed a new Jaguar Cub NFT, which will provide a soon to be revealed exclusive utility.
 
-Together, our three NFT collections will combine to fight against each other in [Gang Wars](play-to-earn-games/gang-wars.md) Season 2.
+Together, our three NFT collections will combine to fight against each other in our play-to-earn game.
 
 ## Ape City Metaverse
 
