@@ -50,7 +50,7 @@ description: Notable moments through Ape Gang's history
 
 #### March
 
-5th - Toucan NFT burning begins. Burn your Toucans to increase $GANG yielding of Apes by 25%.
+5th - Toucan Gang NFT burning begins. Burn your Toucans to increase $GANG yielding of Apes.
 
 #### April
 
@@ -58,7 +58,7 @@ description: Notable moments through Ape Gang's history
 
 4th - Founders doxxed.
 
-14th - Metaverse update. All 10,000 unique Apes generated on demand as a 3D character for our metaverse.
+14th - Metaverse update where all 10,000 unique Ape Gang NFTs are generated on demand as a 3D character for our metaverse.
 
 16th - Jaguar Gang NFT collection launched as free mint for all Gang Wars Season 1 players.
 
@@ -72,7 +72,7 @@ description: Notable moments through Ape Gang's history
 
 #### July
 
-4th - 1v1 Fight Club launched. Battle with your Apes and earn $GANG in weekly leagues.
+4th - 1 vs 1 Fight Club launched. Battle with your Ape Gang NFTs and earn $GANG in weekly leagues.
 
 6th - Ape Gang hosted it's first IRL event for the wider NFT community at The Parlour Singapore - an NFT bar which has partnered with us.
 
