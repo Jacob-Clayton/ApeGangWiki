@@ -10,8 +10,6 @@ description: Minted April 16th 2022
 
 Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract. Each Jaguar was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using his well renowned 50x50 pixel style.
 
-Holders will always have full commercial usage rights over their NFT.
-
 * The collection started as 5000 Regular Jaguars given as prizes for participation in [Gang Wars](../play-to-earn-games/gang-wars.md).
 * Over time 5000 __ additional Jaguar Cubs will be bred.
 * And at most 2500 additional Legendary Jaguars will be fused.
@@ -62,3 +60,7 @@ Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).
     _Breeding stats will evolve with time and seasonal changes._
 
 Breed your Legendary Jaguars on the [Ape Gang website](https://apegang.art/utilities).
+
+## Full commercial usage rights
+
+Holders will always have full commercial usage rights over their NFT.
