@@ -16,6 +16,8 @@ description: Follow us!
 
 4000 followers
 
+{% embed url="https://www.tiktok.com/@apegangnfts/video/7037176161922796806?is_copy_url=1&is_from_webapp=v1" %}
+
 ### [Linkedin](https://www.linkedin.com/company/ape-gang-nft)
 
 880 followers
