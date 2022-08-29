@@ -21,13 +21,7 @@
 * [Utilities](the-ecosystem/utilities.md)
 * [$GANG Token](the-ecosystem/usdgang-token.md)
 * [$GANGANITE Coin](the-ecosystem/usdganganite-coin.md)
-* [Lore](the-ecosystem/lore/README.md)
-  * [Chapter 1](the-ecosystem/lore/chapter-1.md)
-  * [Chapter 2](the-ecosystem/lore/chapter-2.md)
-  * [Chapter 3](the-ecosystem/lore/chapter-3.md)
-  * [Chapter 4](the-ecosystem/lore/chapter-4.md)
-  * [Chapter 5](the-ecosystem/lore/chapter-5.md)
-  * [Chapter 6](the-ecosystem/lore/chapter-6.md)
+* [Lore](the-ecosystem/lore.md)
 
 ***
 
