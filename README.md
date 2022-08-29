@@ -71,9 +71,9 @@ Our only requirement for being a part of our community is to be friendly towards
 
 **Community Events**
 
-Weekly poker games with NFT prizes and weekly twitter spaces for project updates and catch-ups.
-
-And of course [Fight Club](play-to-earn-games/fight-club/), which entertains us throughout the entire week and provides some great banter in discord.
+* Big weekly poker game against two other NFT communities with NFT prizes.
+* Weekly twitter spaces for project updates, interviews with other projects and community conversations.
+* And of course [Fight Club](play-to-earn-games/fight-club/), which entertains us throughout the entire week and provides some great banter in discord.
 
 ## Sales Records
 
@@ -98,3 +98,4 @@ Build a brand for the future.
 3. Standing out from the crowd‬.
 4. Build and having fun doing so‬.
 5. Being a trusted partner‬.
+
