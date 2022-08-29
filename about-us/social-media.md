@@ -28,6 +28,8 @@ description: Follow us!
 
 400 subscribers
 
+{% embed url="https://www.youtube.com/watch?v=mxDeFAdGS6w&ab_channel=ApeGangNFT" %}
+
 ### [Medium](https://apegang.medium.com/)
 
 162 followers
