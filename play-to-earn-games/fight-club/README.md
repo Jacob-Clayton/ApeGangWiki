@@ -6,7 +6,7 @@ description: Ape Gang's newest play-to-earn game
 
 ## What is Fight Club?
 
-Fight Club is a 1v1 on-chain game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG.
+Fight Club is a 1 vs 1 on-chain game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG.
 
 ### How can I take part in Fight Club?
 
