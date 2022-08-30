@@ -6,7 +6,7 @@ description: Minted October 20th 2021
 
 ## A deflationary NFT companion collection
 
-All 7,815 Toucan Gang NFTs were programmatically generated from 150 unique traits using python. The traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
+All 7,815 Toucan Gang NFTs were programmatically generated from 148 unique traits using python. The traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
 
 ### Toucans have two main utilities
 
@@ -37,6 +37,8 @@ Toucans stats are based on their plumage and their combination of traits. As a g
 * Accessories boost health, strength, and critical damage due to their rarity.
 * Clothes boost critical damage.
 * Eyes **** reduce the **** chance of failure because of increased vision.
+
+_Read the_ [_full breakdown of stats_](../faqs/which-toucan-traits-are-good-for-fighting.md) _if you would like to know more about Toucan fighting stats._
 
 ![Get to know your Toucan's strengths](../.gitbook/assets/eachtraitcounts.png)
 
