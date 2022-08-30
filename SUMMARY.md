@@ -37,6 +37,7 @@
   * [Are the founders doxxed?](faqs/are-the-founders-doxxed.md)
   * [Is there a roadmap?](faqs/is-there-a-roadmap.md)
   * [Which Ape traits are good for fighting?](faqs/which-ape-traits-are-good-for-fighting.md)
+  * [Which Toucan traits are good for fighting?](faqs/which-toucan-traits-are-good-for-fighting.md)
 
 ## About Us
 
