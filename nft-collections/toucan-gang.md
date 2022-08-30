@@ -64,6 +64,6 @@ Toucan Gang was a free mint for Ape holders with a mint window of 10 days betwee
 
 ## Full commercial usage rights
 
-Holders will always have full commercial usage rights over their NFT.
+Ape Gang provides, and will always provide, full commercial usage rights to the individual who owns a Toucan Gang NFT. Only the specific Toucan Gang NFT(s) which are owned may be used commercially. Usage includes, but is not limited to, product branding, monetising your personal brand image and both film and music productions. With the exception of using a Toucan Gang NFT to promote any form of hate speech or criminal activity.
 
 #### Fun Fact: The inspiration for Toucan Gang came from Jokong's pet parrot called Riggs.

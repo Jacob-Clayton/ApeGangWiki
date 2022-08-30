@@ -63,4 +63,4 @@ Breed your Legendary Jaguars on the [Ape Gang website](https://apegang.art/utili
 
 ## Full commercial usage rights
 
-Holders will always have full commercial usage rights over their NFT.
+Ape Gang provides, and will always provide, full commercial usage rights to the individual who owns a Jaguar Gang NFT. Only the specific Jaguar Gang NFT(s) which are owned may be used commercially. Usage includes, but is not limited to, product branding, monetising your personal brand image and both film and music productions. With the exception of using a Jaguar Gang NFT to promote any form of hate speech or criminal activity.
