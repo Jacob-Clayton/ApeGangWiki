@@ -8,6 +8,8 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [How do I add the $GANG token to metamask?](how-do-i-add-the-usdgang-token-to-metamask.md)
 
+### [Why are there 8,200 Apes on Opensea and not 10,000?](why-are-there-8-200-apes-on-opensea-and-not-10-000.md)
+
 ### [What happened to the unmigrated Apes?](what-happened-to-the-unmigrated-apes.md)
 
 ### [How do I check if an Ape can claim a Jaguar?](how-do-i-check-if-an-ape-can-claim-a-jaguar.md)
