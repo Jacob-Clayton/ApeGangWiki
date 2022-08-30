@@ -8,7 +8,7 @@ description: Minted October 20th 2021
 
 All 7,815 Toucan Gang NFTs were programmatically generated from 148 unique traits using python. The traits were hand drawn by [Jokong](../about-us/founders.md) using a 50x50 pixel format.
 
-Toucan Gang was a free mint in October 2021 for Ape Gang holders.
+Toucan Gang was a free mint in October 2021 for all Ape Gang holders.
 
 ### Toucans have two main utilities
 
