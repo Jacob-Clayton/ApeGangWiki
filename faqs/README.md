@@ -32,8 +32,6 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [How do I burn my Toucans?](how-do-i-burn-my-toucans.md)
 
-### [Which Toucan traits are good for fighting?](which-toucan-traits-are-good-for-fighting.md)
-
 </details>
 
 <details>

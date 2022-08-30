@@ -6,7 +6,7 @@ description: All 148 Toucan traits and their stats, laid out bare for you to pou
 
 Every Toucan has 4 built-in on-chain stats. Health, Strength, Critical % and Fail %. Together these stats determine overall fighting ability. Unlike Apes, Toucans have no passive abilities.
 
-All 48 Toucan traits influence fighting stats. But which traits are good for fighting?
+All 148 Toucan traits influence fighting stats. But which traits are good for fighting?
 
 * Plumage provides a background stat to: health, strength, critical damage and fail.
 * Hats boost health.
