@@ -15,6 +15,8 @@ All 48 Toucan traits influence fighting stats. But which traits are good for fig
 * Clothes boost critical damage.
 * Eyes **** reduce the **** chance of failure because of increased vision.
 
+Full breakdown below
+
 {% embed url="https://docs.google.com/spreadsheets/d/1KzvG-BNWE8yKgizhW4wx8lr1pyToumO_h-BW_IEF_kI/edit?usp=sharing" %}
 Deep dive into the stats spreadsheet
 {% endembed %}
