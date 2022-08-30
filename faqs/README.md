@@ -14,7 +14,7 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [How many breeds does my Jaguar have remaining?](how-many-breeds-does-my-jaguar-have-remaining.md)
 
-### [What does "migrate my Apes" mean?](what-does-migrate-my-apes-mean.md)
+### [What does "migrate my Apes" mean?](why-are-there-only-8-200-apes-on-opensea-and-not-10-000.md)
 
 ### [How do I burn my Toucans?](how-do-i-burn-my-toucans.md)
 
