@@ -77,4 +77,4 @@ Ape Gang provides, and will always provide, full commercial usage rights to the 
 
 ### Contract migration
 
-Read [Why are there 8,200 Apes on Opensea and not 10,000?](../faqs/why-are-there-8-200-apes-on-opensea-and-not-10-000.md)
+Read [Why are there 8,300 Apes on Opensea and not 10,000?](../faqs/why-are-there-8-300-apes-on-opensea-and-not-10-000.md)

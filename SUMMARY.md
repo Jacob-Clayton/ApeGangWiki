@@ -29,7 +29,7 @@
   * [How do I play in Fight Club?](faqs/how-do-i-play-in-fight-club.md)
   * [Where do I see my $GANG balance and how do I claim it?](faqs/where-do-i-see-my-usdgang-balance-and-how-do-i-claim-it.md)
   * [How do I add the $GANG token to metamask?](faqs/how-do-i-add-the-usdgang-token-to-metamask.md)
-  * [Why are there 8,200 Apes on Opensea and not 10,000?](faqs/why-are-there-8-200-apes-on-opensea-and-not-10-000.md)
+  * [Why are there 8,300 Apes on Opensea and not 10,000?](faqs/why-are-there-8-300-apes-on-opensea-and-not-10-000.md)
   * [What happened to the unmigrated Apes?](faqs/what-happened-to-the-unmigrated-apes.md)
   * [How do I check if an Ape can claim a Jaguar?](faqs/how-do-i-check-if-an-ape-can-claim-a-jaguar.md)
   * [How many breeds does my Jaguar have remaining?](faqs/how-many-breeds-does-my-jaguar-have-remaining.md)

@@ -8,7 +8,7 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [How do I add the $GANG token to metamask?](how-do-i-add-the-usdgang-token-to-metamask.md)
 
-### [Why are there 8,200 Apes on Opensea and not 10,000?](why-are-there-8-200-apes-on-opensea-and-not-10-000.md)
+### [Why are there 8,300 Apes on Opensea and not 10,000?](why-are-there-8-300-apes-on-opensea-and-not-10-000.md)
 
 ### [What happened to the unmigrated Apes?](what-happened-to-the-unmigrated-apes.md)
 
@@ -16,7 +16,7 @@ If you have questions which are not answered here please ask in our [discord](ht
 
 ### [How many breeds does my Jaguar have remaining?](how-many-breeds-does-my-jaguar-have-remaining.md)
 
-### [What does "migrate my Apes" mean?](why-are-there-8-200-apes-on-opensea-and-not-10-000.md)
+### [What does "migrate my Apes" mean?](why-are-there-8-300-apes-on-opensea-and-not-10-000.md)
 
 ### [How do I burn my Toucans?](how-do-i-burn-my-toucans.md)
 
