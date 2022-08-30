@@ -78,7 +78,7 @@ description: Notable moments through Ape Gang's history
 
 #### August
 
-11th - Fight Club update; marketplace, inventory and off-chain $GANGANITE added.
+11th - Fight Club update; potions, marketplace, inventory and off-chain $GANGANITE added.
 
 27th - Ape Gang integrated into Ethlas Battle Showdown PVP shooter as a playable NFT.
 
