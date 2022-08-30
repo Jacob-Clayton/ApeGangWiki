@@ -14,7 +14,9 @@ Initially a simple profile-picture project, Ape Gang soon became Jokong and Riko
 
 Seeing the frequency of rug-pull projects and the lack of transparency in the NFT space. Jokong decided to reveal his identity to demonstrate his commitment to the future of Ape Gang. He secured a speaker role at Non-fungible conference Lisbon 2022 and filled an auditorium of web3 professionals as he spoke about his journey with Ape Gang.
 
-![Jokong giving an interview at NFC Lisbon 2022](<../.gitbook/assets/FRXTpQZXIAAwhqs (1).jpg>)
+{% embed url="https://youtu.be/PzHnfy5P5DA" %}
+NFC Lisbon interview with Jokong
+{% endembed %}
 
 Whilst at non-fungible conference Lisbon, Ape Gang had a booth in the centre of the event hall for the duration of the weekend which saw thousands of industry professionals get to know Ape Gang at a personal level. Something rare in the NFT space.
 
