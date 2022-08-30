@@ -10,7 +10,8 @@ description: Minted April 16th 2022
 
 Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract. Each Jaguar was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) in his renowned 50x50 pixel style.
 
-* Free mint for all participants of [Gang Wars](../play-to-earn-games/gang-wars.md) season 1.&#x20;
+Jaguar Gang was a free mint in April 2022 for all participants of [Gang Wars](../play-to-earn-games/gang-wars.md) season 1.&#x20;
+
 * The collection started as 5000 Regular Jaguars.
 * Over time 5000 __ additional Jaguar Cubs will be bred.
 * And at most 2500 additional Legendary Jaguars will be fused.
