@@ -14,7 +14,7 @@ Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
 ## Ape Gang Collections
 
-* 8,200 [Ape Gang](nft-collections/ape-gang.md) NFTs minted June 2021.
+* 10,000 [Ape Gang](nft-collections/ape-gang.md) NFTs minted June 2021.
 * 7,800 [Toucan Gang](nft-collections/toucan-gang.md) NFTs minted October 2021.
 * 5,000 [Jaguar Gang](nft-collections/jaguar-gang.md) NFTs minted April 2022.
 

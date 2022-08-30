@@ -4,7 +4,7 @@ description: Minted June 30th 2021
 
 # Ape Gang
 
-## Ape Gang is a collection of 8,200 NFTs minted on the Ethereum blockchain in June 2021
+## Ape Gang is a collection of 10,00 NFTs minted on the Ethereum blockchain in June 2021
 
 All Ape Gang NFTs were algorithmically generated from 156 hand drawn traits using python. The pixel art style uses a 50x50 pixel format, a style which [Jokong](../about-us/founders.md), the founder and artist, is renowned for.
 
@@ -73,4 +73,4 @@ But which Apes are rare? You can search through the whole collection on [Rarity.
 
 ### Full commercial usage rights
 
-Holders will always have full commercial usage rights over their Ape Gang NFTs.
+Ape Gang provides, and will always provide, full commercial usage rights to the individual who owns an Ape Gang NFT. Only the specific Ape Gang NFT(s) which are owned may be used commercially. Usage includes, but is not limited to, product branding, monetising your personal brand image and both film and music productions. With the exception of using an Ape Gang NFT to promote any form of hate speech or criminal activity.
