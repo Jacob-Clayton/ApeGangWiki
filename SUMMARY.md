@@ -32,7 +32,7 @@
   * [What happened to the unmigrated Apes?](faqs/what-happened-to-the-unmigrated-apes.md)
   * [How do I check if an Ape can claim a Jaguar?](faqs/how-do-i-check-if-an-ape-can-claim-a-jaguar.md)
   * [How many breeds does my Jaguar have remaining?](faqs/how-many-breeds-does-my-jaguar-have-remaining.md)
-  * [Why are there only 8,200 Apes on Opensea and not 10,000?](faqs/why-are-there-only-8-200-apes-on-opensea-and-not-10-000.md)
+  * [Why are there 8,200 Apes on Opensea and not 10,000?](faqs/why-are-there-8-200-apes-on-opensea-and-not-10-000.md)
   * [How do I burn my Toucans?](faqs/how-do-i-burn-my-toucans.md)
   * [Are the founders doxxed?](faqs/are-the-founders-doxxed.md)
   * [Is there a roadmap?](faqs/is-there-a-roadmap.md)

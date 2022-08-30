@@ -74,3 +74,7 @@ But which Apes are rare? You can search through the whole collection on [Rarity.
 ### Full commercial usage rights
 
 Ape Gang provides, and will always provide, full commercial usage rights to the individual who owns an Ape Gang NFT. Only the specific Ape Gang NFT(s) which are owned may be used commercially. Usage includes, but is not limited to, product branding, monetising your personal brand image and both film and music productions. With the exception of using an Ape Gang NFT to promote any form of hate speech or criminal activity.
+
+### Contract migration
+
+Read [Why are there 8,200 Apes on Opensea and not 10,000?](../faqs/why-are-there-8-200-apes-on-opensea-and-not-10-000.md)
