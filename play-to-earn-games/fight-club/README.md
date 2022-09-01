@@ -95,6 +95,8 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
     \-15 to +10 Fail %
 
+You can stack up the 3 'potential stat increase' potions on an Ape: a small one, medium one and mega one.
+
 ### Fight Club uses $GANGANITE
 
 [$GANGANITE](../../the-ecosystem/usdganganite-coin.md) allows you to make small transactions gas-free. Perfect for in-game potions where gas fees would ruin the experience.
