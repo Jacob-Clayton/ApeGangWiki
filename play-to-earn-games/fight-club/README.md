@@ -51,7 +51,7 @@ Your Apes will automatically be selected to fight for you whenever another playe
 
 Thankfully, Fight Club selects one of your 3 bests Apes to fight for you while you're away, making the fight more difficult for your opponent. The game decides your 3 best Apes by ranking them by the number of attacking wins they have. One of your top 3 Apes will be selected to defend for you at random.
 
-### In-game potions
+### Potions
 
 Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
@@ -95,7 +95,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
     \-15 to +10 Fail %
 
-You can stack up the 3 'potential stat increase' potions on an Ape: a small one, medium one and mega one.
+You can stack the 'potential stat increase' potions on an Ape: a small one, medium one and mega one.
 
 ### Fight Club uses $GANGANITE
 
