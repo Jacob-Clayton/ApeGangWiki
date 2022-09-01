@@ -33,8 +33,8 @@ description: A five strong worldwide team supports the two founders
 * Community Manager
 * 8 years of project management experience
 * From the UK
-* Twitter: [Kolsas](https://twitter.com/kolsas\_eth)
-* Discord: [Kolsas](https://discord.com/users/kolsas#7213)
+* Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
+* Discord: [Kolsas#7213](https://discord.com/users/kolsas#7213)
 
 ## Mike Wang
 
