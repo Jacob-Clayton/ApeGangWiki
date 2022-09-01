@@ -31,7 +31,7 @@ Community members use their NFTs to fight against one-another in weekly events t
 
 ## $GANG Token
 
-Our ERC-20 token which fuels our ecosystem. Each Ape passively yields 1 [$GANG](the-ecosystem/usdgang-token.md) per day. Yield can be increased to 1.25 $GANG per day if you burn a [Toucan Gang NFT](nft-collections/toucan-gang.md).
+Our ERC-20 token which fuels the ecosystem. Each Ape passively yields 1 [$GANG](the-ecosystem/usdgang-token.md) per day. Yield can be increased to 1.25 $GANG per day if you burn a [Toucan Gang NFT](nft-collections/toucan-gang.md).
 
 There are multiple [utilities](the-ecosystem/utilities.md) already available to spend $GANG on.
 
@@ -45,17 +45,17 @@ There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit togethe
 
 [Jaguars](nft-collections/jaguar-gang.md) add a new dynamic to the world with our innovative genetic-based breeding and fusing.&#x20;
 
-* Regular Jaguars can be fused together to create one new Legendary Jaguar NFT, a process which burns the two original Regular Jaguars.
-* The Legendary Jaguars will be able to fight in our P2E game against Apes and Toucans.
-* Two Legendary Jaguars can also breed a new Jaguar Cub NFT, which will provide a soon to be revealed exclusive utility.
+* Two Regular Jaguars can be fused together to create one new Legendary Jaguar NFT, a process which burns the two original Regular Jaguars (deflationary).
+* Legendary Jaguars will be able to fight in our P2E game against Apes and Toucans.
+* Two Legendary Jaguars can also breed a new Jaguar Cub NFT (inflationary). Cubs will provide a soon to be revealed exclusive utility.
 
-Together, our three NFT collections will combine to fight against each other in our play-to-earn game.
+Together, our three NFT collections will combine to fight against each other in our play-to-earn games [Fight Club](play-to-earn-games/fight-club/) and [Gang Wars](play-to-earn-games/gang-wars.md).
 
 ## Ape City Metaverse
 
-Owning an Ape Gang NFT gets you access to our custom 3D metaverse. An island with skyscrapers, jungles, beaches and an obstacle course. Explore our world in online multiplayer with the community. All you need to get into the [Ape City metaverse](the-ecosystem/metaverse.md) is an Ape Gang NFT and a browser.
+Owning an Ape Gang NFT gets you access to our custom 3D metaverse. We have a huge island with skyscrapers, jungles, beaches and an obstacle course. Explore our world in online multiplayer with the rest of the community. All you need to get into the [Ape City metaverse](the-ecosystem/metaverse.md) is an Ape Gang NFT and a browser.
 
-Your Ape and all it's traits will automatically be generated as your playable character for the metaverse. If you own a fire breathing Ape Gang NFT, your metaverse ape will come with an animation to breath fire!
+Your Ape and all it's traits will automatically be generated as your playable character for the metaverse. If you own a fire breathing Ape Gang NFT, your metaverse ape will come with an animation to breathe fire!
 
 ## The Community
 
@@ -77,7 +77,7 @@ Our only requirement for being a part of our community is to be friendly towards
 
 ## Sales Records
 
-Ape Gang sold out in 19 days. On the day of sell-out, Ape Gang sold 9,800 units and set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months.
+Ape Gang sold out in 19 days. On the day of sell-out, Ape Gang sold 9,800 units and set the record for the highest volume traded in a day, 595 ETH, a record which stood for 9 months throughout the heights of the bull market.
 
 Ape Gang has the 8th highest total sales out of all NFTs, with over 30,000 sales. A stat that means Ape Gang has been bought and sold by a large proportion of the NFT community, giving Ape Gang instant brand recognition within the space.
 

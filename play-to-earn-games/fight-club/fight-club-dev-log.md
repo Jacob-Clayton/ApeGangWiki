@@ -31,7 +31,7 @@ description: History of Fight Club updates
 #### Week 1
 
 * Implemented off-chain $GANGANITE coin for gas-less in-game transactions.
-* Implemented Fight Club consumables; revive & extra fight potions.
+* Implemented Fight Club consumables; revive & extra fight potions for 5 $GANGANITE each.
 * Implemented a Fight Club marketplace.
 * Implemented a Fight Club inventory.
 * More daily fights if you own more apes:
@@ -54,4 +54,39 @@ description: History of Fight Club updates
 
 #### Week 4
 
-* Updates coming!&#x20;
+* 3 new potions:
+  *   Potential small stat increase = 5 $GANGANITE
+
+      Stats randomly change between:&#x20;
+
+      \-5 to +10 Health
+
+      \-2 to +3 Strength
+
+      \-2 to +3 Critical %
+
+      \-3 to + 2 Fail %
+  *   Potential medium stat increase = 10 $GANGANITE
+
+      Stats randomly change between:&#x20;
+
+      \-10 to +15 Health
+
+      \-5 to +8 Strength
+
+      \-5 to +8 Critical %
+
+      \-8 to + 5 Fail %
+  *   Potential mega stat increase = 20 $GANGANITE
+
+      Stats randomly change between:&#x20;
+
+      \-20 to +30 Health
+
+      \-10 to +15 Strength
+
+      \-10 to +15 Critical %
+
+      \-15 to + 10 Fail %
+* Stat changes from potions will display next to the Ape before and during a fight.
+* Weekly theme: Prizes for first, last, 1000 elo, longest winning streak and longest losing streak.

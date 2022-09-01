@@ -49,17 +49,51 @@ Keep in mind, you can do as many or as few fights as you want depending on your 
 
 Your Apes will automatically be selected to fight for you whenever another player clicks fight, even if you're not online. While your Ape is defending you cannot lose ELO rating, but your opponent can.
 
-Thankfully, Fight Club selects one of your 3 bests Apes to fight for you while you're away, making the fight more difficult for your opponent. The game decides your 3 best Apes by ranking them by the number attacking wins they have. One of your top 3 Apes will be selected to defend for you at random.
+Thankfully, Fight Club selects one of your 3 bests Apes to fight for you while you're away, making the fight more difficult for your opponent. The game decides your 3 best Apes by ranking them by the number of attacking wins they have. One of your top 3 Apes will be selected to defend for you at random.
 
 ### In-game potions
 
 Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
-* **Revive potion** = 5 $GANGANITE
-  * Skip the 6hr recovery time and be able to fight with you Ape straight away.
-* **Extra fight potion** = 5 $GANGANITE
-  * Want extra fights but don't want to have to buy more Apes? Use this potion.
-* **More potions coming soon!**
+*   **Revive potion** = 5 $GANGANITE
+
+    Skip the 6hr recovery time and be able to fight with your Ape straight away.
+*   **Extra fight potion** = 5 $GANGANITE
+
+    Want extra fights but don't want to have to buy more Apes? Use this potion.
+*   **Potential small stat increase** = 5 $GANGANITE
+
+    Take a chance! Your Ape's stats will randomly change between:&#x20;
+
+    \+10 to -5 Health
+
+    \+3 to -2 Strength
+
+    \+3 to -2 Critical %
+
+    \-3 to +2 Fail %
+*   **Potential medium stat increase** = 10 $GANGANITE
+
+    Take a chance! Your Ape's stats will randomly change between:&#x20;
+
+    \+15 to -10 Health
+
+    \+8 to -5 Strength
+
+    \+8 to -5 Critical %
+
+    \-8 to + 5 Fail %
+*   **Potential mega stat increase** = 20 $GANGANITE
+
+    Take a chance! Your Ape's stats will randomly change between:&#x20;
+
+    \+30 to -20 Health
+
+    \+15 to -10 Strength
+
+    \+15 to -10 Critical %
+
+    \-15 to +10 Fail %
 
 ### Fight Club uses $GANGANITE
 

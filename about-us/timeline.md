@@ -78,10 +78,10 @@ description: Notable moments through Ape Gang's history
 
 #### August
 
-11th - Fight Club update; marketplace, inventory and off-chain $GANGANITE added.
-
-27th - Ape Gang integrated into Ethlab's Battle Showdown PVP shooter as a playable NFT.
+11th - Fight Club update; potions, marketplace, inventory and off-chain $GANGANITE added.
 
 #### September
+
+3rd - Ape Gang integrated into Ethlas Battle Showdown PVP shooter as a playable NFT.
 
 24th - Our second IRL event at The Parlour Singapore. Sold out all 100 tickets a month before the event.

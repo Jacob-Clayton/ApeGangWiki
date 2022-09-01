@@ -4,11 +4,27 @@ description: Ape Gang has developed partnerships with multiple NFT projects and 
 
 # Partnerships
 
+## Ethlas Metaverse
+
+[Ethlas Metaverse](https://twitter.com/Ethlas\_Official) is a free online gaming portal hosting a variety of solo and multiplayer games with millions of player visits.
+
+Founded in 2021 by a team situated in Singapore, Ethlas is an all-in-one casual game platform that aims to be truly interoperable to bring about the age of mass market gameplays. By turning gaming from a hobby into a passion, Ethlas believes they are in a position to bring in a new wave of players to the gaming industry.
+
+**ETHLAS BATTLE SHOWDOWN**&#x20;
+
+Ape Gang is integrated into Ethlas' first multichain-NFT multiplayer shooter game. Ethlas has partnered with many other NFT Projects from the Ethereum and Solana ecosystems to bring communities from across the NFT space together in Battle Showdown.
+
+Ape Gang has their very own avatar designed in Ethlas' unique cartoon art style, including banana cannon ranged weapon to attack other players.&#x20;
+
+[Play Battle Showdown as an Ape Gang NFT here](https://ethlas.com/app). Select 'Games', then 'Battle Showdown'.
+
 ## The Parlour Singapore
 
 We’re thrilled our first real-life partnership is with Singapore’s first NFT bar & lounge. The partnership means we now have access to host events and IRL meetups at Singapore’s leading venue for NFT enthusiasts and Web3 professionals. In addition, all Ape Gang holders will enjoy special discounts on food & drinks.
 
 We hosted our first IRL networking event on 30th July 2022 which sold out! We had a great time meeting everybody and look forward to many more events at [The Parlour Singapore.](https://twitter.com/TheParlourSg)
+
+We are proud to announce we have now sold out all 100 tickets to our second event on 27th September 2022, a whole month in advance. There is definitely a high demand for IRL events so watch this space!
 
 ## The Alien Boy and GOATz
 
