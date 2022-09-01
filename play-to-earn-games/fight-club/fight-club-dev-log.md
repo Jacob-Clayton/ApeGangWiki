@@ -71,7 +71,7 @@ _1st September 2022_
 * 3 new potions:
   *   Potential small stat increase = 5 $GANGANITE
 
-      Stats randomly change between:&#x20;
+      **One** of your Ape's stats will randomly change between:&#x20;
 
       \-5 to +10 Health
 
@@ -82,7 +82,7 @@ _1st September 2022_
       \-3 to + 2 Fail %
   *   Potential medium stat increase = 10 $GANGANITE
 
-      Stats randomly change between:&#x20;
+      **One** of your Ape's stats will randomly change between:&#x20;
 
       \-10 to +15 Health
 
@@ -93,7 +93,7 @@ _1st September 2022_
       \-8 to + 5 Fail %
   *   Potential mega stat increase = 20 $GANGANITE
 
-      Stats randomly change between:&#x20;
+      **One** of your Ape's stats will randomly change between:&#x20;
 
       \-20 to +30 Health
 

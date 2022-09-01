@@ -63,7 +63,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
     Want extra fights but don't want to have to buy more Apes? Use this potion.
 *   **Potential small stat increase** = 5 $GANGANITE
 
-    Take a chance! Your Ape's stats will randomly change between:&#x20;
+    Take a chance! **One** of your Ape's stats will randomly change between:&#x20;
 
     \+10 to -5 Health
 
@@ -74,7 +74,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
     \-3 to +2 Fail %
 *   **Potential medium stat increase** = 10 $GANGANITE
 
-    Take a chance! Your Ape's stats will randomly change between:&#x20;
+    Take a chance! **One** of your Ape's stats will randomly change between:&#x20;
 
     \+15 to -10 Health
 
@@ -85,7 +85,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
     \-8 to + 5 Fail %
 *   **Potential mega stat increase** = 20 $GANGANITE
 
-    Take a chance! Your Ape's stats will randomly change between:&#x20;
+    Take a chance! **One** of your Ape's stats will randomly change between:&#x20;
 
     \+30 to -20 Health
 
