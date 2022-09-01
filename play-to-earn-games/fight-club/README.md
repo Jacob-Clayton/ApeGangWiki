@@ -109,5 +109,5 @@ You can swap your on-chain $GANG for off-chain $GANGANITE at a 1:1 ratio from wi
 * 4th Rule: Only two apes to a fight.
 * 5th Rule: One fight at a time but 12 per day.&#x20;
 * 6th Rule: No shirts, no shoes, but tails allowed.&#x20;
-* 7th Rule: Fights will go on as long as they have to, but each league last 5 days.&#x20;
+* 7th Rule: Fights will go on as long as they have to, but each week lasts 5 days.&#x20;
 * 8th Rule: If this is your first night at Fight Club, you HAVE to fight.
