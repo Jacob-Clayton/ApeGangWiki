@@ -8,7 +8,7 @@ description: Ape Gang has developed partnerships with multiple NFT projects and 
 
 [Ethlas Metaverse](https://twitter.com/Ethlas\_Official) is a free online gaming portal hosting a variety of solo and multiplayer games with millions of player visits.
 
-Founded in 2021 by a team situated in Singapore, Ethlas is an all-in-one casual game platform that aims to be truly interoperable to bring about the age of mass market gameplays. By turning gaming from a hobby into a passion, Ethlas believes they are in a position to bring in a new wave of players to the gaming industry.
+Founded in 2021 by a team situated in Singapore, Ethlas is an all-in-one casual game platform that aims to be truly interoperable to bring about the age of mass market gameplay. By turning gaming from a hobby into a passion, Ethlas believes they are in a position to bring in a new wave of players to the gaming industry.
 
 **ETHLAS BATTLE SHOWDOWN**&#x20;
 
