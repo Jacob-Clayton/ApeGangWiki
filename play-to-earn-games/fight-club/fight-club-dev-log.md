@@ -88,5 +88,5 @@ description: History of Fight Club updates
       \-10 to +15 Critical %
 
       \-15 to + 10 Fail %
-* Stat changes from potions will display next to the Ape before and during a fight.
+* Visual change so that stat changes from potions will display clearly next to the Ape before and during a fight.
 * Weekly theme: Prizes for first, last, 1000 elo, longest winning streak and longest losing streak.
