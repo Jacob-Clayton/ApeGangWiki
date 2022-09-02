@@ -68,7 +68,7 @@ _25th August 2022_
 
 _1st September 2022_
 
-* 3 new potions:
+* 3 new potions which last 24hrs from the moment you apply them to an Ape:
   *   Potential small stat increase = 5 $GANGANITE
 
       **One** of your Ape's stats will randomly change between:&#x20;
