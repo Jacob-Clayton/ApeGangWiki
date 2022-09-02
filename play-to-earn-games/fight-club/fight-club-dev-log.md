@@ -103,4 +103,5 @@ _1st September 2022_
 
       \-15 to + 10 Fail %
 * Visual change so that stat changes from potions will display clearly next to the Ape before and during a fight.
+* Added exact HP remaining to HP bar
 * Weekly theme: Prizes for first, last, 1000 elo, longest winning streak and longest losing streak.
