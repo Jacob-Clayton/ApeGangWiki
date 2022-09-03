@@ -61,7 +61,7 @@ Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).
 
 
 
-    _Breeding stats will evolve with time and seasonal changes._
+    _Breeding traits evolve with time and seasonal changes. You're more likely to get summery traits in summer, and wintery traits in winter._
 
 **There is a chance that the breed will create a special 1 of 1 Legendary Jaguar Cub. Only 1 of a potential 4 1 of 1s have been created so far! You might breed one of the remaining 3 if you're lucky.**
 
