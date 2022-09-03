@@ -60,7 +60,7 @@ Oh, and a weight of human clothing, weapons, and even a strange thing the humans
 
 So, we tooled up and decided to encroach on the space the humans called their own. We decided to regroup and prepare for taking over their city and making it our own.
 
-## Chapter 3: **The great division of Apes anno 1982**
+## Chapter 3: **The Great Division of Apes anno 1982**
 
 The idea was to require the remaining 10,000 apes in the tribe to be brave and attack the human city, destroying their homes. Many Apes in the tribe spoke of ideas like partnering with the humans, cutting off their food supply, and even killing them. Ape Lincoln, Jo, Ri, and Kong sat down and decided what needed to be done. Clearly outnumbered, we needed to develop a new means of warfare based on tactics including ambush, hit-and-run, and mobility.
 
@@ -153,3 +153,6 @@ Ape City is overflowing with $GANG but with fewer apes around there comes a time
 
 For many years the Leaders Council adopted a “Build, Build, Build” approach to keep Ape City relevant in an increasingly complex world. Given the current situation, and having already successfully built a strong foundation for future growth, the Leaders Council has wisely chosen to consolidate & prioritize efforts around initiatives that bring the most value to Ape City and its $GANG economy.
 
+## Chapter 7: The Threat From Within
+
+_Something new is coming..._
