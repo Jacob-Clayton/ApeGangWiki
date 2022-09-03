@@ -8,9 +8,11 @@ description: Minted April 16th 2022
 
 #### Jaguar Gang is the first ever NFT collection with both a deflationary & inflationary mechanism.
 
-Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract. Each Jaguar was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) using his well renowned 50x50 pixel style.
+Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coexist on the same contract. Each Jaguar was programmatically generated from 150 unique traits using python. All 150 traits were hand drawn by [Jokong](../about-us/founders.md) in his renowned 50x50 pixel style.
 
-* The collection started as 5000 Regular Jaguars given as prizes for participation in [Gang Wars](../play-to-earn-games/gang-wars.md).
+Jaguar Gang was a free mint in April 2022 for all participants of [Gang Wars](../play-to-earn-games/gang-wars.md) season 1.&#x20;
+
+* The collection started as 5000 Regular Jaguars.
 * Over time 5000 __ additional Jaguar Cubs will be bred.
 * And at most 2500 additional Legendary Jaguars will be fused.
 * The maximum possible collection size is 7,500 Jaguars, however it is unlikely this number will be reached if people choose not to fuse Regular Jaguars they want to keep.
@@ -38,6 +40,8 @@ Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coex
   * 47% chance to keep Jaguar B trait
   * 6% chance to get a random trait from the fuse
 
+**There is a chance that the fuse will create a special 1 of 1 Legendary Jaguar. Only 1 of a potential 4 1 of 1s have been created so far! You might fuse one of the remaining 3 if you're lucky.**
+
 Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).
 
 ## Legendary Jaguar Cubs <a href="#372f" id="372f"></a>
@@ -58,6 +62,8 @@ Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).
 
 
     _Breeding stats will evolve with time and seasonal changes._
+
+**There is a chance that the breed will create a special 1 of 1 Legendary Jaguar Cub. Only 1 of a potential 4 1 of 1s have been created so far! You might breed one of the remaining 3 if you're lucky.**
 
 Breed your Legendary Jaguars on the [Ape Gang website](https://apegang.art/utilities).
 
