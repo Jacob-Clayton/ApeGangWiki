@@ -1,5 +1,5 @@
 ---
-description: All 6 Chapters of the Ape Gang lore
+description: The Ape Gang lore
 ---
 
 # Lore
