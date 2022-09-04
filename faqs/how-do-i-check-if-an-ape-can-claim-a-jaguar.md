@@ -10,6 +10,8 @@ All Apes have a 'Jaguar Claim' stat on Opensea, check your Ape to see if it has 
 
 You can filter a search on Opensea to show Apes with between 0 claims (none) up to 8 claims (maximum) if you would like to purchase an Ape with remaining claims.
 
+Remember to refresh the metadata on Opensea for the Ape you're checking too.
+
 ### 2. Etherscan
 
 You can check if an Ape has already claimed it's Jaguars directly on the contract via etherscan.&#x20;
