@@ -67,6 +67,14 @@ Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).
 
 Breed your Legendary Jaguars on the [Ape Gang website](https://apegang.art/utilities).
 
+## 1 of 1 Jaguars
+
+1/1 special Jaguars were secretly hidden in the code at launch in April 2022, it took 6 months for [Jokong and Rikong's](../about-us/founders.md) easter egg to be found.
+
+Now the secret is out. Every time you fuse or breed there is a small chance you will create a 1/1 special Jaguar. There are a maximum of 4 available, so far only 1 has been found. Fingers crossed for your fuses and cub breeding!
+
+<figure><img src="../.gitbook/assets/unnamed (2).png" alt=""><figcaption><p>1/1 Legendary Jaguar Knight - The first 1/1 to be found.</p></figcaption></figure>
+
 ## Full commercial usage rights
 
 Ape Gang provides, and will always provide, full commercial usage rights to the individual who owns a Jaguar Gang NFT. Only the specific Jaguar Gang NFT(s) which are owned may be used commercially. Usage includes, but is not limited to, product branding, monetising your personal brand image and both film and music productions. With the exception of using a Jaguar Gang NFT to promote any form of hate speech or criminal activity.
