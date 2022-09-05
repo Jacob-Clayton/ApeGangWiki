@@ -16,7 +16,7 @@ All Ape Gang NFTs were algorithmically generated from 156 hand drawn traits usin
 
 ### Use your Ape in our P2E game Fight Club
 
-[Fight Club](../play-to-earn-games/fight-club/) is a 1v1 game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG.
+[Fight Club](../play-to-earn-games/fight-club/) is a 1 vs 1 play-to-earn game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG.
 
 All you need is an Ape Gang NFT and a browser to play.
 
