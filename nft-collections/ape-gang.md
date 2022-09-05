@@ -69,6 +69,23 @@ Some people buy Apes for aesthetics, some for their fighting ability and some fo
 
 But which Apes are rare? You can search through the whole collection on [Rarity.Tools](https://rarity.tools/ape-gang) to find a rare Ape that suits you. And if you're lucky maybe even a rare Ape that has been mis-priced.
 
+Ape Gang has 5 special 1/1 Apes, given away as community competition prizes:
+
+* Emperor Ape
+* Golden Ape
+* Vader Ape
+* SpaceX Ape
+* Skywalker Ape
+
+Ape Gang has 6 main categories of apes, split by trait count (2T = 2 traits)
+
+* 11 1T apes - Easily the rarest trait count ape.
+* 367 2T apes - Second rarest and super clean looking apes.
+* 1826 3T apes - Very clean looking but not as rare.
+* 3206 4T apes - The majority of apes are 4T, a balance of aesthetics and Fight Club strength.
+* 2343 5T apes - Very strong in Fight Club.
+* 493 6T apes - Third rarest, 6T apes are the strongest in Fight Club.
+
 <figure><img src="../.gitbook/assets/Ape-Gang-rarity-tools.png" alt=""><figcaption><p>The rarest Apes</p></figcaption></figure>
 
 ### Full commercial usage rights
