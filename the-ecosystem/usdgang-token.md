@@ -18,7 +18,7 @@ You can spend your $GANG on the [Ape Gang Website](https://apegang.art/utilities
 
 ### Where can I buy & sell $GANG?
 
-You can check the price chart on Dextools [here](https://www.dextools.io/app/ether/pair-explorer/0xaad85cb5e0d48ff9fc6e64db64315864ef2a1ca7) or Etherscan [here](https://etherscan.io/dex/sushiswap/0xaad85cb5e0d48ff9fc6e64db64315864ef2a1ca7).
+You can check the price chart on Dextools [here](https://www.dextools.io/app/ether/pair-explorer/0xaad85cb5e0d48ff9fc6e64db64315864ef2a1ca7).
 
 You can buy & sell on Sushiswap [here](https://app.sushi.com/swap?inputCurrency=0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84\&outputCurrency=ETH\&chainId=1).
 
