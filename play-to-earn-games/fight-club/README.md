@@ -63,7 +63,9 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
     Want extra fights but don't want to have to buy more Apes? Use this potion.
 *   **Potential small stat increase** = 5 $GANGANITE
 
-    Take a chance! **One** of your Ape's stats will randomly change between:&#x20;
+    Lasts for 24hrs from moment potion is applied to an ape
+
+    **One** of your Ape's stats will randomly change between:&#x20;
 
     \+10 to -5 Health
 
@@ -74,7 +76,9 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
     \-3 to +2 Fail %
 *   **Potential medium stat increase** = 10 $GANGANITE
 
-    Take a chance! **One** of your Ape's stats will randomly change between:&#x20;
+    Lasts for 24hrs from moment potion is applied to an ape
+
+    **One** of your Ape's stats will randomly change between:&#x20;
 
     \+15 to -10 Health
 
@@ -85,7 +89,9 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
     \-8 to + 5 Fail %
 *   **Potential mega stat increase** = 20 $GANGANITE
 
-    Take a chance! **One** of your Ape's stats will randomly change between:&#x20;
+    Lasts for 24hrs from moment potion is applied to an ape&#x20;
+
+    **One** of your Ape's stats will randomly change between:&#x20;
 
     \+30 to -20 Health
 
@@ -95,7 +101,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
     \-15 to +10 Fail %
 
-You can stack the 'potential stat increase' potions on an Ape: a small one, medium one and mega one.
+You can stack multiple 'potential stat increase' potions on an Ape: a small one, medium one and mega one.
 
 ### Fight Club uses $GANGANITE
 
