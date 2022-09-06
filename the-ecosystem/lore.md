@@ -132,14 +132,14 @@ Hence, the Leaders Council has embarked on a mission to consolidate the support 
 
 In [Fight Club](https://apegang.art/fight) there’s no hiding behind the strength of your gang. This is 1 vs 1 at its best. Squaring off against an opponent, be it human or ape, lays the foundation for mutual respect and acknowledgement of cultural differences.
 
-**1st RULE:** You do not talk about FIGHT CLUB.\
-**2nd RULE:** You DO NOT talk about FIGHT CLUB but you should TWEET about it.\
-**3rd RULE:** If you get REKT in the 1st League, don’t cry things will evolve.\
-**4th RULE:** Only two apes to a fight.\
-**5th RULE:** One fight at a time but 12 per day.\
-**6th RULE:** No shirts, no shoes, but tails allowed.\
-**7th RULE:** Fights will go on as long as they have to, but each league last 2 weeks.\
-**8th RULE:** If this is your first night at FIGHT CLUB, you HAVE to fight.
+* 1st Rule: You do not talk about Fight Club.&#x20;
+* 2nd Rule: You DO NOT talk about Fight Club, but you should tweet about it.&#x20;
+* 3rd Rule: If you get REKT don't cry.
+* 4th Rule: Only two apes to a fight.
+* 5th Rule: One fight at a time but 12 per day.&#x20;
+* 6th Rule: No shirts, no shoes, but tails allowed.&#x20;
+* 7th Rule: Fights will go on as long as they have to, but each week lasts 5 days.&#x20;
+* 8th Rule: If this is your first night at Fight Club, you HAVE to fight.
 
 #### **Big changes are coming to Ape City** <a href="#9ba5" id="9ba5"></a>
 
