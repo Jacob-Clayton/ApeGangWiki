@@ -4,9 +4,9 @@ description: History of Fight Club updates
 
 # Fight Club Dev Log
 
-### Season 1
+## Season 1
 
-#### Week 1
+### Week 1
 
 _4th July 2022_
 
@@ -15,7 +15,7 @@ _4th July 2022_
 * Improved the defender system so the 3 best apes (most wins in attacks) of a player are automatically chosen as the defending apes.
 * Weekly theme: Standard
 
-#### Week 2
+### Week 2
 
 _19th July 2022_
 
@@ -23,7 +23,7 @@ _19th July 2022_
 * Added overall rank, wins, losses and total fights to the leaderboard.
 * Weekly theme: White fur buff
 
-#### Week 3
+### Week 3
 
 _2nd August 2022_
 
@@ -32,9 +32,9 @@ _2nd August 2022_
 * Implemented a 10% $GANG rake from League Passes.
 * Weekly theme: Upside-down season. Lowest ELO wins.
 
-### Season 2
+## Season 2
 
-#### Week 1
+### Week 1
 
 _11th August 2022_
 
@@ -50,21 +50,21 @@ _11th August 2022_
   * \> 50 apes = 17 fights per day
 * Weekly theme: Tiger fur buff
 
-#### Week 2
+### Week 2
 
 _18th August 2022_
 
 * No updates (testing to make sure previous updates worked smoothly)
 * Weekly theme: Brown fur buff and red fur nerf
 
-#### Week 3
+### Week 3
 
 _25th August 2022_
 
 * No updates
 * Weekly theme: Average Joe. Finish as close to 1000 ELO as you can.
 
-#### Week 4
+### Week 4
 
 _1st September 2022_
 
@@ -105,3 +105,7 @@ _1st September 2022_
 * Visual change so that stat changes from potions will display clearly next to the Ape before and during a fight.
 * Added exact HP remaining to HP bar
 * Weekly theme: Prizes for first, last, 1000 elo, longest winning streak and longest losing streak.
+
+## Season 3
+
+_Coming soon..._
