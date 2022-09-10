@@ -114,7 +114,7 @@ _14th September 2022_
 
 * Legendary Jaguars integrated into Fight Club as a playable NFT.
 * Legendary Jaguars have a range of new exciting passives and stats.
-*   New weekly format\
+*   New weekly format to rotate between:\
     1\. **Qualifying week** - free entry, fun game modes, winning here qualifies you for the hardcore week.
 
-    2\. **Hardcore week** - 100 $GANG entry for those that don't qualify. Large $GANG prize pool for winners, a standard game mode where the top ranked Apes/ Jaguars win.
+    2\. **Hardcore week** - 100 $GANG entry for those who don't qualify. Large $GANG prize pool for winners, standard game mode - highest ELO wins.
