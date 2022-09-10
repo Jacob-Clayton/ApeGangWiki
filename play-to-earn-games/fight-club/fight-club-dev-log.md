@@ -4,6 +4,8 @@ description: History of Fight Club updates
 
 # Fight Club Dev Log
 
+Each new season represents a big game update.
+
 ## Season 1
 
 ### Week 1
