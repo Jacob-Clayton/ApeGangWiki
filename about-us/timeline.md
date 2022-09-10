@@ -78,10 +78,12 @@ description: Notable moments through Ape Gang's history
 
 #### August
 
-11th - Fight Club update; potions, marketplace, inventory and off-chain $GANGANITE added.
+11th - Fight Club potions, marketplace, inventory and off-chain $GANGANITE released.
 
 #### September
 
 3rd - Ape Gang integrated into Ethlas Battle Showdown PVP shooter as a playable NFT.
+
+10th - Legendary Jaguars integrated into Fight Club as playable NFT.
 
 24th - Our second IRL event at The Parlour Singapore. Sold out all 100 tickets a month before the event.
