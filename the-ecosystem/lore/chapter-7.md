@@ -1,8 +1,10 @@
+---
+description: The Threat From Within
+---
+
 # Chapter 7
 
 ## Chapter 7: The Threat From Within
-
-_Something new is coming..._
 
 Throughout time, the history of Ape City has been shaped by the conflict between Apes and Humans. We left off with Ape City facing a generational crisis with an abundance of $GANG putting our values and culture on the line. Instead of Humans, the biggest threat came from within. My name is Bozo and I…….&#x20;
 
