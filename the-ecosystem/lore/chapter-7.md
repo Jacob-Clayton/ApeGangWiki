@@ -8,7 +8,7 @@ description: The Threat From Within
 
 Throughout time, the history of Ape City has been shaped by the conflict between Apes and Humans. We left off with Ape City facing a generational crisis with an abundance of $GANG putting our values and culture on the line. Instead of Humans, the biggest threat came from within. My name is Bozo and I…….&#x20;
 
-> Wait! What’s going on? Why are you doing this? I thought we had an understanding. (edit: commotion, loud screams and deep growling)
+> Wait! What’s going on? Why are you doing this? I thought we had an understanding. \*commotion, loud screams and deep growling\*
 
 Listen up Ape City! My name is J. L. Rover and I represent the Jaguars. We have always enjoyed living alongside apes, but enough is enough. Apes have hoarded the riches found within _the_ Ganganite ore and most importantly you have lost sight of the values we all used to share back in the good years of Ape City.&#x20;
 
