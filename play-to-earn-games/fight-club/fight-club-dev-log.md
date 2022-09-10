@@ -108,4 +108,13 @@ _1st September 2022_
 
 ## Season 3
 
-_Coming soon..._
+### Week 1
+
+_14th September 2022_
+
+* Legendary Jaguars integrated into Fight Club as a playable NFT.
+* Legendary Jaguars have a range of new exciting passives and stats.
+*   New weekly format\
+    1\. **Qualifying week** - free entry, fun game modes, winning here qualifies you for the hardcore week.
+
+    2\. **Hardcore week** - 100 $GANG entry for those that don't qualify. Large $GANG prize pool for winners, a standard game mode where the top placed Apes/ Jaguars win.
