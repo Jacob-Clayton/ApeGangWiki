@@ -117,4 +117,4 @@ _14th September 2022_
 *   New weekly format\
     1\. **Qualifying week** - free entry, fun game modes, winning here qualifies you for the hardcore week.
 
-    2\. **Hardcore week** - 100 $GANG entry for those that don't qualify. Large $GANG prize pool for winners, a standard game mode where the top placed Apes/ Jaguars win.
+    2\. **Hardcore week** - 100 $GANG entry for those that don't qualify. Large $GANG prize pool for winners, a standard game mode where the top ranked Apes/ Jaguars win.
