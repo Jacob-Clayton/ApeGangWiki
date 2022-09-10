@@ -157,4 +157,4 @@ For many years the Leaders Council adopted a “Build, Build, Build” approach 
 
 _Something new is coming..._
 
-<figure><img src="../.gitbook/assets/ApeGangBanner1.png" alt=""><figcaption><p><em>Jaguars vs Apes</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ApeGangBanner1.png" alt=""><figcaption><p><em>Jaguars vs Apes</em></p></figcaption></figure>
