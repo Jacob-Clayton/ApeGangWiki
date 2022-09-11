@@ -39,7 +39,7 @@ There are multiple [utilities](the-ecosystem/utilities.md) already available to 
 
 There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit together?
 
-[Apes](nft-collections/ape-gang.md) are the centre piece. They are the strongest fighters and they yield [$GANG](the-ecosystem/usdgang-token.md) which fuels the whole ecosystem.
+[Apes](nft-collections/ape-gang.md) are the centre piece. They can fight in Fight Club and also yield [$GANG](the-ecosystem/usdgang-token.md) which fuels the whole ecosystem.
 
 [Toucans](nft-collections/toucan-gang.md) can be used two ways; to boost Apes' fighting stats OR to boost Apes' $GANG yielding.
 
