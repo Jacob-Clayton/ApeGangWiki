@@ -113,7 +113,7 @@ You can swap your on-chain $GANG for off-chain $GANGANITE at a 1:1 ratio from wi
 
 We rotate weekly between:
 
-**Fight Club Qualifier** - free entry, fun game modes, winning here qualifies you for the hardcore week.
+**Fight Club Qualifier** - free entry, fun game modes, winning here qualifies you for the main event next week.
 
 **Fight Club** - 100 $GANG entry for those who don't qualify. Large $GANG prize pool for winners, standard game mode - highest ELO wins.
 
