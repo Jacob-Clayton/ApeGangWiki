@@ -109,6 +109,14 @@ You can stack multiple 'potential stat increase' potions on an Ape: a small one,
 
 You can swap your on-chain $GANG for off-chain $GANGANITE at a 1:1 ratio from within Fight Club. This allows you to make unlimited $GANGANITE purchases without incurring gas fees.
 
+### Format
+
+We rotate weekly between:
+
+**Fight Club Qualifier** - free entry, fun game modes, winning here qualifies you for the hardcore week.
+
+**Fight Club** - 100 $GANG entry for those who don't qualify. Large $GANG prize pool for winners, standard game mode - highest ELO wins.
+
 ### Fight Club rules
 
 * 1st Rule: You do not talk about Fight Club.&#x20;
