@@ -6,11 +6,11 @@ description: Ape Gang's newest play-to-earn game
 
 ## What is Fight Club?
 
-Fight Club is a 1 vs 1 on-chain game where you can fight with your NFT against other community member's NFTs to climb the leaderboard and win $GANG.
+Fight Club is a 1 vs 1 on-chain game where you can fight your Ape Gang NFT against other community member's Apes to climb the leaderboard and win $GANG.
 
 ### How can I take part in Fight Club?
 
-All you need is an [Ape Gang](../../nft-collections/ape-gang.md) NFT or a [Legendary Jaguar](../../nft-collections/jaguar-gang.md) NFT and a browser to play.
+All you need is an Ape Gang NFT and a browser to play.
 
 Register for Fight Club on the [Ape Gang website](https://apegang.art/) and a new interface will be made available to you. From there select your Ape and click fight. Enjoy!
 
@@ -22,15 +22,15 @@ Fight Club also works on metamask mobile browser for on-the-go games.
 
 ELO is Fight Club's built-in rating system. ELO is most famously used in chess to rank players. In Fight Club our ELO system matchmakes highly ranked players against other highly ranked players. So if you're new to Fight Club you'll be matched against people of a similar skill.&#x20;
 
-This system makes Fight Club more fair. It's challenging for those at the top of the leaderboard who battle against each other. And it's more laid-back fun for those further down the leaderboard who get matched against weaker opponents.
+This system makes Fight Club more fair. It's challenging for those at the top of the leaderboard who battle against each other. And it's more laid-back fun for those further down the leaderboard who get matched against weaker Apes.
 
 ### Attacking
 
-If your NFT wins a fight, it's health will fully regenerate ready for the next fight.&#x20;
+If your Ape wins a fight, it's health will fully regenerate ready for the next fight.&#x20;
 
 If it loses a fight, it dies, and will need 6hrs for it's health to recover to fight again.&#x20;
 
-You can have a maximum of 3 recovering NFTs at once. Meaning that if 3 of your NFTs lose their fights, you won't be able to fight again until one of them has recovered. There is a quick revive potion if you just can't wait!
+You can have a maximum of 3 recovering Apes at once. Meaning that if 3 of your Apes lose their fights, you won't be able to fight again until one of them has recovered. There is a quick revive potion if you just can't wait!
 
 Every player gets an allowance of 12 fights per day, which resets at 00:00 UTC. Any unused fights will not carry over to the next day.&#x20;
 
@@ -43,13 +43,13 @@ Unlock more daily fights by owning more apes:
 * 20 to 49 apes = 16 fights per day
 * \> 50 apes = 17 fights per day
 
-Keep in mind, you can do as many or as few fights as you want depending on your game plan. With the cap on the number of recovering NFTs, you can expect about 4 sessions per day if you want to maximise your daily number of fights. This is of course assuming all your NFTs lose their battles. If you are on a winning streak you’ll be able to complete your fights much faster.
+Keep in mind, you can do as many or as few fights as you want depending on your game plan. With the cap on the number of recovering apes, you can expect about 4 sessions per day if you want to maximise your daily number of fights. This is of course assuming all your apes lose their battles. If your apes are on a winning streak you’ll be able to complete your fights much faster.
 
 ### Defending
 
-Your Ape / Jaguar will automatically be selected to fight for you whenever another player clicks fight, even if you're not online. While your Ape / Jaguar is defending you cannot lose ELO rating, but your opponent can.
+Your Apes will automatically be selected to fight for you whenever another player clicks fight, even if you're not online. While your Ape is defending you cannot lose ELO rating, but your opponent can.
 
-Thankfully, Fight Club selects one of your 3 strongest NFTs to fight for you while you're away, making the fight more difficult for your opponent. The game decides your 3 best Apes / Jaguars by ranking them by the number of attacking wins they have. One of your top 3 will be selected to defend for you at random.
+Thankfully, Fight Club selects one of your 3 bests Apes to fight for you while you're away, making the fight more difficult for your opponent. The game decides your 3 best Apes by ranking them by the number of attacking wins they have. One of your top 3 Apes will be selected to defend for you at random.
 
 ### Potions
 
@@ -57,7 +57,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
 *   **Revive potion** = 5 $GANGANITE
 
-    Skip the 6hr recovery time and be able to fight with your NFT straight away.
+    Skip the 6hr recovery time and be able to fight with your Ape straight away.
 *   **Extra fight potion** = 5 $GANGANITE
 
     Want extra fights but don't want to have to buy more Apes? Use this potion.
@@ -65,7 +65,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
     Lasts for 24hrs from moment potion is applied to an ape
 
-    **One** of your NFTs stats will randomly change between:&#x20;
+    **One** of your Ape's stats will randomly change between:&#x20;
 
     \+10 to -5 Health
 
@@ -78,7 +78,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
     Lasts for 24hrs from moment potion is applied to an ape
 
-    **One** of your NFTs stats will randomly change between:&#x20;
+    **One** of your Ape's stats will randomly change between:&#x20;
 
     \+15 to -10 Health
 
@@ -91,7 +91,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
     Lasts for 24hrs from moment potion is applied to an ape&#x20;
 
-    **One** of your NFTs stats will randomly change between:&#x20;
+    **One** of your Ape's stats will randomly change between:&#x20;
 
     \+30 to -20 Health
 
@@ -101,7 +101,7 @@ Potions are in-game consumables which can be bought with $GANGANITE.&#x20;
 
     \-15 to +10 Fail %
 
-You can stack multiple 'potential stat increase' potions on an Ape or Jaguar; a small one, medium one and mega one.
+You can stack multiple 'potential stat increase' potions on an Ape: a small one, medium one and mega one.
 
 ### Fight Club uses $GANGANITE
 
