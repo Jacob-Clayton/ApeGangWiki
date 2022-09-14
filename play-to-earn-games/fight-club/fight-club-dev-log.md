@@ -4,6 +4,10 @@ description: History of Fight Club updates
 
 # Fight Club Dev Log
 
+Each new season represents a big game update.
+
+## Season 1
+
 ### Week 1
 
 _4th July 2022_
@@ -30,7 +34,9 @@ _2nd August 2022_
 * Implemented a 10% $GANG rake from League Passes.
 * Weekly theme: Upside-down season. Lowest ELO wins.
 
-### Week 4
+## Season 2
+
+### Week 1
 
 _11th August 2022_
 
@@ -46,21 +52,21 @@ _11th August 2022_
   * \> 50 apes = 17 fights per day
 * Weekly theme: Tiger fur buff
 
-### Week 5
+### Week 2
 
 _18th August 2022_
 
 * No updates (testing to make sure previous updates worked smoothly)
 * Weekly theme: Brown fur buff and red fur nerf
 
-### Week 6
+### Week 3
 
 _25th August 2022_
 
 * No updates
 * Weekly theme: Average Joe. Finish as close to 1000 ELO as you can.
 
-### Week 7
+### Week 4
 
 _1st September 2022_
 
@@ -102,9 +108,11 @@ _1st September 2022_
 * Added exact HP remaining to HP bar
 * Weekly theme: Prizes for first, last, 1000 elo, longest winning streak and longest losing streak.
 
-### Week 8
+## Season 3
 
-_15th September 2022_
+### Week 1
+
+_14th September 2022_
 
 * Legendary Jaguars integrated into Fight Club as a playable NFT.
 * Legendary Jaguars have a range of new exciting passives and stats.
