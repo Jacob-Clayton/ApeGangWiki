@@ -42,7 +42,28 @@ Jaguar Gang was a free mint in April 2022 for all participants of [Gang Wars](..
 
 **There is a chance that the fuse will create a special 1 of 1 Legendary Jaguar. Only 1 of a potential 4 1 of 1s have been created so far! You might fuse one of the remaining 3 if you're lucky.**
 
-Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).
+Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).\
+
+
+### Passive abilities
+
+Legendary Jaguars have special abilities attributed to their fur type. These make a big difference in [Fight Club](../play-to-earn-games/fight-club/)!
+
+|       Fur      | Passive                                                                            |
+| :------------: | ---------------------------------------------------------------------------------- |
+|    Red Dots    | **Burn!** Enemy loses 1.5 strength every turn                                      |
+|    Blue Dots   | **Freeze!** Enemy loses 2% crit every turn                                         |
+|     Giraffe    | **Composure!** Critical increases +5% every turn                                   |
+|      Zebra     | **Patient!** When it's HP goes under 60 their next attack will be increased by 60% |
+|      Tiger     | **Confident!** Each turn 5 health points are converted to +3 Strength              |
+|     Panther    | **Intimidate!** Enemy fail increases by 7% each turn.                              |
+|     Rainbow    | **Lucky!** 1/4 chance to take half damage                                          |
+|     Sphynx     | **Stoic!** Health Regen +10 HP each turn                                           |
+|  White Leopard | **Cursed!** gain 4 strength each turn but also gain 1 fail % each turn             |
+|    Bloodbath   | **Bleed!** enemy bleeds -14 HP each turn                                           |
+|      Devil     | **See Red!** 1/4 chance to do a 3x critical hit                                    |
+|     Zombie     | **Backfire!** 40% of damage reflected                                              |
+| Black and Gold | **Immortal!** once dead comes back to life with 50 HP                              |
 
 ## Legendary Jaguar Cubs <a href="#372f" id="372f"></a>
 
