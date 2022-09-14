@@ -10,7 +10,7 @@ description: Follow us!
 
 ### [Instagram](https://www.instagram.com/apegangnft/)
 
-20,900 followers
+20,700 followers
 
 {% embed url="https://www.instagram.com/tv/CdTJxOJlhFk/?utm_source=ig_web_copy_link" %}
 
