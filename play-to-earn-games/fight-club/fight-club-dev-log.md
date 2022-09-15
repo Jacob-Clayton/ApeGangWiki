@@ -4,7 +4,7 @@ description: History of Fight Club updates
 
 # Fight Club Dev Log
 
-Each new season represents a big game update.
+Each new season represents a large game update.
 
 ## Season 1
 
@@ -112,7 +112,7 @@ _1st September 2022_
 
 ### Week 1
 
-_14th September 2022_
+_15th September 2022_
 
 * Legendary Jaguars integrated into Fight Club as a playable NFT.
 * Legendary Jaguars have a range of new exciting passives and stats.
