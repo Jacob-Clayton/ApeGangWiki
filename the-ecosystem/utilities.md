@@ -32,9 +32,9 @@ Costs 25 $GANG
 
 ## Fight Club
 
-Gain entry to [Fight Club](../play-to-earn-games/fight-club/) and fight against other community members Apes to climb the weekly leaderboard and win [$GANG](usdgang-token.md).
+Gain entry to [Fight Club](../play-to-earn-games/fight-club/) and fight against other community members Apes and Jaguars to climb the weekly leaderboard and win [$GANG](usdgang-token.md). Qualifying week is free entry. Regular Fight Club week is paid entry.
 
-Costs 100 $GANG
+Costs 100 $GANG or Free
 
 ## Potions
 
@@ -44,6 +44,9 @@ Current potions include:&#x20;
 
 * Revive potion = 5 $GANGANITE
 * Extra fight potion = 5 $GANGANITE
+* Potential small stat increase = 5 $GANGANITE
+* Potential medium stat increase = 10 $GANGANITE
+* Potential mega stat increase = 20 $GANGANITE
 
 ## Toucan Burning
 
