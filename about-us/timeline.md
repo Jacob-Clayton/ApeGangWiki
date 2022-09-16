@@ -34,6 +34,8 @@ description: Notable moments through Ape Gang's history
 
 15th - Ape Gang integrated into WorldWideWeb3 metaverse.
 
+20th - Second highest sale. 20 ETH Batape bought.
+
 #### December
 
 10th - Launch of the Ape City custom 3D metaverse created by LeapN.
