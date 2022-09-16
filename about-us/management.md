@@ -1,5 +1,5 @@
 ---
-description: A four strong worldwide team supports the two founders
+description: A five strong worldwide team supports the two founders
 ---
 
 # Management
@@ -11,6 +11,14 @@ description: A four strong worldwide team supports the two founders
 * From Singapore
 * Twitter: [Mepusica](https://twitter.com/mepusica)
 * Discord: [Mepusica | THE SCIENTIST#7262](https://discord.com/users/Mepusica%20|%20THE%20SCIENTIST#7262)
+
+## Pokermonface
+
+* Social media expert
+* Experience working with multiple NFT projects
+* From Germany
+* Twitter: [Pokermonface](https://twitter.com/pokermonfacenft)
+* Discord: [PokermonFace#6124](https://discord.com/users/PokermonFace#6124)
 
 ## Bulkz
 
