@@ -34,7 +34,7 @@ description: Notable moments through Ape Gang's history
 
 15th - Ape Gang integrated into WorldWideWeb3 metaverse.
 
-20th - Second highest sale. 20 ETH Batape bought.
+20th - Second highest sale. 20 ETH Batape was bought.
 
 #### December
 
