@@ -1,5 +1,5 @@
 ---
-description: A five strong worldwide team supports the two founders
+description: A four strong worldwide team supports the two founders
 ---
 
 # Management
@@ -27,14 +27,6 @@ description: A five strong worldwide team supports the two founders
 * From the UK
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
 * Discord: [Kolsas#7213](https://discord.com/users/kolsas#7213)
-
-## Pokermonface
-
-* Social media expert
-* Experience working with multiple NFT projects
-* From Germany
-* Twitter: [Pokermonface](https://twitter.com/pokermonfacenft)
-* Discord: [PokermonFace#6124](https://discord.com/users/PokermonFace#6124)
 
 ## Mike Wang
 
