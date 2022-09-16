@@ -30,6 +30,12 @@ description: Notable moments through Ape Gang's history
 
 31st - Free Halloween themed Ape Gang comic book airdropped via Polygon.
 
+#### November
+
+15th - Ape Gang integrated into WorldWideWeb3 metaverse.
+
+20th - Second highest sale. 20 ETH Batape was bought.
+
 #### December
 
 10th - Launch of the Ape City custom 3D metaverse created by LeapN.
@@ -68,7 +74,7 @@ description: Notable moments through Ape Gang's history
 
 18th - ENS subdomains released. Claim your apegang.eth subdomain using $GANG.
 
-25th - Luxury Ape Gang clothing line designed by Jokong & Rikong is 100% vegan.
+25th - Limited edition luxury Ape Gang clothing line designed by Jokong & Rikong is 100% vegan.
 
 #### July
 
