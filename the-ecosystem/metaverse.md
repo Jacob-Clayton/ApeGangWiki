@@ -31,3 +31,7 @@ Ape Gang also owns land [(-41, 161)](https://opensea.io/assets/ethereum/0x5cc5b0
 Sandbox has not impressed us with their speed of development, and at present there is not much intractability or utility within Sandbox. Regardless, we have decided to diversify our metaverse acquisitions to cover the Sandbox as it still has a good chance of success.&#x20;
 
 To supplement this Ape Gang has already created a full NFT collection of Sandbox ready characters, known as voxels. These voxels are finished and ready to use in the Sandbox metaverse, but will only be released when the time is right, and when Sandbox has progressed further.
+
+### WorldWideWeb3
+
+Ape Gang was also integrated into the WWW3 metaverse back in November 2021.
