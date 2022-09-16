@@ -43,10 +43,10 @@ There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit togethe
 
 [Toucans](nft-collections/toucan-gang.md) can be used two ways; to boost Apes' fighting stats OR to boost Apes' $GANG yielding.
 
-[Jaguars](nft-collections/jaguar-gang.md) have multiple utilities. They add a new dynamic to the world with our innovative genetic-based breeding and fusing. And they are also able to fight against Apes in [Fight Club](play-to-earn-games/fight-club/).
+[Jaguars](nft-collections/jaguar-gang.md) add a new dynamic to the world with our innovative genetic-based breeding and fusing.&#x20;
 
 * Two Regular Jaguars can be fused together to create one new Legendary Jaguar NFT, a process which burns the two original Regular Jaguars (deflationary).
-* Legendary Jaguars bring dynamic and exciting passive abilities into [Fight Club](play-to-earn-games/fight-club/) as they battle against Apes.
+* Legendary Jaguars will be able to fight in our P2E game against Apes and Toucans.
 * Two Legendary Jaguars can also breed a new Jaguar Cub NFT (inflationary). Cubs will provide a soon to be revealed exclusive utility.
 
 Together, our three NFT collections will combine to fight against each other in our play-to-earn games [Fight Club](play-to-earn-games/fight-club/) and [Gang Wars](play-to-earn-games/gang-wars.md).

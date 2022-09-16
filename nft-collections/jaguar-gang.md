@@ -4,7 +4,7 @@ description: Minted April 16th 2022
 
 # Jaguar Gang
 
-## An NFT collection with built-in genetics for breeding and fusing and on-chain stats for fighting
+## An NFT collection with built-in genetics for breeding and fusing
 
 #### Jaguar Gang is the first ever NFT collection with both a deflationary & inflationary mechanism.
 
@@ -13,8 +13,8 @@ Jaguar Gang is an NFT collection consisting of 3 types of Jaguars which all coex
 Jaguar Gang was a free mint in April 2022 for all participants of [Gang Wars](../play-to-earn-games/gang-wars.md) season 1.&#x20;
 
 * The collection started as 5000 Regular Jaguars.
-* An additional 2500 additional Legendary Jaguars can be fused.
-* Over time a possible 5000 __ additional Jaguar Cubs can be bred.
+* Over time 5000 __ additional Jaguar Cubs will be bred.
+* And at most 2500 additional Legendary Jaguars will be fused.
 * The maximum possible collection size is 7,500 Jaguars, however it is unlikely this number will be reached if people choose not to fuse Regular Jaguars they want to keep.
 
 ## Regular Jaguars
@@ -26,9 +26,10 @@ Jaguar Gang was a free mint in April 2022 for all participants of [Gang Wars](..
 
 ## Legendary Jaguars <a href="#8c7c" id="8c7c"></a>
 
-* Legendary Jaguars have rare furs as compared to the normal fur of a Regular Jaguar, this is how you can visually tell the difference.
-* They have fighting stats which allow them to compete in [Fight Club](../play-to-earn-games/fight-club/) against Apes.
-* Each Legendary Jaguar can only breed 4 times and will need 30 days rest before they can create another Cub, and since only Legendary Jaguars can participate in Fight Club, this maintains their utility even after the breeding limit is reached.
+* Legendary Jaguar NFTs will all have rare furs as compared to the normal fur of a Regular Jaguar.
+* Each Legendary Jaguar can only breed 4 times and will need 30 days rest before they can create another Cub.
+* Only Legendary Jaguars can participate in Gang Wars, this maintains their utility even after the breeding limit is reached.
+* The number of Legendary Jaguars allowed per gang as well as their stat boost potential will be adjusted according to the game dynamics of respective gang war seasons.
 * The traits of Legendary Jaguars will be inherited through a genetics system from the original Jaguars you decide to fuse, as explained below.
 
 ### F**using Guide**
@@ -39,41 +40,30 @@ Jaguar Gang was a free mint in April 2022 for all participants of [Gang Wars](..
   * 47% chance to keep Jaguar B trait
   * 6% chance to get a random trait from the fuse
 
-**There is a chance to create a special 1 of 1 Legendary Jaguar each time you fuse.**&#x20;
+**There is a chance that the fuse will create a special 1 of 1 Legendary Jaguar. Only 1 of a potential 4 1 of 1s have been created so far! You might fuse one of the remaining 3 if you're lucky.**
 
-Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).
+Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).\
+
 
 ### Passive abilities
 
 Legendary Jaguars have special abilities attributed to their fur type. These make a big difference in [Fight Club](../play-to-earn-games/fight-club/)!
 
-|       Fur      | Passive                                                                    |
-| :------------: | -------------------------------------------------------------------------- |
-|    Red Dots    | **Burn!** Enemy loses 1.5 strength every turn                              |
-|    Blue Dots   | **Freeze!** Enemy loses 2% crit every turn                                 |
-|     Giraffe    | **Composure!** Critical increases +5% every turn                           |
-|      Zebra     | **Patient!** When their HP is under 60 their attacks will be 60% stronger. |
-|      Tiger     | **Confident!** Each turn 5 health points are converted to +3 Strength      |
-|     Panther    | **Intimidate!** Enemy fail increases by 7% each turn.                      |
-|     Rainbow    | **Lucky!** 1/4 chance to take half damage                                  |
-|     Sphynx     | **Stoic!** Health Regen +10 HP each turn                                   |
-|  White Leopard | **Cursed!** gain 4 strength each turn but also gain 1 fail % each turn     |
-|    Bloodbath   | **Bleed!** enemy bleeds -14 HP each turn                                   |
-|      Devil     | **See Red!** 1/4 chance to do a 3x critical hit                            |
-|     Zombie     | **Backfire!** 40% of damage reflected                                      |
-| Black and Gold | **Immortal!** once dead comes back to life with 50 HP                      |
-
-### Built-in fighting stats
-
-Every Legendary Jaguar has 4 built-in on-chain stats. Strength, Health, Fail % and Critical %. Together these stats determine overall fighting ability.
-
-All 96 legendary traits influence fighting stats. But which traits are good for fighting?
-
-* **Fur Type** is the most influential trait when it comes to fighting. Fur type determines the baseline strength, health, fail % and critical %.
-* **Clothing** traits add strength. Jaguars with no clothes therefore have considerably lower strength.
-* **Hat** traits add extra health points.
-* **Eye** traits improve the chance of hitting a critical attack because the Jaguar has better vision.
-* **Mouth** traits improve the fail %, making the Jaguar less likely to miss an attack.
+|       Fur      | Passive                                                                            |
+| :------------: | ---------------------------------------------------------------------------------- |
+|    Red Dots    | **Burn!** Enemy loses 1.5 strength every turn                                      |
+|    Blue Dots   | **Freeze!** Enemy loses 2% crit every turn                                         |
+|     Giraffe    | **Composure!** Critical increases +5% every turn                                   |
+|      Zebra     | **Patient!** When it's HP goes under 60 their next attack will be increased by 60% |
+|      Tiger     | **Confident!** Each turn 5 health points are converted to +3 Strength              |
+|     Panther    | **Intimidate!** Enemy fail increases by 7% each turn.                              |
+|     Rainbow    | **Lucky!** 1/4 chance to take half damage                                          |
+|     Sphynx     | **Stoic!** Health Regen +10 HP each turn                                           |
+|  White Leopard | **Cursed!** gain 4 strength each turn but also gain 1 fail % each turn             |
+|    Bloodbath   | **Bleed!** enemy bleeds -14 HP each turn                                           |
+|      Devil     | **See Red!** 1/4 chance to do a 3x critical hit                                    |
+|     Zombie     | **Backfire!** 40% of damage reflected                                              |
+| Black and Gold | **Immortal!** once dead comes back to life with 50 HP                              |
 
 ## Legendary Jaguar Cubs <a href="#372f" id="372f"></a>
 
@@ -94,7 +84,7 @@ All 96 legendary traits influence fighting stats. But which traits are good for 
 
     _Breeding traits evolve with time and seasonal changes. You're more likely to get summery traits in summer, and wintery traits in winter._
 
-**There is a chance to create a special 1 of 1 Legendary Jaguar Cub each time you breed.**&#x20;
+**There is a chance that the breed will create a special 1 of 1 Legendary Jaguar Cub. Only 1 of a potential 4 1 of 1s have been created so far! You might breed one of the remaining 3 if you're lucky.**
 
 Breed your Legendary Jaguars on the [Ape Gang website](https://apegang.art/utilities).
 

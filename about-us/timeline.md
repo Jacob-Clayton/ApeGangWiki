@@ -68,7 +68,7 @@ description: Notable moments through Ape Gang's history
 
 18th - ENS subdomains released. Claim your apegang.eth subdomain using $GANG.
 
-25th - Luxury Ape Gang clothing line designed by Jokong & Rikong is 100% vegan.
+25th - Limited edition luxury Ape Gang clothing line designed by Jokong & Rikong is 100% vegan.
 
 #### July
 
@@ -84,6 +84,6 @@ description: Notable moments through Ape Gang's history
 
 3rd - Ape Gang integrated into Ethlas Battle Showdown PVP shooter as a playable NFT.
 
-10th - Legendary Jaguars integrated into Fight Club as playable NFT.
+15th - Legendary Jaguars integrated into Fight Club as playable NFT.
 
 24th - Our second IRL event at The Parlour Singapore. Sold out all 100 tickets a month before the event.
