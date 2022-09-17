@@ -69,7 +69,7 @@ Legendary Jaguars have special abilities attributed to their fur type. These mak
 
 First it's important to note that each "turn" is actually two attacks, one by the attacker and one by the defender.
 
-Second, when a stat increases or decreases each turn, it accumulates. By the end of the fight the stat can have changed considerably from the beginning.
+Second, when a stat increases or decreases each turn, it accumulates. By the end of a fight a stat can have changed considerably from the beginning.
 
 **Red dots** - Enemy loses 1.5 strength each turn. After each fighter has made 1 attack, the turn is over. At this point the enemy loses 1.5 strength which makes their attacks weaker the next turn.&#x20;
 
