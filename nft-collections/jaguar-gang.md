@@ -89,7 +89,13 @@ Second, when a stat increases or decreases each turn, it accumulates. By the end
 
 **White Leopard** - Gain 4 strength but also gain 1 fail % every turn. The White Leopard gains 4 strength every turn. If it starts with 50 then after 1 turn it will have 54, two turns 58, three turns 62. By the end of the fight it could have over 70 strength. However it also increases the chance of missing. The fail % increases by 1 each turn as well.
 
-Bloodbath -&#x20;
+**Bloodbath** - Enemy bleeds -14HP each turn. After every turn the enemy will lose 14 health. With 5 to 7 turns in most fights this can do 98 damage over an entire fight.
+
+**Devil** - 1/4 chance to do a 3x critical hit. You have a 25% chance to do a 3x attack. If you would have done 50 damage, you will instead do 150 damage.
+
+**Zombie** - 40% of damage is reflected. When an enemy attacks a Zombie, 40% of the damage is also done to the attacker.
+
+**Black and Gold** - Once dead comes back to life with 50HP. As soon as it's health reaches zero, the health bar will increase by 50 and the fight continues as normal.&#x20;
 
 </details>
 
