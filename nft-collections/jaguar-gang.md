@@ -71,8 +71,6 @@ First it's important to note that each "turn" is actually two attacks, one by th
 
 Second, when a stat increases or decreases each turn, it accumulates. By the end of the fight the stat can have changed considerably from the beginning.
 
-
-
 **Red dots** - Enemy loses 1.5 strength each turn. After each fighter has made 1 attack, the turn is over. At this point the enemy loses 1.5 strength which makes their attacks weaker the next turn.&#x20;
 
 **Blue dots** - Enemy loses 2% crit every turn. If the enemy starts on 20% crit, after one turn they will be on 18%, two turns 16%, three turns 14%, etc.
@@ -81,7 +79,17 @@ Second, when a stat increases or decreases each turn, it accumulates. By the end
 
 **Zebra** - When your HP is under 60 your strength will be increased by 60%. Once the enemy has reduced your health to below 60, you will start dealing considerably more damage. The 60% increase works on regular attacks and critical attacks.
 
-**Tiger** - Each turn, 5 HP is converted into +3 strength.
+**Tiger** - Each turn, 5 HP is converted into +3 strength. Every turn the Tiger will lose 5 of it's own HP, but gain +3 strength. If the Tiger starts with 50 strength, by the end of the fight it could have over 65 strength.&#x20;
+
+**Panther** - Enamy fail % increases by 7% each turn. If the enemy starts with 10% fail, after one turn it will have 17%, two turns 25%, three turns 34%, etc.
+
+**Rainbow** - 1/4 chance to take half damage. There is a 25% chance that you will only receive half of the damage the attacker is supposed to do. This works on regular and critical attacks.
+
+**Sphinx** - Health regenerates +10 HP each turn. After every turn the Sphinx will gain 10 health.&#x20;
+
+**White Leopard** - Gain 4 strength but also gain 1 fail % every turn. The White Leopard gains 4 strength every turn. If it starts with 50 then after 1 turn it will have 54, two turns 58, three turns 62. By the end of the fight it could have over 70 strength. However it also increases the chance of missing. The fail % increases by 1 each turn as well.
+
+Bloodbath -&#x20;
 
 </details>
 
