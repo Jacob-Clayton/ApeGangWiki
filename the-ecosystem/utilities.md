@@ -20,7 +20,7 @@ Costs 700 $GANG
 
 You can claim your own apegang.eth subdomain [here](https://apegang.art/utilities).
 
-Subdomains, i.e. kolsas.apegang.eth, are fully integrated in Fight Club and show up on the leaderboard and during fights.
+Subdomains, i.e. kolsas.apegang.eth, are fully integrated in Fight Club and show up on the leaderboard. They also function as an easy to remember address to send and receive Ethereum or NFTs.
 
 Costs 150 $GANG
 
