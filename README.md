@@ -1,7 +1,5 @@
 ---
-description: >-
-  Welcome to the Ape Gang Wiki, your resource for all things Ape Gang - updated
-  regularly by the Ape Gang team
+description: Your resource for all things Ape Gang - updated regularly by the Ape Gang team
 ---
 
 # Ape Gang Wiki
