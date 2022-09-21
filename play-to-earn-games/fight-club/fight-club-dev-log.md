@@ -140,5 +140,5 @@ _22nd September 2022_
 | Jaguar Fur    | Original Passive                                           | New Passive                                                |
 | ------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | White Leopard | Gain 4 strength each turn but also gain 1 fail % each turn | Gain 4 strength each turn but also gain 2 fail % each turn |
-| Bloodbath     | Enemy bleeds -13 HP each turn                              | Enemy bleeds -13 HP each turn                              |
+| Bloodbath     | Enemy bleeds -14 HP each turn                              | Enemy bleeds -13 HP each turn                              |
 | Zombie        | 40% of damage reflected                                    | 38% of damage reflected                                    |
