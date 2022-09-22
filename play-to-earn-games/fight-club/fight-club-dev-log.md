@@ -40,7 +40,7 @@ _2nd August 2022_
 
 _11th August 2022_
 
-* Implemented off-chain $GANGANITE coin for gas-less in-game transactions.
+* Implemented off-chain $GANGANITE coin for gas-free in-game transactions.
 * Implemented Fight Club consumables; revive & extra fight potions for 5 $GANGANITE each.
 * Implemented a Fight Club marketplace.
 * Implemented a Fight Club inventory.
@@ -114,9 +114,32 @@ _1st September 2022_
 
 _15th September 2022_
 
-* Legendary Jaguars integrated into Fight Club as a playable NFT.
-* Legendary Jaguars have a range of new exciting passives and stats.
+* Legendary Jaguars integrated into Fight Club as a playable NFT bringing a range of new and exciting passive abilities.
 *   New weekly format to rotate between:\
-    **Fight Club Qualifier** - free entry, fun game modes, winning here qualifies you for the main event next week.
+    **Fight Club Qualifier** - Free entry, fun game modes, winning here qualifies you for the main event next week.
 
-    **Fight Club** - 100 $GANG entry for those who don't qualify. Large $GANG prize pool for winners, standard game mode - highest ELO wins.
+    **Fight Club** - 100 $GANG entry for those who don't qualify. Large $GANG prize pool for winners, standard game mode. Highest ELO wins.
+* Visual change to health bar.
+
+### Week 2
+
+_22nd September 2022_
+
+* Improved method of checking Fight Club entry transactions = shorter wait times.
+* 6 permeant Jaguar passive changes to balance strength.
+
+**Buffs:**
+
+| Jaguar Fur | Original Passive                     | New Passive                          |
+| ---------- | ------------------------------------ | ------------------------------------ |
+| Blue Dots  | Enemy loses 2% crit every turn       | Enemy loses 4% crit every turn       |
+| Giraffe    | Critical increases +5% every turn    | Critical increases +6% every turn    |
+| Panther    | Enemy fail increases by 7% each turn | Enemy fail increases by 8% each turn |
+
+**Nerfs:**
+
+| Jaguar Fur    | Original Passive                                           | New Passive                                                |
+| ------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| White Leopard | Gain 4 strength each turn but also gain 1 fail % each turn | Gain 4 strength each turn but also gain 2 fail % each turn |
+| Bloodbath     | Enemy bleeds -14 HP each turn                              | Enemy bleeds -13 HP each turn                              |
+| Zombie        | 40% of damage reflected                                    | 38% of damage reflected                                    |
