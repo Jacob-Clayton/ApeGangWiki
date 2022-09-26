@@ -47,21 +47,21 @@ Fuse your Jaguars on the [Ape Gang website](https://apegang.art/utilities).
 
 Legendary Jaguars have special abilities attributed to their fur type. These make a big difference in [Fight Club](../play-to-earn-games/fight-club/)!
 
-|       Fur      | Passive                                                                    |
-| :------------: | -------------------------------------------------------------------------- |
-|    Red Dots    | **Burn!** Enemy loses 1.5 strength every turn                              |
-|    Blue Dots   | **Freeze!** Enemy loses 2% crit every turn                                 |
-|     Giraffe    | **Composure!** Critical increases +5% every turn                           |
-|      Zebra     | **Patient!** When their HP is under 60 their attacks will be 60% stronger. |
-|      Tiger     | **Confident!** Each turn 5 health points are converted to +3 Strength      |
-|     Panther    | **Intimidate!** Enemy fail increases by 7% each turn.                      |
-|     Rainbow    | **Lucky!** 1/4 chance to take half damage                                  |
-|     Sphynx     | **Stoic!** Health Regen +10 HP each turn                                   |
-|  White Leopard | **Cursed!** gain 4 strength each turn but also gain 1 fail % each turn     |
-|    Bloodbath   | **Bleed!** enemy bleeds -14 HP each turn                                   |
-|      Devil     | **See Red!** 1/4 chance to do a 3x critical hit                            |
-|     Zombie     | **Backfire!** 40% of damage reflected                                      |
-| Black and Gold | **Immortal!** once dead comes back to life with 50 HP                      |
+|       Fur      | Passive                                                                   |
+| :------------: | ------------------------------------------------------------------------- |
+|    Red Dots    | **Burn!** Enemy loses 1.5 strength every turn                             |
+|    Blue Dots   | **Freeze!** Enemy loses 4% crit every turn                                |
+|     Giraffe    | **Composure!** Critical increases +6% every turn                          |
+|      Zebra     | **Patient!** When their HP is under 60 their attacks will be 60% stronger |
+|      Tiger     | **Confident!** Each turn 5 HP is converted to +3 Strength                 |
+|     Panther    | **Intimidate!** Enemy fail increases by 8% each turn                      |
+|     Rainbow    | **Lucky!** 1/4 chance to take half damage                                 |
+|     Sphynx     | **Stoic!** Health Regen +10 HP each turn                                  |
+|  White Leopard | **Cursed!** gain 4 strength each turn but also gain 2 fail % each turn    |
+|    Bloodbath   | **Bleed!** enemy bleeds -13 HP each turn                                  |
+|      Devil     | **See Red!** 1/4 chance to do a 3x critical hit                           |
+|     Zombie     | **Backfire!** 38% of damage reflected                                     |
+| Black and Gold | **Immortal!** once dead comes back to life with 50 HP                     |
 
 <details>
 

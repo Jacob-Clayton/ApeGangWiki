@@ -17,8 +17,9 @@
 
 ## The Ecosystem
 
-* [Metaverse](the-ecosystem/metaverse.md)
+* [Ape Gang Ecosystem](the-ecosystem/ape-gang-ecosystem.md)
 * [Utilities](the-ecosystem/utilities.md)
+* [Metaverse](the-ecosystem/metaverse.md)
 * [$GANG Token](the-ecosystem/usdgang-token.md)
 * [$GANGANITE Coin](the-ecosystem/usdganganite-coin.md)
 * [Lore](the-ecosystem/lore/README.md)
