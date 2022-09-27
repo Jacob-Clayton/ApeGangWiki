@@ -37,7 +37,9 @@ There are multiple [utilities](the-ecosystem/utilities.md) already available to 
 
 Apes, Toucans, Jaguars, $GANG and our play-to-earn game fit seamlessly into [our ecosystem](the-ecosystem/ape-gang-ecosystem.md).
 
-[Apes](nft-collections/ape-gang.md) are the centre piece. They can fight in Fight Club and also yield [$GANG](the-ecosystem/usdgang-token.md) which fuels the whole ecosystem.
+<figure><img src=".gitbook/assets/AG_ECO1.png" alt=""><figcaption><p>An ecosystem which centres around the players</p></figcaption></figure>
+
+[Apes](nft-collections/ape-gang.md) and the players are the centre piece. They compete in Fight Club and yield [$GANG](the-ecosystem/usdgang-token.md) which fuels the whole ecosystem.
 
 [Toucans](nft-collections/toucan-gang.md) can be used two ways; to boost Apes' fighting stats OR to boost Apes' $GANG yielding.
 
@@ -48,6 +50,8 @@ Apes, Toucans, Jaguars, $GANG and our play-to-earn game fit seamlessly into [our
 * Two Legendary Jaguars can also breed a new Jaguar Cub NFT (inflationary). Cubs will provide a soon to be revealed exclusive utility.
 
 Together, our three NFT collections combine to fight against each other in our play-to-earn game [Fight Club](play-to-earn-games/fight-club/).
+
+Read more about the ecosystem [here](the-ecosystem/ape-gang-ecosystem.md).
 
 ## Ape City Metaverse
 
