@@ -65,13 +65,17 @@ The Ape Gang [team](about-us/management.md) is a group of like minded individual
 
 **Friendly Community**
 
-Our only requirement for being a part of our community is to be friendly towards others.
+Ape Gang's community is friendly and are always willing to help newcomers on their journey. The only requirement for being a part of our community is to be friendly towards others.
 
 **Community Events**
 
-* Big weekly poker game against two other NFT communities with NFT prizes.
+* Big weekly poker game against two other NFT communities with a poker bracelet NFT for the winner.
 * Weekly twitter spaces for project updates, interviews with other projects and community conversations.
 * And of course [Fight Club](play-to-earn-games/fight-club/), which entertains us throughout the entire week and provides some great banter in discord.
+
+#### Ape Gang Music
+
+The Ape Gang community has made some awesome music tracks which you can listen to on [Spotify](https://t.co/0LNTnryMBf)!&#x20;
 
 ## Sales Records
 
