@@ -33,9 +33,9 @@ Our ERC-20 token which fuels the ecosystem. Each Ape passively yields 1 [$GANG](
 
 There are multiple [utilities](the-ecosystem/utilities.md) already available to spend $GANG on.
 
-## The Ape Gang world
+## The Ape Gang ecosystem
 
-There are Apes, Toucans, Jaguars and a P2E game. But how does it all fit together?
+Apes, Toucans, Jaguars, $GANG and our play-to-earn game fit seamlessly into [our ecosystem](the-ecosystem/ape-gang-ecosystem.md).
 
 [Apes](nft-collections/ape-gang.md) are the centre piece. They can fight in Fight Club and also yield [$GANG](the-ecosystem/usdgang-token.md) which fuels the whole ecosystem.
 
