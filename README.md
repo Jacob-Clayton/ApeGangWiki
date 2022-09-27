@@ -33,7 +33,7 @@ Our ERC-20 token which fuels the ecosystem. Each Ape passively yields 1 [$GANG](
 
 There are multiple [utilities](the-ecosystem/utilities.md) already available to spend $GANG on.
 
-## The Ape Gang ecosystem
+## The Ape Gang Ecosystem
 
 Apes, Toucans, Jaguars, $GANG and our play-to-earn game fit seamlessly into [our ecosystem](the-ecosystem/ape-gang-ecosystem.md).
 
@@ -47,7 +47,7 @@ Apes, Toucans, Jaguars, $GANG and our play-to-earn game fit seamlessly into [our
 * Legendary Jaguars bring dynamic and exciting passive abilities into [Fight Club](play-to-earn-games/fight-club/) as they battle against Apes.
 * Two Legendary Jaguars can also breed a new Jaguar Cub NFT (inflationary). Cubs will provide a soon to be revealed exclusive utility.
 
-Together, our three NFT collections will combine to fight against each other in our play-to-earn games [Fight Club](play-to-earn-games/fight-club/) and [Gang Wars](play-to-earn-games/gang-wars.md).
+Together, our three NFT collections combine to fight against each other in our play-to-earn game [Fight Club](play-to-earn-games/fight-club/).
 
 ## Ape City Metaverse
 
