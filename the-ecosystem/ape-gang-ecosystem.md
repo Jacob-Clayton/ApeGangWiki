@@ -16,7 +16,7 @@ Web3 gaming provides fair virtual markets for the gaming industry, where players
 
 </details>
 
-Apes, Toucans, Jaguars, $GANG and our P2E game fit seamlessly into our Web3 ecosystem.
+Apes, Toucans, Jaguars, $GANG and our play-to-earn game fit seamlessly into our Web3 ecosystem.
 
 <figure><img src="../.gitbook/assets/AG_ECO1.png" alt=""><figcaption><p>An ecosystem which centres around the players</p></figcaption></figure>
 
