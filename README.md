@@ -51,8 +51,6 @@ Apes, Toucans, Jaguars, $GANG and our play-to-earn game fit seamlessly into [our
 
 Together, our three NFT collections combine to fight against each other in our play-to-earn game [Fight Club](play-to-earn-games/fight-club/).
 
-Read more about the ecosystem [here](the-ecosystem/ape-gang-ecosystem.md).
-
 ## Ape City Metaverse
 
 Owning an Ape Gang NFT gets you access to our custom 3D metaverse. We have a huge island with skyscrapers, jungles, beaches and an obstacle course. Explore our world in online multiplayer with the rest of the community. All you need to get into the [Ape City metaverse](the-ecosystem/metaverse.md) is an Ape Gang NFT and a browser.
