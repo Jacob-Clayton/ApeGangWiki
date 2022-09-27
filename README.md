@@ -6,7 +6,7 @@ description: Your resource for all things Ape Gang - updated regularly by the Ap
 
 ## What is Ape Gang?
 
-### A pixel art project with 3 NFT collections, an on-chain P2E game, a custom 3D metaverse, an ecosystem powered by $GANG and a dedicated community. With the vision to build a brand for the future.
+### A pixel art project with 3 NFT collections, a play-to-earn game, a custom 3D metaverse, an ecosystem powered by $GANG and a dedicated community. With the vision to build a brand for the future.
 
 Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
@@ -18,7 +18,7 @@ Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
 _Jaguar Gang is the first ever NFT collection with both a deflationary & inflationary mechanism._
 
-## P2E Gaming
+## Play-to-earn Gaming
 
 [Apes](nft-collections/ape-gang.md), [Toucans](nft-collections/toucan-gang.md) and [Jaguars](nft-collections/jaguar-gang.md) team up to form gangs which compete in our two P2E games:
 
