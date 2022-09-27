@@ -44,4 +44,4 @@ Together, our three NFT collections combine to fight against each other in our p
 
 ## How could it look in the future?
 
-<figure><img src="../.gitbook/assets/Integrate2.png" alt=""><figcaption><p>Fight Club is scalable and ready to integrate new NFT collections</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Integrate (1).png" alt=""><figcaption><p>Fight Club is scalable and ready to integrate new NFT collections</p></figcaption></figure>
