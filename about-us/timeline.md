@@ -12,7 +12,7 @@ description: Notable moments through Ape Gang's history
 
 #### June
 
-30th - Apes are minted on Opensea.
+30th - Apes are minted.
 
 #### July
 
@@ -80,7 +80,7 @@ description: Notable moments through Ape Gang's history
 
 4th - 1 vs 1 Fight Club launched. Battle with your Ape Gang NFTs and earn $GANG in weekly leagues.
 
-6th - Ape Gang hosted it's first IRL event for the wider NFT community at The Parlour Singapore - an NFT bar which has partnered with us.
+6th - Ape Gang hosted it's first IRL event at The Parlour Singapore, an NFT bar which has partnered with us.
 
 #### August
 
