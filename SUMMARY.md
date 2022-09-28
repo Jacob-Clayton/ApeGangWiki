@@ -30,6 +30,7 @@
   * [Chapter 5](the-ecosystem/lore/chapter-5.md)
   * [Chapter 6](the-ecosystem/lore/chapter-6.md)
   * [Chapter 7](the-ecosystem/lore/chapter-7.md)
+  * [Chapter 8](the-ecosystem/lore/chapter-8.md)
 
 ***
 

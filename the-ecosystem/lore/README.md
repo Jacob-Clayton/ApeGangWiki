@@ -172,3 +172,7 @@ We believe in the old ways of giving control to the strongest and most worthy. S
 <figure><img src="../../.gitbook/assets/ApeGangBanner1.png" alt=""><figcaption><p><em>Jaguars vs Apes</em></p></figcaption></figure>
 
 If apes want a shot of regaining control of Ape City they will have to prove themselves in Fight Club and Gang Wars.
+
+## Chapter 8
+
+Coming soon...
