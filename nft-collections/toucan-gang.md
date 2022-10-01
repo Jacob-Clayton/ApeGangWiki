@@ -21,7 +21,7 @@ The constant burning of Toucans reduces the total supply permanently, making the
 
 Burning a Toucan will increase the $GANG yielding of one Ape Gang NFT by 25% forever, even if the Ape is sold. So, after burning one Toucan, your Ape will yield 1.25 $GANG per day instead of 1 $GANG per day.
 
-Read [how to burn your Toucan](../faqs/how-do-i-burn-my-toucans.md).
+Read [how to burn your Toucan](../faqs/how-do-i-burn-a-toucan.md).
 
 ## If you don’t burn your Toucan <a href="#ee0f" id="ee0f"></a>
 

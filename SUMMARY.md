@@ -42,7 +42,7 @@
   * [What happened to the unmigrated Apes?](faqs/what-happened-to-the-unmigrated-apes.md)
   * [How do I check if an Ape can claim a Jaguar?](faqs/how-do-i-check-if-an-ape-can-claim-a-jaguar.md)
   * [How many breeds does my Jaguar have remaining?](faqs/how-many-breeds-does-my-jaguar-have-remaining.md)
-  * [How do I burn my Toucans?](faqs/how-do-i-burn-my-toucans.md)
+  * [How do I burn a Toucan?](faqs/how-do-i-burn-a-toucan.md)
   * [Are the founders doxxed?](faqs/are-the-founders-doxxed.md)
   * [Is there a roadmap?](faqs/is-there-a-roadmap.md)
   * [Which Ape traits are good for fighting?](faqs/which-ape-traits-are-good-for-fighting.md)

@@ -54,6 +54,6 @@ Burning a Toucan will increase the $GANG yielding of an Ape Gang NFT by 25%.&#x2
 
 So, after burning one Toucan, your Ape will yield 1.25 $GANG per day instead of 1 $GANG per day.
 
-Read [how to burn your Toucan](../faqs/how-do-i-burn-my-toucans.md).
+Read [how to burn your Toucan](../faqs/how-do-i-burn-a-toucan.md).
 
 Toucan Burning is free, just pay gas.
