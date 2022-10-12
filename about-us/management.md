@@ -12,7 +12,7 @@ description: A four strong worldwide team supports the two founders
 * Discord: Mepusica | THE SCIENTIST#7262
 * [Linkedin](https://www.linkedin.com/in/mepusica-the-scientist-389411226/)
 
-<figure><img src="../.gitbook/assets/Mep_linkedin (2).png" alt=""><figcaption><p>Mepusica on Linkedin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mep_linkedin (3).png" alt=""><figcaption><p>Mepusica on Linkedin</p></figcaption></figure>
 
 ## Underkong
 
