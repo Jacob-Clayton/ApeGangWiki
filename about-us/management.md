@@ -1,29 +1,39 @@
 ---
-description: A three strong worldwide team supports the two founders
+description: A four strong worldwide team supports the two founders
 ---
 
 # Management
 
 ## Mepusica
 
-* Executive manager of Ape Gang
+* Ape Gang Executive Manager
 * Entrepreneur with more than 10 years of management experience
-* From Singapore
 * Twitter: [Mepusica](https://twitter.com/mepusica)
-* Discord: [Mepusica | THE SCIENTIST#7262](https://discord.com/users/Mepusica%20|%20THE%20SCIENTIST#7262)
+* Discord: Mepusica | THE SCIENTIST#7262
+* [Linkedin](https://www.linkedin.com/in/mepusica-the-scientist-389411226/)
+
+<figure><img src="../.gitbook/assets/Mep_linkedin.png" alt=""><figcaption><p>Mepusica on Linkedin</p></figcaption></figure>
+
+## Underkong
+
+* Ape Gang Content Creator
+* Twitter: [Underkong](https://twitter.com/UnderKong)
+* Discord: UnderKong.eth#1384
+* [Linkedin](https://www.linkedin.com/in/orlov-ilya/)
+
+<figure><img src="../.gitbook/assets/underkong_linkedin.png" alt=""><figcaption><p>Underkong on Linkedin</p></figcaption></figure>
 
 ## Bulkz
 
+* Ape Gang Management
 * Business and finance expert
 * Crypto since 2017
-* From the UK
 * Twitter: [bulKZNFT](https://twitter.com/bulKZNFT)
-* Discord: [\[LC\] - bulKZ#2552](https://discord.com/users/\[LC]%20-%20bulKZ#2552)
+* Discord: \[LC] - bulKZ#2552
 
 ## Kolsas
 
-* Community Manager
+* Ape Gang Community Manager
 * 8 years of project management experience
-* From the UK
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
-* Discord: [Kolsas#7213](https://discord.com/users/kolsas#7213)
+* Discord: Kolsas#7213

@@ -6,11 +6,11 @@ description: Follow us!
 
 ### [Twitter](https://twitter.com/ApeGangNFT)
 
-44,200 followers
+43,600 followers
 
 ### [Instagram](https://www.instagram.com/apegangnft/)
 
-20,700 followers
+20,900 followers
 
 {% embed url="https://www.instagram.com/tv/CdTJxOJlhFk/?utm_source=ig_web_copy_link" %}
 
@@ -33,11 +33,3 @@ description: Follow us!
 400 subscribers
 
 {% embed url="https://www.youtube.com/watch?v=mxDeFAdGS6w&ab_channel=ApeGangNFT" %}
-
-### [Medium](https://apegang.medium.com/)
-
-162 followers
-
-### [Facebook](https://www.facebook.com/ApeGangNFT/)
-
-150 followers

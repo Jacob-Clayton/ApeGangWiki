@@ -26,12 +26,6 @@ We hosted our first IRL networking event on 30th July 2022 which sold out! We ha
 
 We are proud to announce we have now sold out all 100 tickets to our second event on 27th September 2022, a whole month in advance. There is definitely a high demand for IRL events so watch this space!
 
-## The Alien Boy and GOATz
-
-Ape Gang, [The Alien Boy](https://twitter.com/TheAlienBoyNFT) and [GOATz](https://maisondegoat.com/) have a lot in common, all 3 minted early in 2021, have a similar vision and share many of the same community members. Naturally, this has led to a genuine and mutually beneficial partnership for us all.
-
-More will be announced later.
-
 ## NFT Factory Paris
 
 [NFT Factory](https://nftfactoryparis.com/) is a collective of 51 tech and crypto leaders, artists, investors and executives at companies including Allianz Accelerator, Arianee, Blackpool, LaCollection, Dogami, Ethereum France, Galeries Lafayette Group, Ledger, Museum of Crypto Art (MOCA), NFT Morning Podcast, RTFKT Studios, The Sandbox and Sorare.

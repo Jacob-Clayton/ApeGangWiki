@@ -39,11 +39,11 @@ Feel free to say hello to them on Twitter and/ or Discord!
 
 Twitter: [JokongNFT](https://twitter.com/jokongNFT)
 
-Discord: [Jokong#9834](https://www.discordapp.com/users/jokong#9834)
+Discord: Jokong#9834
 
 ### Rikong
 
 Twitter: [RikongNFT](https://twitter.com/RikongNFT)
 
-Discord: [Rikong#1960](https://www.discordapp.com/users/Rikong#1960)
+Discord: Rikong#1960
 

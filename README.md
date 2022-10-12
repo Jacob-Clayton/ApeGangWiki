@@ -6,7 +6,7 @@ description: Your resource for all things Ape Gang - updated regularly by the Ap
 
 ## What is Ape Gang?
 
-### A pixel art project with 3 NFT collections, a play-to-earn game, a custom 3D metaverse, an ecosystem powered by $GANG and a dedicated community. With the vision to build a brand for the future.
+### A pixel art project with 3 NFT collections, a play-to-earn game, an ecosystem powered by $GANG, a custom 3D metaverse and a dedicated community. With the vision to build a brand for the future.
 
 Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
