@@ -17,6 +17,7 @@ description: A four strong worldwide team supports the two founders
 ## Underkong
 
 * Content Creator & Meta Jedi
+* Sub-contracted by Ape Gang solely for content creation
 * Twitter: [Underkong](https://twitter.com/UnderKong)
 * Discord: UnderKong.eth#1384
 * [Linkedin](https://www.linkedin.com/in/orlov-ilya/)
