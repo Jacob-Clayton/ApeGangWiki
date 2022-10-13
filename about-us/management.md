@@ -16,7 +16,7 @@ description: A four strong worldwide team supports the two founders
 
 ## Underkong
 
-* Ape Gang Content Creator
+* Content Creator & Influencer
 * Twitter: [Underkong](https://twitter.com/UnderKong)
 * Discord: UnderKong.eth#1384
 * [Linkedin](https://www.linkedin.com/in/orlov-ilya/)
