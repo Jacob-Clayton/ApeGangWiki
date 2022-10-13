@@ -16,7 +16,7 @@ Ape Gang is integrated into Ethlas' first multichain-NFT multiplayer shooter gam
 
 Ape Gang has their own custom made avatar designed in Ethlas' unique cartoon art style, including a banana cannon ranged weapon to attack other players.&#x20;
 
-[Play Battle Showdown as an Ape Gang NFT here](https://ethlas.com/app). Select 'Games', then 'Battle Showdown'.
+If you own an Ape Gang NFT: [Play Battle Showdown as an Ape](https://ethlas.com/app).
 
 ## The Parlour Singapore
 
