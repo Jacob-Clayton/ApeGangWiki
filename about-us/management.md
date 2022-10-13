@@ -35,6 +35,7 @@ description: A four strong worldwide team supports the two founders
 ## Kolsas
 
 * Ape Gang Community Manager
+* Manages the discord and wiki
 * 8 years of project management experience
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
 * Discord: Kolsas#7213
