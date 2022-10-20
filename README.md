@@ -6,7 +6,7 @@ description: Your resource for all things Ape Gang - updated regularly by the Ap
 
 ## What is Ape Gang?
 
-### A pixel art project with 3 NFT collections, a play-to-earn game, an ecosystem powered by $GANG, a custom 3D metaverse and a dedicated community. With the vision to build a brand for the future.
+### A pixel art project with 3 NFT collections, a play-to-earn game, an ecosystem powered by $GANG and a dedicated community. With the vision to build a brand for the future.
 
 Founded by [Jokong and Rikong](about-us/founders.md) on May 4th 2021.&#x20;
 
@@ -52,12 +52,6 @@ Apes, Toucans, Jaguars, $GANG and our play-to-earn game fit seamlessly into [our
 Together, our three NFT collections combine to fight against each other in our play-to-earn game [Fight Club](play-to-earn-games/fight-club/).
 
 Read more about the ecosystem [here](the-ecosystem/ape-gang-ecosystem.md).
-
-## Ape City Metaverse
-
-Owning an Ape Gang NFT gets you access to our custom 3D metaverse. We have a huge island with skyscrapers, jungles, beaches and an obstacle course. Explore our world in online multiplayer with the rest of the community. All you need to get into the [Ape City metaverse](the-ecosystem/metaverse.md) is an Ape Gang NFT and a browser.
-
-Your Ape and all it's traits will automatically be generated as your playable character for the metaverse. If you own a fire breathing Ape Gang NFT, your metaverse ape will come with an animation to breathe fire!
 
 ## The Community
 

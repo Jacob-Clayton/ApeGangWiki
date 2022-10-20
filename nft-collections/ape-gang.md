@@ -57,12 +57,6 @@ Every Ape has a passive ability associated with their fur type
 | Alien             | 1/5 chance to divide the enemy's damage by 2 on the next attack          |
 | Ghost             | Once dead, comes back to life with 1 health point                        |
 
-### Access to the Ape City metaverse
-
-Owning an Ape Gang gets you access to our custom 3D island with skyscrapers and jungles. Explore the world in online multiplayer with the community. All you need to get into the [Ape City metaverse](../the-ecosystem/metaverse.md) is an Ape Gang NFT and a browser.
-
-Your unique Ape and it's traits will automatically be generated as your playable character for the metaverse.
-
 ### Ape rarity
 
 Some people buy Apes for aesthetics, some for their fighting ability and some for the rarity.&#x20;

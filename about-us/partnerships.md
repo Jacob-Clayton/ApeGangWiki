@@ -34,10 +34,6 @@ The NFT Factory is a unique and hybrid 400m2 space in central Paris, ideal to we
 
 [Jokong and Rikong](founders.md) are co-founders of NFT Factory
 
-## Leapn
-
-We partnered with [Leapn](https://leapn.life/) for the creation of our custom 3D [metaverse](../the-ecosystem/metaverse.md). They created the island, it's skyscrapers and jungles and designed all the assets following Ape Gang's direction.
-
 ## Lynx Club
 
 We have a strategic partnership agreement with an up-and-coming project that is determined to revolutionise how NFT Projects work together. We will be working with [LYNX Club NFT](https://lynxclubnft.com/), a collective of 5555 NFTs that grant you membership access into The Taiga. A “Digital Playground” where creativity and collaboration meet. A place where the builders of today and the creators of tomorrow unite.&#x20;
