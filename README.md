@@ -71,7 +71,7 @@ Ape Gang's community is friendly and are always willing to help newcomers on the
 * Weekly twitter spaces for project updates, interviews with other projects and community conversations.
 * And of course [Fight Club](play-to-earn-games/fight-club/), which entertains us throughout the entire week and provides some great banter in discord.
 
-#### Ape Gang Music
+**Ape Gang Music**
 
 The Ape Gang community has made some awesome music tracks which you can listen to on [Spotify](https://t.co/0LNTnryMBf)!&#x20;
 
