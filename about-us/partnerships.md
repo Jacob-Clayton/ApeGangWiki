@@ -36,7 +36,7 @@ The NFT Factory is a unique and hybrid 400m2 space in central Paris, ideal to we
 
 ## Etheral Collective
 
-Ethereal Collective is a leading physical and digital events specialist in the NFT space. They provide creators and collections, such as Ape Gang, the opportunity to exhibit art in prestigious galleries around the world.&#x20;
+[Ethereal Collective](http://etherealcollective.io/) is a leading physical and digital events specialist in the NFT space. They provide creators and collections, such as Ape Gang, the opportunity to exhibit art in prestigious galleries around the world.&#x20;
 
 Ethereal Collective has spaces in NYC, London, and Dubai, where token holders and community members can display their art, physically, with the owner’s profile shown alongside. Ape Gang NFT has had an exclusive sponsored area for our collection in the past, giving it real life exposure.
 
