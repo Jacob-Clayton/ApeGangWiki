@@ -1,6 +1,6 @@
 # FAQs
 
-If you have questions which are not answered here please ask in our [discord](https://discord.com/invite/apegang), we'd be happy to help with any questions you have!
+If you have questions which are not answered here please ask in our [discord](https://discord.gg/Gb7yWGnwWT), we'd be happy to help with any questions you have!
 
 <details>
 
