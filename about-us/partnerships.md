@@ -34,6 +34,12 @@ The NFT Factory is a unique and hybrid 400m2 space in central Paris, ideal to we
 
 [Jokong and Rikong](founders.md) are co-founders of NFT Factory
 
+## Etheral Collective
+
+Ethereal Collective is a leading physical and digital events specialist in the NFT space. They provide creators and collections, such as Ape Gang, the opportunity to exhibit art in prestigious galleries around the world.&#x20;
+
+Ethereal Collective has spaces in NYC, London, and Dubai, where token holders and community members can display their art, physically, with the owner’s profile shown alongside. Ape Gang NFT has had an exclusive sponsored area for our collection in the past, giving it real life exposure.
+
 ## Lynx Club
 
 We have a strategic partnership agreement with an up-and-coming project that is determined to revolutionise how NFT Projects work together. We will be working with [LYNX Club NFT](https://lynxclubnft.com/), a collective of 5555 NFTs that grant you membership access into The Taiga. A “Digital Playground” where creativity and collaboration meet. A place where the builders of today and the creators of tomorrow unite.&#x20;
