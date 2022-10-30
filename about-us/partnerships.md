@@ -10,8 +10,6 @@ description: Ape Gang has developed partnerships with multiple NFT projects and 
 
 Founded in 2021 by a team situated in Singapore, Ethlas is an all-in-one casual game platform that aims to be truly interoperable to bring about the age of mass market gameplay. By turning gaming from a hobby into a passion, Ethlas believes they are in a position to bring in a new wave of players to the gaming industry.
 
-**ETHLAS BATTLE SHOWDOWN**&#x20;
-
 Ape Gang is integrated into Ethlas' first multichain-NFT multiplayer shooter game, Battle Showdown. Ethlas has partnered with many other NFT projects from the Ethereum and Solana ecosystems to bring communities from across the NFT space together in Battle Showdown.
 
 Ape Gang has their own custom made avatar designed in Ethlas' unique cartoon art style, including a banana cannon ranged weapon to attack other players.&#x20;
