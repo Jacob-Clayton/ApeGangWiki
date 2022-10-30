@@ -1,7 +1,3 @@
----
-description: Follow us!
----
-
 # Social Media
 
 ### [Twitter](https://twitter.com/ApeGangNFT)
