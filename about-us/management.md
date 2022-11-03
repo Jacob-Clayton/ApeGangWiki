@@ -14,14 +14,6 @@ description: A four strong worldwide team supports the two founders
 
 <figure><img src="../.gitbook/assets/Mep_linkedin (3).png" alt=""><figcaption><p>Mepusica on Linkedin</p></figcaption></figure>
 
-## Bulkz
-
-* Ape Gang Management
-* Business and finance expert
-* Crypto since 2017
-* Twitter: [bulKZNFT](https://twitter.com/bulKZNFT)
-* Discord: \[LC] - bulKZ#2552
-
 ## Kolsas
 
 * Ape Gang Community Manager
@@ -29,6 +21,14 @@ description: A four strong worldwide team supports the two founders
 * 8 years of project management experience
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
 * Discord: Kolsas#7213
+
+## Bulkz
+
+* Ape Gang Management
+* Business and finance expert
+* Crypto since 2017
+* Twitter: [bulKZNFT](https://twitter.com/bulKZNFT)
+* Discord: \[LC] - bulKZ#2552
 
 ## Underkong
 
