@@ -14,16 +14,6 @@ description: A four strong worldwide team supports the two founders
 
 <figure><img src="../.gitbook/assets/Mep_linkedin (3).png" alt=""><figcaption><p>Mepusica on Linkedin</p></figcaption></figure>
 
-## Underkong
-
-* Content Creator & Meta Jedi
-* Sub-contracted by Ape Gang solely for content creation
-* Twitter: [Underkong](https://twitter.com/UnderKong)
-* Discord: UnderKong.eth#1384
-* [Linkedin](https://www.linkedin.com/in/orlov-ilya/)
-
-<figure><img src="../.gitbook/assets/underkong_linkedin.png" alt=""><figcaption><p>Underkong on Linkedin</p></figcaption></figure>
-
 ## Bulkz
 
 * Ape Gang Management
@@ -39,3 +29,13 @@ description: A four strong worldwide team supports the two founders
 * 8 years of project management experience
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
 * Discord: Kolsas#7213
+
+## Underkong
+
+* Content Creator & Meta Jedi
+* Sub-contracted by Ape Gang solely for content creation
+* Twitter: [Underkong](https://twitter.com/UnderKong)
+* Discord: UnderKong.eth#1384
+* [Linkedin](https://www.linkedin.com/in/orlov-ilya/)
+
+<figure><img src="../.gitbook/assets/underkong_linkedin.png" alt=""><figcaption><p>Underkong on Linkedin</p></figcaption></figure>
