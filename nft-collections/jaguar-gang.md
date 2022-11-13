@@ -122,13 +122,13 @@ All 96 legendary traits influence fighting stats. But which traits are good for 
 * Your new-born cub will have 100% random traits except for the fur.
 *   For the fur you have a:
 
-    * 45% chance to keep mum fur&#x20;
-    * 45% chance to keep dad fur&#x20;
-    * 10% chance to get a random fur&#x20;
+    * 42.5% chance to keep mum fur&#x20;
+    * 42.5% chance to keep dad fur&#x20;
+    * 15% chance to get a fur different from both mum and dad
 
 
 
-    _Breeding traits evolve with time and seasonal changes. You're more likely to get summery traits in summer, and wintery traits in winter._
+    _Breeding traits have evolved! A brand new range of seasonal traits have been released on 13th November 2022._
 
 **There is a chance to create a special 1 of 1 Legendary Jaguar Cub each time you breed.**&#x20;
 
