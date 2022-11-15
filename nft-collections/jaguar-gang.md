@@ -124,7 +124,7 @@ All 96 legendary traits influence fighting stats. But which traits are good for 
 
     * 42.5% chance to keep mum fur&#x20;
     * 42.5% chance to keep dad fur&#x20;
-    * 15% chance to get a fur different from both mum and dad
+    * 15% chance to get a new fur, different from both both mum and dad
 
 
 
