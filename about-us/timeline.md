@@ -92,4 +92,11 @@ description: Notable moments through Ape Gang's history
 
 15th - Legendary Jaguars integrated into Fight Club as playable NFT.
 
-24th - Our second IRL event at The Parlour Singapore. Sold out all 100 tickets a month before the event.
+24th - Ape Gang social event at The Parlour Singapore. Sold out all 100 tickets a month before the event.
+
+#### November
+
+13th - New Jaguar Cub trait pool for the winter/ spring season. All previous traits removed and a complete new set of traits implemented.
+
+15th - Ape Gang hosts a packed official afterparty at Istanbul Blockchain Week.
+
