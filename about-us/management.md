@@ -16,26 +16,15 @@ description: A four strong worldwide team supports the two founders
 
 ## Kolsas
 
-* Ape Gang Community Manager
-* Manages the discord and wiki
+* Manages the Discord, Wiki, Communications and Strategy
+* Full Stack Developer
 * 8 years of project management experience
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
 * Discord: Kolsas#7213
 
 ## Bulkz
 
-* Ape Gang Management
 * Business and finance expert
 * Crypto since 2017
 * Twitter: [bulKZNFT](https://twitter.com/bulKZNFT)
 * Discord: \[LC] - bulKZ#2552
-
-## Underkong
-
-* Content Creator & Meta Jedi
-* Sub-contracted by Ape Gang solely for content creation
-* Twitter: [Underkong](https://twitter.com/UnderKong)
-* Discord: UnderKong.eth#1384
-* [Linkedin](https://www.linkedin.com/in/orlov-ilya/)
-
-<figure><img src="../.gitbook/assets/underkong_linkedin.png" alt=""><figcaption><p>Underkong on Linkedin</p></figcaption></figure>
