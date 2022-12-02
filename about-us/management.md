@@ -1,5 +1,5 @@
 ---
-description: A four strong worldwide team supports the two founders
+description: A three strong worldwide team supports the two founders
 ---
 
 # Management
