@@ -67,9 +67,15 @@ Ape Gang's community is friendly and are always willing to help newcomers on the
 
 **Community Events**
 
-* Big weekly poker game against two other NFT communities with a poker bracelet NFT for the winner.
-* Weekly twitter spaces for project updates, interviews with other projects and community conversations.
+* Big weekly poker game against three other NFT communities with NFT prizes.
+* Twitter spaces for project updates, interviews with other projects and community conversations.
 * And of course [Fight Club](play-to-earn-games/fight-club/), which entertains us throughout the entire week and provides some great banter in discord.
+
+**Ape Academy**
+
+A holders only social media growth academy on Discord to help you grow on average 20-50 followers a day.
+
+Ape Academy has guided 12 members to over 5,000 followers already!
 
 **Ape Gang Music**
 
