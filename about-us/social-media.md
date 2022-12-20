@@ -1,7 +1,3 @@
----
-description: Follow us!
----
-
 # Social Media
 
 ### [Twitter](https://twitter.com/ApeGangNFT)
@@ -22,7 +18,7 @@ description: Follow us!
 
 ### [Linkedin](https://www.linkedin.com/company/ape-gang-nft)
 
-880 followers
+980 followers
 
 ### [Twitch](https://www.twitch.tv/apegangnft)
 

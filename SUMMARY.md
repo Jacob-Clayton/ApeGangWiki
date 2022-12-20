@@ -19,9 +19,9 @@
 
 * [Ape Gang Ecosystem](the-ecosystem/ape-gang-ecosystem.md)
 * [Utilities](the-ecosystem/utilities.md)
-* [Metaverse](the-ecosystem/metaverse.md)
 * [$GANG Token](the-ecosystem/usdgang-token.md)
 * [$GANGANITE Coin](the-ecosystem/usdganganite-coin.md)
+* [Ape Academy](the-ecosystem/ape-academy.md)
 * [Lore](the-ecosystem/lore/README.md)
   * [Chapter 1](the-ecosystem/lore/chapter-1.md)
   * [Chapter 2](the-ecosystem/lore/chapter-2.md)
@@ -31,6 +31,7 @@
   * [Chapter 6](the-ecosystem/lore/chapter-6.md)
   * [Chapter 7](the-ecosystem/lore/chapter-7.md)
   * [Chapter 8](the-ecosystem/lore/chapter-8.md)
+* [Metaverse](the-ecosystem/metaverse.md)
 
 ***
 

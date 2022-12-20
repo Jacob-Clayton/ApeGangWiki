@@ -1,5 +1,5 @@
 ---
-description: A four strong worldwide team supports the two founders
+description: A three strong worldwide team supports the two founders
 ---
 
 # Management
@@ -16,7 +16,8 @@ description: A four strong worldwide team supports the two founders
 
 ## Kolsas
 
-* Manages the Discord, Wiki, Communications and Strategy
+* Manages the Discord, Wiki and Strategy
+* Full Stack Developer
 * 8 years of project management experience
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
 * Discord: Kolsas#7213
