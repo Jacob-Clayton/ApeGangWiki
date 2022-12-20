@@ -17,4 +17,4 @@ After 1.5 years on Twitter we've learnt the best ways to grow! And now Kool-Kong
 3. Go to the #Ape-Academy channel and follow along!
 4. Have an Ape Gang pfp on Twitter to get personalised stats
 
-<figure><img src="../.gitbook/assets/imagkksoe.png" alt=""><figcaption><p>Get personalised stats and advice</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagkksoe.png" alt=""><figcaption><p>Get personalised stats and advice if you use an Ape Gang pfp</p></figcaption></figure>
