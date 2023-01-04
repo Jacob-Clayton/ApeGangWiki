@@ -15,7 +15,7 @@ Toucan Gang was a free mint in October 2021 for all Ape Gang holders.
 1. Burn your Toucan to increase your daily $GANG yield OR
 2. Pair your Toucan with an Ape to improve its fighting stats for [Gang Wars](../play-to-earn-games/gang-wars.md) Season 2.
 
-The constant burning of Toucans reduces the total supply permanently, making the collection deflationary. So far 1,185 Toucans have been burned (11.8%).
+The constant burning of Toucans reduces the total supply permanently, making the collection deflationary. So far 1,185 Toucans have been burned.
 
 ## If you burn your Toucan <a href="#400b" id="400b"></a>
 
