@@ -38,12 +38,6 @@ The NFT Factory is a unique and hybrid 400m2 space in central Paris, ideal to we
 
 Ethereal Collective has spaces in NYC, London, and Dubai, where token holders and community members can display their art, physically, with the owner’s profile shown alongside. Ape Gang NFT has had an exclusive sponsored area for our collection in the past, giving it real life exposure.
 
-## Lynx Club
-
-We have a strategic partnership agreement with an up-and-coming project that is determined to revolutionise how NFT Projects work together. We will be working with [LYNX Club NFT](https://lynxclubnft.com/), a collective of 5555 NFTs that grant you membership access into The Taiga. A “Digital Playground” where creativity and collaboration meet. A place where the builders of today and the creators of tomorrow unite.&#x20;
-
-As part of the agreement, Ape Gang also gains access to several OG projects within Lynx Club’s network.&#x20;
-
 ## Metapoly
 
 We have a collaboration with [Metapoly](https://metapoly.org/). The world’s first decentralized metaverse land tycoon. Imagine Blackrock for the Metaverse.
