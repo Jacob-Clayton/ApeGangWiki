@@ -4,7 +4,7 @@ description: A three strong worldwide team supports the two founders
 
 # Management
 
-## Mepusica
+Mepusica
 
 * Ape Gang Executive Manager
 * Entrepreneur with more than 10 years of management experience
@@ -21,6 +21,10 @@ description: A three strong worldwide team supports the two founders
 * 8 years of project management experience
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
 * Discord: Kolsas#7213
+
+{% embed url="https://www.youtube.com/watch?ab_channel=BehindTheJPEG&v=baA-4cg575Y" %}
+Interview with Kolsas and Mepusica
+{% endembed %}
 
 ## Bulkz
 
