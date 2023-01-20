@@ -98,9 +98,16 @@ description: Notable moments through Ape Gang's history
 
 13th - New Jaguar Cub traits for the winter/ spring season. All previous traits removed and a complete new set of traits implemented.
 
-15th - Ape Gang hosts a packed official afterparty at Istanbul Blockchain Week.
+15th - Ape Gang hosts sold-out official afterparty at Istanbul Blockchain Week.
 
 #### December
 
+18th - Ape Academy created. A social media growth guide for holders.
+
 25th - 1/1 Jaguar Cub giveaway for Christmas.
 
+## 2023
+
+#### February
+
+3rd - Ape Gang social event at The Parlour Singapore.
