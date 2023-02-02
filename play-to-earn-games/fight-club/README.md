@@ -6,13 +6,13 @@ description: Ape Gang's newest play-to-earn game
 
 ## What is Fight Club?
 
-Fight Club is a 1 vs 1 turn based game where you can fight your NFT against other community member's NFTs to climb the leaderboard and win $GANG.
+Fight Club is a 1 vs 1 turn based game where you can fight your NFT against other community member's NFTs.
 
-[Ape Gang](../../nft-collections/ape-gang.md) NFTs and [Jaguar Gang](../../nft-collections/jaguar-gang.md) NFTs are integrated into Fight Club.
+[Ape Gang](../../nft-collections/ape-gang.md) NFTs and [Jaguar Gang](../../nft-collections/jaguar-gang.md) NFTs are playable characters in Fight Club.
 
 ### How can I take part in Fight Club?
 
-All you need is an [Ape Gang](../../nft-collections/ape-gang.md) or a [Legendary Jaguar](../../nft-collections/jaguar-gang.md) and an internet browser to play.
+All you need is either an [Ape Gang](../../nft-collections/ape-gang.md) or a [Legendary Jaguar](../../nft-collections/jaguar-gang.md) and an internet browser to play.
 
 Register for Fight Club on the [Ape Gang website](https://apegang.art/) and a new interface will be made available to you. From there select your Ape or Jaguar and click fight. Enjoy!
 
