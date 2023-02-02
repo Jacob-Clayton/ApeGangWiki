@@ -73,12 +73,12 @@ Ape Gang has 5 special 1/1 Apes, given away as community competition prizes:
 
 Ape Gang has 6 main categories of apes, split by trait count (2T = 2 traits)
 
-* 11 1T apes - Easily the rarest trait count ape.
-* 367 2T apes - Second rarest and super clean looking apes.
-* 1826 3T apes - Very clean looking but not as rare.
-* 3206 4T apes - The majority of apes are 4T, a balance of aesthetics and Fight Club strength.
-* 2343 5T apes - Very strong in Fight Club.
-* 493 6T apes - Third rarest, 6T apes are the strongest in Fight Club.
+* 11 apes are 1T - The rarest type of ape.
+* 367 apes are 2T - Second rarest and super clean looking apes.
+* 1826 apes are 3T - Very clean looking apes.
+* 3206 apes are 4T - A balance of aesthetics and Fight Club strength.
+* 2343 apes are 5T - Very strong in Fight Club.
+* 493 apes are 6T - Third rarest, 6T apes are the strongest in Fight Club.
 
 <figure><img src="../.gitbook/assets/Ape-Gang-rarity-tools.png" alt=""><figcaption><p>The rarest Apes</p></figcaption></figure>
 
