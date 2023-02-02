@@ -4,19 +4,23 @@ description: Ape Gang's newest play-to-earn game
 
 # Fight Club
 
-## What is Fight Club?
-
-Fight Club is a 1 vs 1 turn based game where you can fight your NFT against other community member's NFTs.
+## Fight Club is a 1 vs 1 turn based game where you fight your NFT against other community member's NFTs.
 
 [Ape Gang](../../nft-collections/ape-gang.md) NFTs and [Jaguar Gang](../../nft-collections/jaguar-gang.md) NFTs are playable characters in Fight Club.
 
+
+
 ### How can I take part in Fight Club?
 
-All you need is either an [Ape Gang](../../nft-collections/ape-gang.md) or a [Legendary Jaguar](../../nft-collections/jaguar-gang.md) and an internet browser to play.
+Currently Fight Club has been paused and is under development while improvements are made.
 
-Register for Fight Club on the [Ape Gang website](https://apegang.art/) and a new interface will be made available to you. From there select your Ape or Jaguar and click fight. Enjoy!
+However, all you need is an [Ape Gang](../../nft-collections/ape-gang.md) or a [Legendary Jaguar](../../nft-collections/jaguar-gang.md) and an internet browser to play.
+
+Register for Fight Club on the [Ape Gang website](https://apegang.art/) and a new interface will be made available to you. From there select your Ape or Jaguar and click fight.
 
 Fight Club also works on metamask mobile browser for on-the-go games.
+
+
 
 ## How does the game work?
 
@@ -36,7 +40,9 @@ You can have a maximum of 3 recovering NFTs at once. Meaning that if 3 of your N
 
 Every player gets an allowance of 12 fights per day, which resets at 00:00 UTC. Any unused fights will not carry over to the next day.&#x20;
 
-Unlock more daily fights by owning more apes:
+<details>
+
+<summary>Unlock more daily fights by owning more apes</summary>
 
 * 1 to 2 apes = 12 fights per day
 * 3 to 4 apes = 13 fights per day
@@ -44,6 +50,8 @@ Unlock more daily fights by owning more apes:
 * 10 to 19 apes = 15 fights per day
 * 20 to 49 apes = 16 fights per day
 * \> 50 apes = 17 fights per day
+
+</details>
 
 Keep in mind, you can do as many or as few fights as you want depending on your game plan. With the cap on the number of recovering NFTs, you can expect about 4 sessions per day if you want to maximise your daily number of fights. This is of course assuming all your NFTs lose their battles. If you are on a winning streak you’ll be able to complete your fights much faster.
 
