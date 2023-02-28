@@ -111,3 +111,5 @@ description: Notable moments through Ape Gang's history
 #### February
 
 3rd - Ape Gang social event at The Parlour Singapore.
+
+24th - Ape Gang sponsored Web3 networking event in Bali.

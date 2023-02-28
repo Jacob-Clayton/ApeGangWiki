@@ -14,4 +14,4 @@ To supplement this Ape Gang has already created a full NFT collection of Sandbox
 
 ## WorldWideWeb3
 
-Ape Gang was also integrated into the WWW3 metaverse in November 2021.
+Ape Gang was also integrated into the WWW3 metaverse back in November 2021.
