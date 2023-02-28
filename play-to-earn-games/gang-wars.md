@@ -22,4 +22,4 @@ Gang Wars is a tournament where gangs of multiple Apes fight against one another
 
 ### Season 2&#x20;
 
-* No date for release yet.
+* Next installment of the Ape Gang game will be a new and improved 1 vs 1 [Fight Club](fight-club/) game.
