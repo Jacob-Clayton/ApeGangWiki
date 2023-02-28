@@ -23,4 +23,3 @@ Gang Wars is a tournament where gangs of multiple Apes fight against one another
 ### Season 2&#x20;
 
 * No date for release yet.
-* Set to involve smaller gangs of five [Apes](../nft-collections/ape-gang.md) and 5 accompanying [Toucans](../nft-collections/toucan-gang.md) to boost the stats of each Ape.
