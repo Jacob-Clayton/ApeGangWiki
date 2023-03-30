@@ -173,6 +173,36 @@ We believe in the old ways of giving control to the strongest and most worthy. S
 
 If apes want a shot of regaining control of Ape City they will have to prove themselves in Fight Club and Gang Wars.
 
-## Chapter 8
+## Chapter 8: Weakness lies in the eyes of the beholder
 
-Coming soon...
+Bozo here reporting from behind the scenes.&#x20;
+
+> It's been a while since the leader of the Jaguars, J.L. Rover, and his posse of battle hardened Jaguar fighters took over Ape City’s council and the $GANG vault.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>The Jaguars have complete control over Ape City</p></figcaption></figure>
+
+Besides randomly picking fights with worthy apes and spending their newfound riches on any performance enhancers they can get their paws on, Jaguars haven’t made much of an impact as the new leaders of Ape City.
+
+It sure feels like the noble premise for their takeover (“apes have lost sight of the values we all used to share back in the good years of Ape City. We’re bringing back the old ways….blah-blah-blah”) was just an excuse to get their paws on our $GANG reserves.
+
+Anyhow, life goes on. And as always apes have adapted fast to the new reality. We still enjoy our morning banana baguettes and croissants at Wake and Bake bakery and we started faking injuries to avoid the endless fighting.
+
+
+
+_But during late nights in secret locations spread around the city, it’s a different story._
+
+## Chapter 9: Late night strolls and red pulsating lights
+
+Every Ape knows The Scientist but The Scientist doesn’t know every ape. This is not a deliberate choice but rather a consequence of his dedication to scientific research. When you’ve been spending every waking hour developing cures for paperhanditis and shiny object syndrome, personal relations naturally come second.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The Scientist ape stumbled upon a sewer entrance with a faint red glow from deep within</p></figcaption></figure>
+
+That being said, The Scientist wasn’t oblivious to the changes to Ape City after the coup by J.L. Rover and his Jaguar posse. It just didn’t bother him too much. Jaguars only harassed strong apes and The Scientist had never partaken in anything resembling a fight. Except for trolling flat-earthers and conspiracy theorists on Twatter; the preferred social media platform for pretty much anyone in Ape City and surrounding cities. But that’s a different story altogether.
+
+The Scientist had few interests besides — well — science. One of them being late night strolls through deserted streets of Ape City to clear his mind and let the creative juices flow.
+
+On one such stroll he suddenly heard the faint echoes of a loud commotion coming from deep within an uninhabited & derelict part of Ape City known amongst Apes as Kong’s Betrayal.
+
+Inquisitive by nature, The Scientist followed the sound through abandoned buildings and hidden alleyways and — finally — stumbled across an altogether incredible spectacle: a swarm of critters fleeing from a seemingly abandoned sewer outlet.
+
+_As he came closer he noticed faint pulsating red lights emanating from the outlet and felt a sudden urge to crawl inside…._
