@@ -113,3 +113,7 @@ description: Notable moments through Ape Gang's history
 3rd - Ape Gang hosts a social event at The Parlour Singapore.
 
 24th - Ape Gang sponsored a Web3 networking event in Bali.
+
+#### April
+
+12th - Ape Gang hosts NFT.NYC afterparty with live DJ and cryptopunk band.
