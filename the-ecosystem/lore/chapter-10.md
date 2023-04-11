@@ -8,8 +8,6 @@ description: What we need is weapons!
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*SQj8nGVYPzsY9GVRuuz7Kg.png" alt=""><figcaption><p>What we need is weapons!</p></figcaption></figure>
 
-## What we need is weapons! <a href="#e683" id="e683"></a>
-
 You might have realised by now that Ape Lincoln is a brilliant scientist hiding underground in the sewers below Ape City. Here, he conducts secret experiments to make apes stronger and regain control over the city.
 
 Regaining control, however, is only the first phase. After many years of watching Ape City from below, Ape Lincoln is now fanatical that a purge is needed to achieve his vision of a fair-minded Ape City without corruption. A balanced society where apes, jaguars, and toucans share riches found within Ganganite ores and collaboratively maintain technological supremacy to keep humans at bay.
