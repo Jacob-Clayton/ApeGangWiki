@@ -161,7 +161,7 @@ Throughout time, the history of Ape City has been shaped by the conflict between
 >
 > Wait! What’s going on? Why are you doing this? I thought we had an understanding.&#x20;
 
-Listen up Ape City! My name is J. L. Rover and I represent the Jaguars. We have always enjoyed living alongside apes, but enough is enough. Apes have hoarded the riches found within __ the Ganganite ore and most importantly you have lost sight of the values we all used to share back in the good years of Ape City.&#x20;
+Listen up Ape City! My name is J. L. Rover and I represent the Jaguars. We have always enjoyed living alongside apes, but enough is enough. Apes have hoarded the riches found within the Ganganite ore and most importantly you have lost sight of the values we all used to share back in the good years of Ape City.&#x20;
 
 ![The Good Years](https://miro.medium.com/max/750/1\*My4gJbg1ekDxk-mOJLH5iQ.png)
 
@@ -206,3 +206,23 @@ On one such stroll he suddenly heard the faint echoes of a loud commotion coming
 Inquisitive by nature, The Scientist followed the sound through abandoned buildings and hidden alleyways and — finally — stumbled across an altogether incredible spectacle: a swarm of critters fleeing from a seemingly abandoned sewer outlet.
 
 _As he came closer he noticed faint pulsating red lights emanating from the outlet and felt a sudden urge to crawl inside…._
+
+## Chapter 10: What we need is weapons! <a href="#1801" id="1801"></a>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*SQj8nGVYPzsY9GVRuuz7Kg.png" alt=""><figcaption><p>What we need is weapons!</p></figcaption></figure>
+
+## What we need is weapons! <a href="#e683" id="e683"></a>
+
+You might have realised by now that Ape Lincoln is a brilliant scientist hiding underground in the sewers below Ape City. Here, he conducts secret experiments to make apes stronger and regain control over the city.
+
+Regaining control, however, is only the first phase. After many years of watching Ape City from below, Ape Lincoln is now fanatical that a purge is needed to achieve his vision of a fair-minded Ape City without corruption. A balanced society where apes, jaguars, and toucans share riches found within Ganganite ores and collaboratively maintain technological supremacy to keep humans at bay.
+
+Ape Lincoln is well aware that a single ape can’t move mountains. So, lately he started preparing a short list of worthy apes to join his cause.
+
+One such ape is The Scientist. Having eyes and ears everywhere, Ape Lincoln knew that the Jaguars were planning to recruit The Scientist for a new weapons development program. And they had a squeeze on him.
+
+Fast forward to where we left off in chapter 9 with The Scientist trying to resist the urge of following the pulsating red light into the sewers. This had of course been an effort masterminded by Ape Lincoln to get one on-one-time with The Scientist. And it was clearly working as intended because before long The Scientist started following the mesmerising light leading to Ape Lincolns lab.
+
+_And so they met. Ape City’s most brilliant minds. And at some point during their conversation The Scientist exclaimed:_
+
+> _“WHAT WE NEED IS WEAPONS!”._
