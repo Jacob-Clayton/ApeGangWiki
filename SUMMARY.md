@@ -33,6 +33,7 @@
   * [Chapter 8](the-ecosystem/lore/chapter-8.md)
   * [Chapter 9](the-ecosystem/lore/chapter-9.md)
   * [Chapter 10](the-ecosystem/lore/chapter-10.md)
+  * [Chapter 11](the-ecosystem/lore/chapter-11.md)
 * [Metaverse](the-ecosystem/metaverse.md)
 
 ***
