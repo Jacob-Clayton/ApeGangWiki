@@ -16,7 +16,7 @@ Mepusica
 
 ## Kolsas
 
-* Manages the Discord, Wiki and Strategy
+* General Manager & Community Manager
 * Full Stack Developer
 * 8 years of project management experience
 * Twitter: [Kolsas\_eth](https://twitter.com/kolsas\_eth)
