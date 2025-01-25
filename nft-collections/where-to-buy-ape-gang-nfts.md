@@ -4,6 +4,8 @@ description: Ape Gang is on all major marketplaces
 
 # Where to buy Ape Gang NFTs
 
+We recommend using Opensea primarily because everybody uses it. However Gem and Genie are fantastic alternatives and arguably better.
+
 ## Opensea
 
 [Ape Gang](https://opensea.io/collection/ape-gang)
@@ -66,7 +68,7 @@ _Looks Rare take a 2% cut from sales._
 
 ## Binance NFT
 
-[Ape Gang](https://www.binance.com/en/nft/collection/ape-gang-537913829142269953?orderBy=list\_time\&orderType=-1\&isBack=1\&id=537913829142269953\&order=list\_time%40-1)
+[Ape Gang](https://www.binance.com/en/nft/collection/ape-gang-537913829142269953?orderBy=list_time\&orderType=-1\&isBack=1\&id=537913829142269953\&order=list_time%40-1)
 
 _Binance NFT is a centralised exchange, you need to transfer your Ape to their marketplace to sell there, and transfer your Ape out if you buy there. There are gas fees each time. Because of this, it is not a marketplace we recommend you use._&#x20;
 

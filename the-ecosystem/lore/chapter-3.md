@@ -1,6 +1,10 @@
+---
+description: The great division of Apes anno 1982
+---
+
 # Chapter 3
 
-## Chapter 3: **The Great Division of Apes anno 1982**
+## Chapter 3: **The great division of Apes anno 1982**
 
 The idea was to require the remaining 10,000 apes in the tribe to be brave and attack the human city, destroying their homes. Many Apes in the tribe spoke of ideas like partnering with the humans, cutting off their food supply, and even killing them. Ape Lincoln, Jo, Ri, and Kong sat down and decided what needed to be done. Clearly outnumbered, we needed to develop a new means of warfare based on tactics including ambush, hit-and-run, and mobility.
 
@@ -12,7 +16,7 @@ But no one had seen the incandescent rage that had taken over Kong, who, until n
 
 His plan was simple: kill every human that refused to leave the city. Simply put, a bloodbath at the hands of the Apes, sparing the ones that we’re smart enough to run and punishing the ones that stood their ground.
 
-![Only one rule according to Kong: run or get killed.](https://miro.medium.com/max/750/1\*xsHzdGYdcWxIK-0-FYGO6g.png)
+![Only one rule according to Kong: run or get killed.](https://miro.medium.com/max/750/1*xsHzdGYdcWxIK-0-FYGO6g.png)
 
 Kong felt that the other ideas were too soft for him and that the humans would never learn their lesson. This caused quite an argument between Ape Lincoln, Jo, and Kong, and a scuffle broke out. No one knows exactly what happened next but, in the scuffle, Kong was fatally injured and Jo and Ri decided in an instant to carry on Kong’s legacy by taking his name. Enraged by Kong’s passing, the apes now known as Jokong and Rikong independently ganged up and decided to attack the city with one thing in mind, absolute domination.
 

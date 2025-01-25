@@ -7,7 +7,7 @@ The unmigrated Ape NFTs still exist, you can see them in your wallet on metamask
 
 The reason you can't see them on Opensea is because Opensea themselves deleted the unmigrated collection contract (they can do this because it is an Opensea based contract which they control). This means even though the Ape still exists in your wallet, you can't sell it.&#x20;
 
-Thankfully [Jokong and Rikong](../about-us/founders.md) have developed a way to save them and we are now able to migrate them into the new collection!
+Thankfully [Jokong and Rikong](broken-reference) have developed a way to save them and we are now able to migrate them into the new collection!
 
 ### If you own an unmigrated Ape please follow the migration instructions below
 
@@ -21,6 +21,6 @@ Thankfully [Jokong and Rikong](../about-us/founders.md) have developed a way to 
 
 _If you don't see your new apes in your wallet after a completed transaction, do not worry Opensea can sometimes be slow on transfers._
 
-__
 
-This is a timely reminder as to why we migrated in the first place, so that a company like Opensea does not have control over our contract. We are very lucky that [Jokong and Rikong](../about-us/founders.md) were able to develop a way to migrate an NFT which doesn't even have a contract. Not an easy task!
+
+This is a timely reminder as to why we migrated in the first place, so that a company like Opensea does not have control over our contract. We are very lucky that [Jokong and Rikong](broken-reference) were able to develop a way to migrate an NFT which doesn't even have a contract. Not an easy task!

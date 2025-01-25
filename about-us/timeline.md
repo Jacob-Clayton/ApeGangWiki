@@ -12,7 +12,7 @@ description: Notable moments through Ape Gang's history
 
 #### June
 
-30th - Apes are minted.
+30th - Apes are minted all at once on Opensea.
 
 #### July
 
@@ -22,23 +22,17 @@ description: Notable moments through Ape Gang's history
 
 #### October
 
-9th - All time highest sale. 33.69 ETH Vader Ape was bought.
+9th - All time highest sale 33.69 ETH Vader Ape was bought.
 
 20th - Deflationary Toucan Gang NFT collection launched as a free mint for Ape holders.
 
 23rd - Times Square NYC Billboard. Over a million people viewed our billboard during the weekend.
 
-31st - Free Halloween themed Ape Gang comic book airdropped via Polygon.
-
-#### November
-
-15th - Ape Gang integrated into WorldWideWeb3 metaverse.
-
-20th - Second highest sale. 20 ETH Batape was bought.
+31st - Free Halloween themed Ape Gang Comic book airdropped via Polygon.
 
 #### December
 
-10th - Launch of the Ape City custom 3D metaverse created by LeapN.
+10th - Launch of the Ape City custom 3D Metaverse created by LeapN.
 
 15th - Migrated to our own ERC-721 contract to ensure the future of Ape Gang.
 
@@ -56,7 +50,7 @@ description: Notable moments through Ape Gang's history
 
 #### March
 
-5th - Toucan Gang NFT burning begins. Burn your Toucans to increase $GANG yielding of Apes.
+5th - Toucan NFT burning begins. Burn your Toucans to increase $GANG yielding of Apes by 25%.
 
 #### April
 
@@ -64,56 +58,22 @@ description: Notable moments through Ape Gang's history
 
 4th - Founders doxxed.
 
-14th - Metaverse update where all 10,000 unique Ape Gang NFTs are generated on demand as a 3D character for our metaverse.
+14th - Metaverse update. All 10,000 unique Apes generated on demand as a 3D character for our metaverse.
 
-16th - Jaguar Gang NFT collection launched as free mint for all Gang Wars Season 1 players.
+16th - Jaguar Gang free mint for all Gang Wars Season 1 players.
 
 16th - Fuse and breed your Jaguars using $GANG.
 
 #### June
 
-18th - ENS subdomains released. Claim your apegang.eth subdomain using $GANG.
+18th - ENS Subdomains released. Claim your apegang.eth subdomain using $GANG.
 
-25th - Limited edition luxury Ape Gang clothing line designed by Jokong & Rikong is 100% vegan.
+25th - New Ape Gang clothing line designed by Jokong & Rikong is 100% vegan.
 
 #### July
 
-4th - 1 vs 1 Fight Club launched. Battle with your Ape Gang NFTs and earn $GANG in weekly leagues.
-
-6th - Ape Gang hosted it's first IRL event at The Parlour Singapore, an NFT bar which has partnered with us.
+4th - 1v1 Fight Club launched. Battle with your Apes and earn $GANG in weekly leagues.
 
 #### August
 
-11th - Fight Club potions, marketplace, inventory and off-chain $GANGANITE released.
-
-#### September
-
-3rd - Ape Gang integrated into Ethlas Battle Showdown PVP shooter as a playable NFT.
-
-15th - Legendary Jaguars integrated into Fight Club as playable NFT.
-
-24th - Ape Gang social event at The Parlour Singapore. Sold out all 100 tickets a month before the event.
-
-#### November
-
-13th - New Jaguar Cub traits for the winter/ spring season. All previous traits removed and a complete new set of traits implemented.
-
-15th - Ape Gang hosts sold-out official afterparty at Istanbul Blockchain Week.
-
-#### December
-
-18th - Ape Academy created. A social media growth guide for holders.
-
-25th - 1/1 Jaguar Cub giveaway for Christmas.
-
-## 2023
-
-#### February
-
-3rd - Ape Gang hosts a social event at The Parlour Singapore.
-
-24th - Ape Gang sponsored a Web3 networking event in Bali.
-
-#### April
-
-12th - Ape Gang hosts NFT.NYC afterparty with live DJ and cryptopunk band.
+11th - Fight Club update; marketplace, inventory and off-chain $GANGANITE added.

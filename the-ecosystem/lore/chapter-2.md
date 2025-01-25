@@ -1,3 +1,7 @@
+---
+description: The Toucan Blaze anno 1979
+---
+
 # Chapter 2
 
 ## Chapter 2: The Toucan Blaze anno 1979
@@ -6,11 +10,11 @@ Over the years, more of the tree killing machines appeared, with more of these h
 
 We decided enough was enough; something had to be done. So, we put our brightest ape minds into a deep state of thought to come up with a plan of attack. Natural leaders emerged, and the core team was formed from Ape Lincoln, Jo, Ri, and Kong.
 
-![Jo, Ri, and Kong plan the attack while Ape Lincoln was on a banana break](https://miro.medium.com/max/750/1\*Vc\_KO4xy-Ur\_T7M2JB6aew.png)
+![Jo, Ri, and Kong plan the attack while Ape Lincoln was on a banana break](https://miro.medium.com/max/750/1*Vc_KO4xy-Ur_T7M2JB6aew.png)
 
 Their master plan was to overthrow the humans by any means necessary. So, with the apes began a wave of espionage and acquisition of “human items’’ using the very same $GANG they so desperately craved. Initially, these items allowed the apes to slip in and amongst the humans and take their form for enough time to learn their ways. After a few weeks of studying these tree-killing bastards, Ri had a great idea to use our dear Toucan companions to lure the humans away from their equipment, long enough for the apes to jump in and take control.
 
-![A wave of espionage begins](https://miro.medium.com/max/750/1\*SyBrIXkmXADOTs3Lqf4Z\_A.png)
+![A wave of espionage begins](https://miro.medium.com/max/750/1*SyBrIXkmXADOTs3Lqf4Z_A.png)
 
 As you know, since ancient times, we’ve been connected to Toucans in so many ways. But many of them had since been enslaved by our enemies and forced to do their ill-bidding. We had previously tried to free the caged toucans but were unsuccessful.
 
@@ -22,7 +26,7 @@ So, on January 24th 1979, we decided to put words to action. Sheltered from the 
 
 As the Toucan flew away, it shed its scorched shell, which turned to ganganite in its purest form as it hit the jungle floor. We use this blessing to further our development as an evolved species of apes, protecting our jungle from the encroaching onslaught of human intervention.
 
-![Free the Toucans by setting them ablaze](https://miro.medium.com/max/750/1\*Gu02zttOT-NXhZWhhlGEYw.png)
+![Free the Toucans by setting them ablaze](https://miro.medium.com/max/750/1*Gu02zttOT-NXhZWhhlGEYw.png)
 
 This explosion of light terrified the humans, scaring them off, incapacitating their tree-eating beastly machines and allowing us to once more return to our homes. But not for long! It was only a few moons before they were back. And this time, they were here for us!
 

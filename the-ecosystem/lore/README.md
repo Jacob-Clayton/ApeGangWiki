@@ -1,10 +1,10 @@
 ---
-description: The Ape Gang lore
+description: All 6 Chapters of the Ape Gang lore
 ---
 
 # Lore
 
-## Preface <a href="#21a0" id="21a0"></a>
+## Preface <a href="#id-21a0" id="id-21a0"></a>
 
 All is not well in Ape City.
 
@@ -16,13 +16,13 @@ Who am I, you may ask? My name is Bozo, The Simian Ape Gang Scientist, and I sha
 
 So, let’s take you back to the origins of where we came from and why we are here now. Our tribe of apes used to be simple creatures living undisturbed in the deepest parts of the jungle, minding our business and living as free as we could. Our days passed swinging from tree to tree without a care in life. Then on an autumn day in 1953, one of our ancestors stumbled across an ancient portal hidden from plain sight in a rarely visited part of the jungle. The portal gave us access to a new world rich in ganganite — a rare-earth mineral with the power to accelerate evolution. Those of us who migrated across to the new world rapidly evolved a sense of identity and built complex communities, and a way of life that we truly cherished.
 
-![The Good Years](https://miro.medium.com/max/750/1\*My4gJbg1ekDxk-mOJLH5iQ.png)
+![The Good Years](https://miro.medium.com/max/750/1*My4gJbg1ekDxk-mOJLH5iQ.png)
 
 Every day, the tribe would gather their harvesting equipment and set off on their jaguars into the jungle to see what they could bring home. They used toucans as guides, who could soar above the jungle canopy and spot the ganganite assets the apes so desperately needed to accelerate the growth of their ecosystem.
 
 Our ancestors evolved with help from their ganganite gains and grew stronger and more intelligent by the year. They developed their personalities and forms and could carve a new path as modern apes in our space. However, only 20 years later, a strange beast appeared on one of our hunts. It was eating trees and unearthing the land beneath its feet. We had never seen a thing of such magnitude and destruction before; it was horrific and needed to be stopped. There came with it, strange-looking creatures; they were like shaved apes but wore a strange wrapping on their bodies. These were “The Humans”.
 
-![The Humans](https://miro.medium.com/max/750/1\*N0iX66xlBsrSmtPq9NIcNA.png)
+![The Humans](https://miro.medium.com/max/750/1*N0iX66xlBsrSmtPq9NIcNA.png)
 
 They made many noises and shouted things like “Just kill it”, “Burn it down”, and “Grab that ganganite”. Such sentences were new to our vocabulary.
 
@@ -34,11 +34,11 @@ Over the years, more of the tree killing machines appeared, with more of these h
 
 We decided enough was enough; something had to be done. So, we put our brightest ape minds into a deep state of thought to come up with a plan of attack. Natural leaders emerged, and the core team was formed from Ape Lincoln, Jo, Ri, and Kong.
 
-![Jo, Ri, and Kong plan the attack while Ape Lincoln was on a banana break](https://miro.medium.com/max/750/1\*Vc\_KO4xy-Ur\_T7M2JB6aew.png)
+![Jo, Ri, and Kong plan the attack while Ape Lincoln was on a banana break](https://miro.medium.com/max/750/1*Vc_KO4xy-Ur_T7M2JB6aew.png)
 
 Their master plan was to overthrow the humans by any means necessary. So, with the apes began a wave of espionage and acquisition of “human items’’ using the very same $GANG they so desperately craved. Initially, these items allowed the apes to slip in and amongst the humans and take their form for enough time to learn their ways. After a few weeks of studying these tree-killing bastards, Ri had a great idea to use our dear Toucan companions to lure the humans away from their equipment, long enough for the apes to jump in and take control.
 
-![A wave of espionage begins](https://miro.medium.com/max/750/1\*SyBrIXkmXADOTs3Lqf4Z\_A.png)
+![A wave of espionage begins](https://miro.medium.com/max/750/1*SyBrIXkmXADOTs3Lqf4Z_A.png)
 
 As you know, since ancient times, we’ve been connected to Toucans in so many ways. But many of them had since been enslaved by our enemies and forced to do their ill-bidding. We had previously tried to free the caged toucans but were unsuccessful.
 
@@ -50,7 +50,7 @@ So, on January 24th 1979, we decided to put words to action. Sheltered from the 
 
 As the Toucan flew away, it shed its scorched shell, which turned to ganganite in its purest form as it hit the jungle floor. We use this blessing to further our development as an evolved species of apes, protecting our jungle from the encroaching onslaught of human intervention.
 
-![Free the Toucans by setting them ablaze](https://miro.medium.com/max/750/1\*Gu02zttOT-NXhZWhhlGEYw.png)
+![Free the Toucans by setting them ablaze](https://miro.medium.com/max/750/1*Gu02zttOT-NXhZWhhlGEYw.png)
 
 This explosion of light terrified the humans, scaring them off, incapacitating their tree-eating beastly machines and allowing us to once more return to our homes. But not for long! It was only a few moons before they were back. And this time, they were here for us!
 
@@ -60,7 +60,7 @@ Oh, and a weight of human clothing, weapons, and even a strange thing the humans
 
 So, we tooled up and decided to encroach on the space the humans called their own. We decided to regroup and prepare for taking over their city and making it our own.
 
-## Chapter 3: **The Great Division of Apes anno 1982**
+## Chapter 3: **The great division of Apes anno 1982**
 
 The idea was to require the remaining 10,000 apes in the tribe to be brave and attack the human city, destroying their homes. Many Apes in the tribe spoke of ideas like partnering with the humans, cutting off their food supply, and even killing them. Ape Lincoln, Jo, Ri, and Kong sat down and decided what needed to be done. Clearly outnumbered, we needed to develop a new means of warfare based on tactics including ambush, hit-and-run, and mobility.
 
@@ -72,7 +72,7 @@ But no one had seen the incandescent rage that had taken over Kong, who, until n
 
 His plan was simple: kill every human that refused to leave the city. Simply put, a bloodbath at the hands of the Apes, sparing the ones that we’re smart enough to run and punishing the ones that stood their ground.
 
-![Only one rule according to Kong: run or get killed.](https://miro.medium.com/max/750/1\*xsHzdGYdcWxIK-0-FYGO6g.png)
+![Only one rule according to Kong: run or get killed.](https://miro.medium.com/max/750/1*xsHzdGYdcWxIK-0-FYGO6g.png)
 
 Kong felt that the other ideas were too soft for him and that the humans would never learn their lesson. This caused quite an argument between Ape Lincoln, Jo, and Kong, and a scuffle broke out. No one knows exactly what happened next but, in the scuffle, Kong was fatally injured and Jo and Ri decided in an instant to carry on Kong’s legacy by taking his name. Enraged by Kong’s passing, the apes now known as Jokong and Rikong independently ganged up and decided to attack the city with one thing in mind, absolute domination.
 
@@ -82,17 +82,17 @@ Knowing he had no choice, Ape Lincoln tagged along with a hidden agenda to ensur
 
 All with numerous apes by their sides, Jokong, Rikong, and Ape Lincoln poured into the city. Ape Lincoln tapped into the human communication channels and started spreading propaganda warning of the attack and urging the humans to surrender peacefully or flee. He later settled in one of the more civilized districts taking it as his own with the humans, overall, accepting their new cohabitants.
 
-![Ape Lincoln keeping it honest](https://miro.medium.com/max/750/1\*4FPZbgGWHF0mQptw\_aZM0Q.png)
+![Ape Lincoln keeping it honest](https://miro.medium.com/max/750/1*4FPZbgGWHF0mQptw_aZM0Q.png)
 
 Rikong took control of the farms, holding parts of the city under siege, and Jokong went straight for the $GANG treasury. Meanwhile, Kong’s crew — in an act of confusion without the guidance of their leader — tore through the upper districts only to find a ghost town abandoned by humans who had chosen to heed Ape Lincoln’s advice.
 
-![Jokong strikes gold (and $GANG)](https://miro.medium.com/max/750/1\*GxtL6N5fDlFkGwslWYSxBw.png)
+![Jokong strikes gold (and $GANG)](https://miro.medium.com/max/750/1*GxtL6N5fDlFkGwslWYSxBw.png)
 
 After very little resistance and no bloodshed, the humans eventually relinquished control of the city to the apes. But there was a new problem arising. New gangs were forming across the city, all with opposing leaders — not just Ape Lincoln, Jokong, and Rikong but apes from across the world coming to stake their claim to the abandoned utopia now named Ape City.
 
 Kong’s old gang, now led by Don V, are the brutes of the city, forming the Ape Mafia gang that terrorizes neighbors and strikes fear into anyone who even thinks about attacking them. Then there is BGB; he and his stylish buddies control the entertainment districts, so they have a lot of power over the other gangs and became nicknamed the Sessy gang for apparent reasons.
 
-![Sinful entertainment](https://miro.medium.com/max/750/1\*zO-jO8JQci8QqGRYDLR64A.png)
+![Sinful entertainment](https://miro.medium.com/max/750/1*zO-jO8JQci8QqGRYDLR64A.png)
 
 And what about Ape Lincoln, I hear you ask? Well, he serves as the perfect example of why apes have got to be both strong and smart in this new world. He held his district for a time, protecting the humans residing within, but with resources spread thin and too few apes by his side, an enemy gang from the far side of the city attacked, forcing Lincoln to flee into the sewers. Still, he awaits the moment where he can emerge and take control once more.
 
@@ -102,143 +102,54 @@ But there are more gangs, many more. Ones that use wacky technologies, ones with
 
 Over time allegiances were built, and gangs evolved, but too many tried to be victorious and rivalry was getting out of control. Ape City was teeming with sin and apes, like BGB, were amassing fortunes through degenerate secretive activities.
 
-![Enter at your own risk!](https://miro.medium.com/max/750/1\*zO-jO8JQci8QqGRYDLR64A.png)
+![Enter at your own risk!](https://miro.medium.com/max/750/1*zO-jO8JQci8QqGRYDLR64A.png)
 
 On November 1st 1993, the strongest Gang Leaders decided to convene a Leaders Council and discuss the fate of Ape City. They voted to build a fortified $GANG treasury for gangs wanting to protect their wealth. Knowing that apes will be apes, the Leaders Council developed Gang Wars as a means to distribute scarce resources amongst the strongest gangs. They also decided to start supporting worthy causes to help restore & rebuild environments damaged by the humans.
 
-![In Ape City, the strongest gangs get first picks](https://miro.medium.com/max/750/1\*TdtOEUw2xAKIpr8QRDA0og.png)
+![In Ape City, the strongest gangs get first picks](https://miro.medium.com/max/750/1*TdtOEUw2xAKIpr8QRDA0og.png)
 
 The winning gangs are granted access to Ape City’s treasury and first pick of trusted jaguar companions. Apes use jaguars to help their next level of evolutionary prowess. Jaguars can be used for fusing and breeding, allowing apes to have strong feline allies in their ongoing battles with the opposing gangs. The exceptionally victorious few will create [Legendary Jaguars](https://opensea.io/collection/jaguar-gang) and breed [Legendary Cubs](https://opensea.io/collection/jaguar-gang). Thus, expanding the strength of their gang’s arsenal and accumulating more precious resources.
 
-![Jaguars are known for knowing how important they are](https://miro.medium.com/max/625/1\*23qwH4Q85bTNYgEDKqSAMw.png)
+![Jaguars are known for knowing how important they are](https://miro.medium.com/max/625/1*23qwH4Q85bTNYgEDKqSAMw.png)
 
 Over time, Gang Wars became somewhat of a regular event in Ape City. Picture a weird kind of Olympics with all-out warfare between rival gangs, fielding battle-ready apes, toucans, and jaguars - collated by capability and traits - and led by intrepid Gang Leaders.
 
-![WE LIVE TO FIGHT ANOTHER DAY](https://miro.medium.com/max/875/1\*pJGNHFdGRFngwNzNTeTi8A.png)
+![WE LIVE TO FIGHT ANOTHER DAY](https://miro.medium.com/max/875/1*pJGNHFdGRFngwNzNTeTi8A.png)
 
 ## Chapter 6: The Future
 
 The year is 2022. Ape City has prospered in times of peace and the streets are overflowing with $GANG. But all is not well. Myself, Bozo, and the now grey-haired leaders Ape Lincoln, Jokong, and Rikong have noticed a shift in human activity surrounding Ape City. They are once again encroaching on the outskirts of our territories.
 
-![The streets are overflowing with $GANG](https://miro.medium.com/max/750/1\*GxtL6N5fDlFkGwslWYSxBw.png)
+![The streets are overflowing with $GANG](https://miro.medium.com/max/750/1*GxtL6N5fDlFkGwslWYSxBw.png)
 
 But Ape City’s biggest threat comes from within. The new generation of apes has grown complacent after years of living in abundance. And their newfound riches are diminishing their allegiance to Ape City. Only a few devoted young bloods remain. The likes of Lulu, Kong Junior, and Brigitte. Across the board, ape values and culture are fading into oblivion.
 
-![A few devoted young bloods remain steadfast](https://miro.medium.com/max/875/1\*aVmzVAZ\_zVBixOpog0FU2Q.jpeg)
+![A few devoted young bloods remain steadfast](https://miro.medium.com/max/875/1*aVmzVAZ_zVBixOpog0FU2Q.jpeg)
 
 Hence, the Leaders Council has embarked on a mission to consolidate the support of the remaining active inhabitants of Ape City and circumvent any future conflicts with the humans. We have allocated a huge chunk of our treasury to integrate ape values & culture into the core of Human Society. Future conflict can only be avoided if apes succeed in becoming a valuable part of the everyday life of humans. Be it fashion, music, gaming, and social interaction, humans will crave anything ape. How are we going to achieve this?
 
-#### Fight Club is the answer <a href="#e50e" id="e50e"></a>
+### Fight Club is the answer <a href="#e50e" id="e50e"></a>
 
 In [Fight Club](https://apegang.art/fight) there’s no hiding behind the strength of your gang. This is 1 vs 1 at its best. Squaring off against an opponent, be it human or ape, lays the foundation for mutual respect and acknowledgement of cultural differences.
 
-* 1st Rule: You do not talk about Fight Club.&#x20;
-* 2nd Rule: You DO NOT talk about Fight Club, but you should tweet about it.&#x20;
-* 3rd Rule: If you get REKT don't cry.
-* 4th Rule: Only two apes to a fight.
-* 5th Rule: One fight at a time but 12 per day.&#x20;
-* 6th Rule: No shirts, no shoes, but tails allowed.&#x20;
-* 7th Rule: Fights will go on as long as they have to, but each week lasts 5 days.&#x20;
-* 8th Rule: If this is your first night at Fight Club, you HAVE to fight.
+**1st RULE:** You do not talk about FIGHT CLUB.\
+**2nd RULE:** You DO NOT talk about FIGHT CLUB but you should TWEET about it.\
+**3rd RULE:** If you get REKT in the 1st League, don’t cry things will evolve.\
+**4th RULE:** Only two apes to a fight.\
+**5th RULE:** One fight at a time but 12 per day.\
+**6th RULE:** No shirts, no shoes, but tails allowed.\
+**7th RULE:** Fights will go on as long as they have to, but each league last 2 weeks.\
+**8th RULE:** If this is your first night at FIGHT CLUB, you HAVE to fight.
 
-#### **Big changes are coming to Ape City** <a href="#9ba5" id="9ba5"></a>
+### **Big changes are coming to Ape City** <a href="#id-9ba5" id="id-9ba5"></a>
 
 Overproduction of $GANG could be a thing of the past
 
 Ape City is overflowing with $GANG but with fewer apes around there comes a time when it’s no longer prudent to continue producing $GANG from ganganite. The Leaders Council is closely monitoring the financial state of Ape City and is ready to take action sooner than later.
 
-![What happened to the mountains of $GANG?](https://miro.medium.com/max/875/1\*8aCrzMLhOrfB2O92a4y8Mg.png)
+![What happened to the mountains of $GANG?](https://miro.medium.com/max/875/1*8aCrzMLhOrfB2O92a4y8Mg.png)
 
-#### The times of exuberant building have passed <a href="#be65" id="be65"></a>
+### The times of exuberant building have passed <a href="#be65" id="be65"></a>
 
 For many years the Leaders Council adopted a “Build, Build, Build” approach to keep Ape City relevant in an increasingly complex world. Given the current situation, and having already successfully built a strong foundation for future growth, the Leaders Council has wisely chosen to consolidate & prioritize efforts around initiatives that bring the most value to Ape City and its $GANG economy.
 
-## Chapter 7: The Threat From Within
-
-Throughout time, the history of Ape City has been shaped by the conflict between Apes and Humans. We left off with Ape City facing a generational crisis with an abundance of $GANG putting our values and culture on the line. Instead of Humans, the biggest threat came from within. My name is Bozo and I…….&#x20;
-
-> \*Commotion, loud screams and deep growling\*
->
-> Wait! What’s going on? Why are you doing this? I thought we had an understanding.&#x20;
-
-Listen up Ape City! My name is J. L. Rover and I represent the Jaguars. We have always enjoyed living alongside apes, but enough is enough. Apes have hoarded the riches found within the Ganganite ore and most importantly you have lost sight of the values we all used to share back in the good years of Ape City.&#x20;
-
-![The Good Years](https://miro.medium.com/max/750/1\*My4gJbg1ekDxk-mOJLH5iQ.png)
-
-We Jaguars now demand a fair share of the riches you have selfishly amassed. We want something better for our little ones and now that we’ve gained strength through fusing, we have decided to challenge apes for the leadership of Ape City.&#x20;
-
-We believe in the old ways of giving control to the strongest and most worthy. So, instead of all out warfare, which would lay destruction to our beloved city, we have taken control over the $GANG treasury and removed power from the Leader’s Council.&#x20;
-
-<figure><img src="../../.gitbook/assets/ApeGangBanner1.png" alt=""><figcaption><p><em>Jaguars vs Apes</em></p></figcaption></figure>
-
-If apes want a shot of regaining control of Ape City they will have to prove themselves in Fight Club and Gang Wars.
-
-## Chapter 8: Weakness lies in the eyes of the beholder
-
-Bozo here reporting from behind the scenes.&#x20;
-
-> It's been a while since the leader of the Jaguars, J.L. Rover, and his posse of battle hardened Jaguar fighters took over Ape City’s council and the $GANG vault.
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>The Jaguars have complete control over Ape City</p></figcaption></figure>
-
-Besides randomly picking fights with worthy apes and spending their newfound riches on any performance enhancers they can get their paws on, Jaguars haven’t made much of an impact as the new leaders of Ape City.
-
-It sure feels like the noble premise for their takeover (“apes have lost sight of the values we all used to share back in the good years of Ape City. We’re bringing back the old ways….blah-blah-blah”) was just an excuse to get their paws on our $GANG reserves.
-
-Anyhow, life goes on. And as always apes have adapted fast to the new reality. We still enjoy our morning banana baguettes and croissants at Wake and Bake bakery and we started faking injuries to avoid the endless fighting.
-
-
-
-_But during late nights in secret locations spread around the city, it’s a different story._
-
-## Chapter 9: Late night strolls and red pulsating lights
-
-Every Ape knows The Scientist but The Scientist doesn’t know every ape. This is not a deliberate choice but rather a consequence of his dedication to scientific research. When you’ve been spending every waking hour developing cures for paperhanditis and shiny object syndrome, personal relations naturally come second.
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The Scientist ape stumbled upon a sewer entrance with a faint red glow from deep within</p></figcaption></figure>
-
-That being said, The Scientist wasn’t oblivious to the changes to Ape City after the coup by J.L. Rover and his Jaguar posse. It just didn’t bother him too much. Jaguars only harassed strong apes and The Scientist had never partaken in anything resembling a fight. Except for trolling flat-earthers and conspiracy theorists on Twatter; the preferred social media platform for pretty much anyone in Ape City and surrounding cities. But that’s a different story altogether.
-
-The Scientist had few interests besides — well — science. One of them being late night strolls through deserted streets of Ape City to clear his mind and let the creative juices flow.
-
-On one such stroll he suddenly heard the faint echoes of a loud commotion coming from deep within an uninhabited & derelict part of Ape City known amongst Apes as Kong’s Betrayal.
-
-Inquisitive by nature, The Scientist followed the sound through abandoned buildings and hidden alleyways and — finally — stumbled across an altogether incredible spectacle: a swarm of critters fleeing from a seemingly abandoned sewer outlet.
-
-_As he came closer he noticed faint pulsating red lights emanating from the outlet and felt a sudden urge to crawl inside…._
-
-## Chapter 10: What we need is weapons! <a href="#1801" id="1801"></a>
-
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*SQj8nGVYPzsY9GVRuuz7Kg.png" alt=""><figcaption><p>What we need is weapons!</p></figcaption></figure>
-
-You might have realised by now that Ape Lincoln is a brilliant scientist hiding underground in the sewers below Ape City. Here, he conducts secret experiments to make apes stronger and regain control over the city.
-
-Regaining control, however, is only the first phase. After many years of watching Ape City from below, Ape Lincoln is now fanatical that a purge is needed to achieve his vision of a fair-minded Ape City without corruption. A balanced society where apes, jaguars, and toucans share riches found within Ganganite ores and collaboratively maintain technological supremacy to keep humans at bay.
-
-Ape Lincoln is well aware that a single ape can’t move mountains. So, lately he started preparing a short list of worthy apes to join his cause.
-
-One such ape is The Scientist. Having eyes and ears everywhere, Ape Lincoln knew that the Jaguars were planning to recruit The Scientist for a new weapons development program. And they had a squeeze on him.
-
-Fast forward to where we left off in chapter 9 with The Scientist trying to resist the urge of following the pulsating red light into the sewers. This had of course been an effort masterminded by Ape Lincoln to get one on-one-time with The Scientist. And it was clearly working as intended because before long The Scientist started following the mesmerising light leading to Ape Lincolns lab.
-
-_And so they met. Ape City’s most brilliant minds. And at some point during their conversation The Scientist exclaimed:_
-
-> _“WHAT WE NEED IS WEAPONS!”._
-
-## Chapter 11: Free Bird!? <a href="#09bb" id="09bb"></a>
-
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*Gw8H64S8UoPeDOjLM8U1qA.png" alt=""><figcaption><p>Free Bird!?</p></figcaption></figure>
-
-Remember Bozo? Ape City’s grey haired narrator. Well, here’s something you didn’t know about him.
-
-Ever since Bozo first laid his eyes on Ganganite crystals he’d been obsessed with understanding the origins and lifecycle of this immensely powerful force of nature.
-
-Much more so than regular inhabitants of Ape City. They just enjoyed participating in the weekly burn parties where toucan souls were set free while their scorched shells lined the temple walls with ultra pure Ganganite.
-
-Ever since the [Toucan blaze in 1979](./#chapter-2-the-toucan-blaze-anno-1979), toucans continued to set their finest specimens ablaze on a weekly basis. No one really knew why. And frankly, no one really cared as long as Ganganite was flowing.
-
-No one, except Bozo who had been obsessed with ancient toucan lore since 1979 and now stood in front of a major breakthrough.
-
-Bozo could hardly contain his excitement. This answered everything. The toucan sacrifices. Why toucan souls were always seen flying in the same direction deep into the jungle. The Ganganite connection.
-
-> _And then it dawned on him._
